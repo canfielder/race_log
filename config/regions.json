@@ -1,0 +1,8 @@
+{
+    "South East": ["North Carolina", "South Carolina", "Virginia", "Georgia", "Florida", "Tennessee", "Alabama", "Mississippi"],
+    "North East": ["Maine", "New Hampshire", "Vermont", "Massachusetts", "Rhode Island", "Connecticut", "New York", "Pennsylvania", "New Jersey", "Delaware", "Maryland"],
+    "Midwest": ["Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "North Dakota", "South Dakota", "Nebraska", "Kansas"],
+    "West Coast": ["California", "Oregon", "Washington"],
+    "Southwest": ["Arizona", "New Mexico", "Texas", "Oklahoma"],
+    "Rocky Mountains": ["Colorado", "Utah", "Nevada", "Montana", "Idaho", "Wyoming"]
+}

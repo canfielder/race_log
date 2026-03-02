@@ -1,0 +1,1030 @@
+﻿		Corporate/Public Service - Overall									
+Place	Bib	Name	Distance	Category	Time	Place in category	Difference	% Back	% Winning	% Average	% Median
+1	487	NB Game of Foams	Corporate/Public Service	Mixed	25:13:57.0	1	-	-	100%	16.09%	16.84%
+2	416	Pratt &amp; Whitney Afterburners	Corporate/Public Service	Men	25:45:37.2	1	+31:40.2	+2.09%	97.95%	14.34%	15.10%
+3	102	Runners Drugs &amp; Money - Alpha	Corporate/Public Service	Men	27:21:40.8	2	+2:07:43.8	+8.44%	92.22%	9.01%	9.83%
+4	101	Runners Drugs &amp; Money - Beta	Corporate/Public Service	Men	27:23:16.7	3	+2:09:19.7	+8.54%	92.13%	8.92%	9.74%
+5	292	Team Ora	Corporate/Public Service	Mixed	27:36:57.7	2	+2:23:00.7	+9.45%	91.37%	8.17%	8.99%
+6	287	The Fast and the Fouriers	Corporate/Public Service	Men	28:15:19.3	4	+3:01:22.3	+11.98%	89.30%	6.04%	6.88%
+7	397	Ally Financial	Corporate/Public Service	Men	28:57:25.9	5	+3:43:28.9	+14.76%	87.14%	3.71%	4.57%
+8	165	RUN MCC	Corporate/Public Service	Mixed	30:08:08.1	3	+4:54:11.1	+19.43%	83.73%	-0.21%	0.68%
+9	289	Huron Crazy Legs	Corporate/Public Service	Men	30:32:58.7	6	+5:19:01.7	+21.07%	82.60%	-1.59%	-0.68%
+10	367	Sanborn Head	Corporate/Public Service	Mixed	30:40:42.8	4	+5:26:45.8	+21.58%	82.25%	-2.02%	-1.11%
+11	259	Haas Dental	Corporate/Public Service	Mixed	32:06:46.4	5	+6:52:49.4	+27.27%	78.57%	-6.79%	-5.83%
+12	88	FIA: Running our Assets Off	Corporate/Public Service	Men	32:32:26.5	7	+7:18:29.5	+28.96%	77.54%	-8.21%	-7.24%
+13	338	Medtronic Heart &amp; Soles	Corporate/Public Service	Mixed	32:33:59.9	6	+7:20:02.9	+29.07%	77.48%	-8.30%	-7.33%
+14	31	One Time At Van Camp...	Corporate/Public Service	Mixed	33:08:22.6	7	+7:54:25.6	+31.34%	76.14%	-10.20%	-9.22%
+15	414	Steam Punks &amp; Ash Kickers	Corporate/Public Service	Mixed	33:40:42.4	8	+8:26:45.4	+33.47%	74.92%	-11.99%	-10.99%
+16	18	RUN PUC	Corporate/Public Service	Mixed	35:10:34.5	9	+9:56:37.5	+39.41%	71.73%	-16.97%	-15.93%
+											
+		Freestyle - Overall									
+Place	Bib	Name	Distance	Category	Time	Place in category	Difference	% Back	% Winning	% Average	% Median
+1	42	Kale And Quinwhaaat?	Freestyle	Mixed	26:46:03.6	1	-	-	100%	18.60%	18.49%
+2	9	Fruit Baskets	Freestyle	Mixed	26:47:01.8	2	+0:58.2	+0.06%	99.94%	18.55%	18.44%
+3	6	Uncle Filthys Scrambled Leggs	Freestyle	Mixed	27:34:27.7	3	+48:24.1	+3.01%	97.07%	16.15%	16.04%
+4	96	Uncle Filthys Kissin Cousins	Freestyle	Mixed	27:51:53.3	4	+1:05:49.7	+4.10%	96.06%	15.27%	15.15%
+5	16	We Got The Runs	Freestyle	Mixed	28:22:54.5	5	+1:36:50.9	+6.03%	94.31%	13.69%	13.58%
+6	86	Blood Sweat &amp; Beers	Freestyle	Mixed	28:33:05.5	6	+1:47:01.9	+6.66%	93.75%	13.18%	13.06%
+7	14	The Muddy Calves	Freestyle	Mixed	28:36:03.8	7	+1:50:00.2	+6.85%	93.59%	13.03%	12.91%
+8	380	Team Rocket	Freestyle	Mixed	28:48:37.9	8	+2:02:34.3	+7.63%	92.91%	12.39%	12.27%
+9	431	Reach the Bathroom	Freestyle	Men	28:51:48.1	1	+2:05:44.5	+7.83%	92.74%	12.23%	12.11%
+10	32	Bushwacker Racing Team	Freestyle	Men	28:51:55.9	2	+2:05:52.3	+7.84%	92.73%	12.22%	12.10%
+11	470	Keeping Our Day Jobs	Freestyle	Mixed	28:58:42.4	9	+2:12:38.8	+8.26%	92.37%	11.88%	11.76%
+12	405	Ultra Dead Last Ducks	Freestyle	Mixed Ultra	29:08:03.3	1	+2:21:59.7	+8.84%	91.88%	11.41%	11.29%
+13	127	Nights Watch	Freestyle	Mixed	29:20:23.5	10	+2:34:19.9	+9.61%	91.23%	10.78%	10.66%
+14	191	Running Peeps	Freestyle	Mixed	29:33:51.7	11	+2:47:48.1	+10.45%	90.54%	10.10%	9.98%
+15	115	Bad Runners...Great Hockey!	Freestyle	Mixed	29:39:38.6	12	+2:53:35.0	+10.81%	90.25%	9.81%	9.68%
+16	351	Cambridge Fire Department	Freestyle	Men	29:40:00.0	3	+2:53:56.4	+10.83%	90.23%	9.79%	9.67%
+17	410	The Clydesdales	Freestyle	Men	29:40:10.7	4	+2:54:07.1	+10.84%	90.22%	9.78%	9.66%
+18	349	CAA Ultra	Freestyle	Men Ultra	29:43:20.7	1	+2:57:17.1	+11.04%	90.06%	9.62%	9.50%
+19	150	Are We Out of the Woods Yet?	Freestyle	Mixed	29:45:41.8	13	+2:59:38.2	+11.18%	89.94%	9.50%	9.38%
+20	310	HAIR OF THE DOG! PART DEUX	Freestyle	Men Ultra	29:52:50.8	2	+3:06:47.2	+11.63%	89.58%	9.14%	9.01%
+21	116	Run Sleep or Drive	Freestyle	Men	29:58:33.3	5	+3:12:29.7	+11.99%	89.30%	8.85%	8.72%
+22	257	Against Medical Advice	Freestyle	Men	30:09:32.5	6	+3:23:28.9	+12.67%	88.76%	8.29%	8.17%
+23	10	No Sleep Till Hampton	Freestyle	Men	30:12:37.0	7	+3:26:33.4	+12.86%	88.60%	8.13%	8.01%
+24	233	Between a Walk and a Hard Pace_Kwolek	Freestyle	Mixed	30:25:12.2	14	+3:39:08.6	+13.64%	87.99%	7.50%	7.37%
+25	488	NB Blind Chicken	Freestyle	Men	30:28:44.4	8	+3:42:40.8	+13.86%	87.82%	7.32%	7.19%
+26	221	Molecular Misfits	Freestyle	Mixed	30:29:29.8	15	+3:43:26.2	+13.91%	87.79%	7.28%	7.15%
+27	25	Dublin School	Freestyle	Men	30:30:26.2	9	+3:44:22.6	+13.97%	87.74%	7.23%	7.11%
+28	443	Speed Kills	Freestyle	Mixed	30:32:33.8	16	+3:46:30.2	+14.10%	87.64%	7.12%	7.00%
+29	184	Team Zachry	Freestyle	Men	30:38:45.3	10	+3:52:41.7	+14.49%	87.34%	6.81%	6.68%
+30	475	Harpoon	Freestyle	Men	30:40:04.7	11	+3:54:01.1	+14.57%	87.28%	6.74%	6.62%
+31	490	Cake Walk	Freestyle	Mixed	30:40:22.1	17	+3:54:18.5	+14.59%	87.27%	6.73%	6.60%
+32	117	Sole Mates	Freestyle	Mixed	30:47:07.4	18	+4:01:03.8	+15.01%	86.95%	6.39%	6.26%
+33	136	Syracuse 12-pack	Freestyle	Mixed	30:47:51.7	19	+4:01:48.1	+15.06%	86.91%	6.35%	6.22%
+34	394	PERFECT STRANGERS	Freestyle	Mixed	30:48:52.8	20	+4:02:49.2	+15.12%	86.87%	6.30%	6.17%
+35	391	A Flock of Seagulls	Freestyle	Men	30:56:57.6	12	+4:10:54.0	+15.62%	86.49%	5.89%	5.76%
+36	5	FAT BETTY	Freestyle	Mixed Ultra	30:58:23.5	2	+4:12:19.9	+15.71%	86.42%	5.81%	5.69%
+37	285	Assorted Dozen	Freestyle	Mixed	30:58:53.7	21	+4:12:50.1	+15.74%	86.40%	5.79%	5.66%
+38	427	Ground Effect	Freestyle	Men	31:03:46.8	13	+4:17:43.2	+16.05%	86.17%	5.54%	5.41%
+39	192	Where the Rubber Meets the Rhode	Freestyle	Women	31:06:45.9	1	+4:20:42.3	+16.23%	86.03%	5.39%	5.26%
+40	312	The Pascagoula Runners	Freestyle	Mixed	31:09:56.7	22	+4:23:53.1	+16.43%	85.89%	5.23%	5.10%
+41	90	Hurts So Good	Freestyle	Mixed	31:13:54.5	23	+4:27:50.9	+16.68%	85.71%	5.03%	4.90%
+42	378	Slappin Da Pace	Freestyle	Men Ultra	31:15:13.6	3	+4:29:10.0	+16.76%	85.65%	4.96%	4.83%
+43	477	Stupid Running Friends	Freestyle	Men	31:18:17.8	14	+4:32:14.2	+16.95%	85.51%	4.81%	4.68%
+44	143	Hoppy Daze	Freestyle	Men	31:18:29.6	15	+4:32:26.0	+16.96%	85.50%	4.80%	4.67%
+45	196	Team Flannel	Freestyle	Men	31:30:31.2	16	+4:44:27.6	+17.71%	84.95%	4.19%	4.06%
+46	407	Heat Chameleons	Freestyle	Men	31:37:12.9	17	+4:51:09.3	+18.13%	84.65%	3.85%	3.72%
+47	364	Shenanigans in the Van Again	Freestyle	Men	31:38:32.5	18	+4:52:28.9	+18.21%	84.59%	3.78%	3.65%
+48	457	RumRunners	Freestyle	Mixed	31:40:00.9	24	+4:53:57.3	+18.30%	84.53%	3.70%	3.57%
+49	290	Hannahs Irish Bombers	Freestyle	Mixed	31:43:43.0	25	+4:57:39.4	+18.53%	84.36%	3.52%	3.39%
+50	85	E. Norma Snockers	Freestyle	Women	31:44:48.0	2	+4:58:44.4	+18.60%	84.32%	3.46%	3.33%
+51	43	Rungry Like The Wolf	Freestyle	Men	31:48:10.6	19	+5:02:07.0	+18.81%	84.17%	3.29%	3.16%
+52	222	Miles Sweat and Beers	Freestyle	Men	31:51:55.9	20	+5:05:52.3	+19.04%	84.00%	3.10%	2.97%
+53	151	#WeAreDumb	Freestyle	Mixed	31:53:28.1	26	+5:07:24.5	+19.14%	83.93%	3.02%	2.89%
+54	280	Meat Sweats &amp; Mosquito Bites	Freestyle	Mixed	32:01:17.6	27	+5:15:14.0	+19.63%	83.59%	2.63%	2.49%
+55	188	GoGo Girls	Freestyle	Women	32:04:34.6	3	+5:18:31.0	+19.83%	83.45%	2.46%	2.33%
+56	421	Guacamole	Freestyle	Mixed	32:05:03.9	28	+5:19:00.3	+19.86%	83.43%	2.43%	2.30%
+57	89	Dancin With The Cars	Freestyle	Mixed	32:06:56.7	29	+5:20:53.1	+19.98%	83.35%	2.34%	2.21%
+58	37	Jeremys Bootcamp Team 1	Freestyle	Mixed	32:08:59.7	30	+5:22:56.1	+20.11%	83.26%	2.24%	2.10%
+59	228	Crazy Train	Freestyle	Mixed	32:14:07.8	31	+5:28:04.2	+20.43%	83.04%	1.98%	1.84%
+60	59	Hartfords &amp; Company	Freestyle	Men	32:14:22.0	21	+5:28:18.4	+20.44%	83.03%	1.96%	1.83%
+61	212	Hustle for that Muscle	Freestyle	Women	32:19:05.0	4	+5:33:01.4	+20.74%	82.83%	1.72%	1.59%
+62	472	12 Broke Batesies	Freestyle	Women	32:19:52.4	5	+5:33:48.8	+20.78%	82.79%	1.68%	1.55%
+63	393	Changes in Latitude Changes in Attitude	Freestyle	Mixed	32:20:26.0	32	+5:34:22.4	+20.82%	82.77%	1.66%	1.52%
+64	318	Run like the Wind/Pick up the Pace	Freestyle	Mixed	32:22:06.8	33	+5:36:03.2	+20.92%	82.70%	1.57%	1.44%
+65	68	SauceBossWingNut	Freestyle	Men	32:24:06.4	22	+5:38:02.8	+21.05%	82.61%	1.47%	1.34%
+66	164	SharksWithFrickinLaserBeamsAttachedToThe	Freestyle	Mixed	32:27:34.9	34	+5:41:31.3	+21.26%	82.46%	1.29%	1.16%
+67	306	Ultra Sloths	Freestyle	Men Ultra	32:28:54.0	4	+5:42:50.4	+21.35%	82.41%	1.23%	1.09%
+68	432	CrabLanders	Freestyle	Men	32:33:27.1	23	+5:47:23.5	+21.63%	82.22%	1.00%	0.86%
+69	362	Running with the Night	Freestyle	Mixed	32:44:23.5	35	+5:58:19.9	+22.31%	81.76%	0.44%	0.31%
+70	211	Rogue Run: A Downhill Story	Freestyle	Mixed	32:44:40.4	36	+5:58:36.8	+22.33%	81.75%	0.43%	0.29%
+71	214	�Carriage Town Runners	Freestyle	Mixed	32:44:46.5	37	+5:58:42.9	+22.34%	81.74%	0.42%	0.29%
+72	225	Nevertheless They Persisted	Freestyle	Mixed	32:45:49.0	38	+5:59:45.4	+22.40%	81.70%	0.37%	0.24%
+73	73	Brew Crew	Freestyle	Mixed	32:45:53.6	39	+5:59:50.0	+22.40%	81.70%	0.37%	0.23%
+74	373	Cape Crusaders	Freestyle	Men Ultra	32:47:59.6	5	+6:01:56.0	+22.54%	81.61%	0.26%	0.12%
+75	347	Team Mike McNeil - NES	Freestyle	Mixed	32:48:35.7	40	+6:02:32.1	+22.57%	81.58%	0.23%	0.09%
+76	121	Crazy Bastards	Freestyle	Men	32:52:18.5	24	+6:06:14.9	+22.80%	81.43%	0.04%	-0.09%
+77	48	Blood Guts &amp; Glory	Freestyle	Women	32:57:33.4	6	+6:11:29.8	+23.13%	81.21%	-0.23%	-0.36%
+78	268	Run like a Canadian	Freestyle	Mixed	33:00:16.2	41	+6:14:12.6	+23.30%	81.10%	-0.36%	-0.50%
+79	13	And again and again and again?!?	Freestyle	Men	33:08:08.5	25	+6:22:04.9	+23.79%	80.78%	-0.76%	-0.90%
+80	168	Reebok Ragnarians 1 Wehawesome Sauce	Freestyle	Mixed	33:10:37.1	42	+6:24:33.5	+23.94%	80.68%	-0.89%	-1.02%
+81	194	Just 4 Fun	Freestyle	Mixed	33:12:07.7	43	+6:26:04.1	+24.04%	80.62%	-0.96%	-1.10%
+82	114	CPR (Cool People Running)	Freestyle	Mixed	33:17:37.8	44	+6:31:34.2	+24.38%	80.40%	-1.24%	-1.38%
+83	80	Shepley Bulfinch	Freestyle	Mixed	33:18:01.5	45	+6:31:57.9	+24.41%	80.38%	-1.26%	-1.40%
+84	340	Run Free or Die Trying	Freestyle	Mixed	33:18:31.7	46	+6:32:28.1	+24.44%	80.36%	-1.29%	-1.42%
+85	52	Beaches United	Freestyle	Mixed	33:23:40.4	47	+6:37:36.8	+24.76%	80.16%	-1.55%	-1.69%
+86	82	Team RBF	Freestyle	Women	33:23:58.0	7	+6:37:54.4	+24.78%	80.14%	-1.56%	-1.70%
+87	456	We Smell Ultra Bad	Freestyle	Men Ultra	33:25:45.6	6	+6:39:42.0	+24.89%	80.07%	-1.65%	-1.79%
+88	38	Jeremys Bootcamp Team 2	Freestyle	Mixed	33:26:00.2	48	+6:39:56.6	+24.90%	80.06%	-1.67%	-1.80%
+89	243	RTB 4 lyfe!	Freestyle	Mixed	33:26:34.4	49	+6:40:30.8	+24.94%	80.04%	-1.70%	-1.83%
+90	146	Glaze On	Freestyle	Men	33:27:29.3	26	+6:41:25.7	+24.99%	80.00%	-1.74%	-1.88%
+91	294	Run Track Minds	Freestyle	Mixed	33:29:06.8	50	+6:43:03.2	+25.10%	79.94%	-1.82%	-1.96%
+92	163	Blood Guts and Glory	Freestyle	Mixed	33:36:22.8	51	+6:50:19.2	+25.55%	79.65%	-2.19%	-2.33%
+93	219	Nevertheless We Persisted	Freestyle	Mixed	33:38:20.4	52	+6:52:16.8	+25.67%	79.57%	-2.29%	-2.43%
+94	87	Foxy Ladies	Freestyle	Women	33:45:03.1	8	+6:58:59.5	+26.09%	79.31%	-2.63%	-2.77%
+95	167	Dump and Run	Freestyle	Mixed	33:47:14.9	53	+7:01:11.3	+26.22%	79.22%	-2.74%	-2.88%
+96	419	On the Rocks	Freestyle	Men	33:48:33.5	27	+7:02:29.9	+26.31%	79.17%	-2.81%	-2.95%
+97	160	Irish Feet Are Running Again	Freestyle	Men	33:49:41.6	28	+7:03:38.0	+26.38%	79.13%	-2.87%	-3.01%
+98	454	Reach The Beer	Freestyle	Men	33:51:00.6	29	+7:04:57.0	+26.46%	79.08%	-2.93%	-3.07%
+99	26	The Knights who say Ni!	Freestyle	Mixed	33:54:34.9	54	+7:08:31.3	+26.68%	78.94%	-3.12%	-3.25%
+100	333	Frequent Flyers	Freestyle	Mixed	33:56:01.4	55	+7:09:57.8	+26.77%	78.88%	-3.19%	-3.33%
+101	461	The Misfits	Freestyle	Mixed	34:01:51.4	56	+7:15:47.8	+27.13%	78.66%	-3.48%	-3.62%
+102	348	--tbd--	Freestyle	Men	34:07:58.1	30	+7:21:54.5	+27.52%	78.42%	-3.79%	-3.93%
+103	374	Undertrained &amp; Overconfident	Freestyle	Mixed	34:09:43.6	57	+7:23:40.0	+27.62%	78.35%	-3.88%	-4.02%
+104	403	Flocking Flamingos	Freestyle	Mixed	34:16:06.4	58	+7:30:02.8	+28.02%	78.11%	-4.21%	-4.35%
+105	138	Suck It Up Buttercup!	Freestyle	Men	34:16:36.2	31	+7:30:32.6	+28.05%	78.09%	-4.23%	-4.37%
+106	149	Monsters of the Midway...Wait Were Only 	Freestyle	Mixed	34:19:11.4	59	+7:33:07.8	+28.21%	77.99%	-4.36%	-4.50%
+107	368	We B.E.E.R	Freestyle	Men	34:21:00.3	32	+7:34:56.7	+28.33%	77.93%	-4.45%	-4.60%
+107	369	We B.E.E.R too	Freestyle	Men	34:21:00.3	32	+7:34:56.7	+28.33%	77.93%	-4.45%	-4.60%
+109	342	Resting Beach Faces	Freestyle	Mixed	34:21:48.2	60	+7:35:44.6	+28.38%	77.90%	-4.50%	-4.64%
+110	207	Keeping Up with the Kids	Freestyle	Mixed	34:24:14.1	61	+7:38:10.5	+28.53%	77.80%	-4.62%	-4.76%
+111	54	Need for Speed	Freestyle	Mixed	34:24:21.7	62	+7:38:18.1	+28.54%	77.80%	-4.62%	-4.77%
+112	135	The Running Dead	Freestyle	Men	34:28:22.8	34	+7:42:19.2	+28.79%	77.65%	-4.83%	-4.97%
+113	97	Just Keep Running	Freestyle	Mixed	34:31:32.3	63	+7:45:28.7	+28.98%	77.53%	-4.99%	-5.13%
+114	237	Red Threaded Step Children	Freestyle	Men	34:32:10.2	35	+7:46:06.6	+29.02%	77.51%	-5.02%	-5.16%
+115	424	This Game of Tag Sucks	Freestyle	Mixed	34:33:16.9	64	+7:47:13.3	+29.09%	77.46%	-5.08%	-5.22%
+116	433	NES Heroes Vs. Villians	Freestyle	Mixed	34:38:40.8	65	+7:52:37.2	+29.43%	77.26%	-5.35%	-5.49%
+117	476	Vans on the Run	Freestyle	Women	34:38:47.3	9	+7:52:43.7	+29.43%	77.26%	-5.36%	-5.50%
+118	35	Where the Wild Things Run	Freestyle	Men	34:38:51.2	36	+7:52:47.6	+29.44%	77.26%	-5.36%	-5.50%
+119	154	Kiss My Asphalt	Freestyle	Women	34:40:13.2	10	+7:54:09.6	+29.52%	77.21%	-5.43%	-5.57%
+120	366	Everybodys On the Run	Freestyle	Men	34:41:47.3	37	+7:55:43.7	+29.62%	77.15%	-5.51%	-5.65%
+121	319	Just Run With It	Freestyle	Mixed	34:43:03.4	66	+7:56:59.8	+29.70%	77.10%	-5.57%	-5.71%
+122	236	BOB SHOULD BE HERE!!	Freestyle	Men	34:47:10.5	38	+8:01:06.9	+29.96%	76.95%	-5.78%	-5.92%
+123	489	I Want My MTV (Medal Tee-Shirt & Victory	Freestyle	Women	34:52:34.8	11	+8:06:31.2	+30.29%	76.75%	-6.06%	-6.20%
+124	467	Blood Sweat &amp; Beers_Snowman	Freestyle	Mixed	34:54:07.5	67	+8:08:03.9	+30.39%	76.69%	-6.13%	-6.28%
+125	112	KARL STORZ Endomaniacs 1	Freestyle	Men	35:02:16.4	39	+8:16:12.8	+30.90%	76.40%	-6.55%	-6.69%
+126	145	120 Toes	Freestyle	Mixed	35:02:28.1	68	+8:16:24.5	+30.91%	76.39%	-6.56%	-6.70%
+127	350	No Sleep Til Hampton!	Freestyle	Women	35:05:30.6	12	+8:19:27.0	+31.10%	76.28%	-6.71%	-6.85%
+128	113	KARL STORZ Endomaniacs 2	Freestyle	Men	35:14:34.7	40	+8:28:31.1	+31.66%	75.95%	-7.17%	-7.31%
+129	76	#youareit	Freestyle	Mixed	35:18:33.8	69	+8:32:30.2	+31.91%	75.81%	-7.37%	-7.52%
+130	429	irish Feet Are Running Again	Freestyle	Women	35:28:11.0	13	+8:42:07.4	+32.51%	75.47%	-7.86%	-8.00%
+131	200	Resting Beach Face_Harrington	Freestyle	Mixed	35:29:27.4	70	+8:43:23.8	+32.59%	75.42%	-7.92%	-8.07%
+132	325	NSKA- Dont Think Just Do	Freestyle	Mixed	35:37:21.9	71	+8:51:18.3	+33.08%	75.14%	-8.32%	-8.47%
+133	46	Rock Your Body	Freestyle	Mixed	35:37:59.6	72	+8:51:56.0	+33.12%	75.12%	-8.36%	-8.50%
+134	293	The Kingstonians	Freestyle	Mixed	35:39:04.8	73	+8:53:01.2	+33.19%	75.08%	-8.41%	-8.56%
+135	65	Dozen Eggs with Legs!	Freestyle	Men	35:41:13.6	41	+8:55:10.0	+33.32%	75.01%	-8.52%	-8.67%
+136	204	Sisters by Relaytion	Freestyle	Women	35:45:32.2	14	+8:59:28.6	+33.59%	74.86%	-8.74%	-8.89%
+137	478	The Stampeding Turtles	Freestyle	Men	35:50:59.2	42	+9:04:55.6	+33.93%	74.67%	-9.02%	-9.16%
+138	100	Griswold Family Ragnar	Freestyle	Men	35:55:26.7	43	+9:09:23.1	+34.21%	74.51%	-9.24%	-9.39%
+139	215	SLOW BUT NOT STEADY	Freestyle	Mixed	36:27:54.8	74	+9:41:51.2	+36.23%	73.41%	-10.89%	-11.04%
+140	158	Well Catch Up With You Later	Freestyle	Men	36:34:23.2	44	+9:48:19.6	+36.63%	73.19%	-11.21%	-11.36%
+141	288	Bucket Listers	Freestyle	Mixed	36:41:24.0	75	+9:55:20.4	+37.07%	72.96%	-11.57%	-11.72%
+142	271	Bunch of Boobs	Freestyle	Mixed	36:47:07.9	76	+10:01:04.3	+37.43%	72.77%	-11.86%	-12.01%
+143	41	Between a Walk and a Hard Pace	Freestyle	Mixed	36:51:04.8	77	+10:05:01.2	+37.67%	72.64%	-12.06%	-12.21%
+144	175	Ragnerds	Freestyle	Mixed	36:54:50.2	78	+10:08:46.6	+37.90%	72.51%	-12.25%	-12.40%
+145	246	TCRC PEEPS	Freestyle	Mixed	37:08:43.3	79	+10:22:39.7	+38.77%	72.06%	-12.95%	-13.11%
+146	201	Unleashed	Freestyle	Men	37:14:10.2	45	+10:28:06.6	+39.11%	71.89%	-13.23%	-13.38%
+147	422	Gonna Get Beach Slapped!!	Freestyle	Men	39:18:58.9	46	+12:32:55.3	+46.88%	68.08%	-19.56%	-19.72%
+148	277	Sole Sisters And A Mister	Freestyle	Men	41:16:38.8	47	+14:30:35.2	+54.21%	64.85%	-25.52%	-25.69%
+149	464	Nuts N Honeys	Freestyle	Mixed	41:16:54.3	80	+14:30:50.7	+54.22%	64.84%	-25.53%	-25.70%
+150	383	Beach Better Have My Medal	Freestyle	Men	41:17:17.4	48	+14:31:13.8	+54.25%	64.83%	-25.55%	-25.72%
+-	370	Wishin We Had Chicken	Freestyle	Men	DNF		-	-	-	-	-
+-	389	NES Hitchhikers Guide to Ragnar	Freestyle	Mixed	DNF		-	-	-	-	-
+											
+		Masters - Overall									
+Place	Bib	Name	Distance	Category	Time	Place in category	Difference	% Back	% Winning	% Average	% Median
+1	404	Running Joke	Masters	Mixed	25:55:17.4	1	-	-	100%	16.46%	15.68%
+2	60	Grin &amp; Polar Bear It	Masters	Mixed	28:11:11.7	2	+2:15:54.3	+8.74%	91.96%	9.16%	8.31%
+3	261	Fellowship of the Bubblewrap	Masters	Men	28:49:56.8	1	+2:54:39.4	+11.23%	89.90%	7.08%	6.21%
+4	47	Dogtown Hounds	Masters	Men Ultra	29:09:36.7	1	+3:14:19.3	+12.49%	88.89%	6.02%	5.14%
+5	356	Turtleback Trail Runners	Masters	Mixed	29:12:02.4	3	+3:16:45.0	+12.65%	88.77%	5.89%	5.01%
+6	300	Moms Gone Miles	Masters	Women	29:38:16.8	1	+3:42:59.4	+14.34%	87.46%	4.48%	3.59%
+7	303	The Sunday Runs	Masters	Mixed	29:47:00.2	4	+3:51:42.8	+14.90%	87.03%	4.01%	3.12%
+8	79	Sons of Beaches	Masters	Men Ultra	29:56:52.3	2	+4:01:34.9	+15.53%	86.56%	3.48%	2.58%
+9	445	The New Hip River Runners	Masters	Mixed	30:03:24.9	5	+4:08:07.5	+15.95%	86.24%	3.13%	2.23%
+10	107	Beer View Mirrors	Masters	Men	30:21:08.6	2	+4:25:51.2	+17.09%	85.40%	2.18%	1.27%
+11	128	With.To.For.	Masters	Mixed Ultra	30:30:17.4	1	+4:35:00.0	+17.68%	84.98%	1.69%	0.77%
+12	105	Sweet Escape	Masters	Women	30:43:27.9	2	+4:48:10.5	+18.53%	84.37%	0.98%	0.05%
+13	110	Chasing Vermeer	Masters	Women	30:45:29.4	3	+4:50:12.0	+18.66%	84.28%	0.87%	-0.05%
+14	74	50 is the new 30	Masters	Mixed	31:27:00.2	6	+5:31:42.8	+21.33%	82.42%	-1.36%	-2.31%
+15	220	Schweddys Beach Balls	Masters	Mixed	31:39:46.6	7	+5:44:29.2	+22.15%	81.87%	-2.05%	-3.00%
+16	176	Ultra Agony of Duhfeet	Masters	Mixed Ultra	32:20:45.1	2	+6:25:27.7	+24.78%	80.14%	-4.25%	-5.22%
+17	278	Concord Grapes	Masters	Women	32:22:27.6	4	+6:27:10.2	+24.89%	80.07%	-4.34%	-5.31%
+18	66	Highlander Project	Masters	Mixed	32:26:48.2	8	+6:31:30.8	+25.17%	79.89%	-4.57%	-5.55%
+19	142	Dont Wait For Us	Masters	Men	32:30:36.3	3	+6:35:18.9	+25.42%	79.73%	-4.78%	-5.75%
+20	248	Van Down by the River	Masters	Mixed	32:34:55.7	9	+6:39:38.3	+25.70%	79.56%	-5.01%	-5.99%
+21	122	Sistas With Blistas	Masters	Women	32:44:15.5	5	+6:48:58.1	+26.30%	79.18%	-5.51%	-6.49%
+22	126	Almost First	Masters	Mixed	33:16:25.6	10	+7:21:08.2	+28.36%	77.90%	-7.24%	-8.24%
+23	270	12 Angry Glutes	Masters	Women	34:29:09.4	6	+8:33:52.0	+33.04%	75.17%	-11.15%	-12.18%
+24	205	Midd Mamas	Masters	Women Ultra	35:43:47.4	1	+9:48:30.0	+37.84%	72.55%	-15.15%	-16.23%
+											
+		Open - Overall									
+Place	Bib	Name	Distance	Category	Time	Place in category	Difference	% Back	% Winning	% Average	% Median
+1	213	Cutters	Open	Men	19:13:22.4	1	-	-	100%	38.17%	38.80%
+2	458	H.C. Goats - Rise of Koiseptember	Open	Men	20:53:11.8	2	+1:39:49.4	+8.65%	92.03%	32.81%	33.51%
+3	19	Mixed Nuts 2.0	Open	Men	20:58:29.7	3	+1:45:07.3	+9.11%	91.65%	32.53%	33.22%
+4	486	The Boys TC	Open	Men	21:43:55.4	4	+2:30:33.0	+13.05%	88.45%	30.09%	30.81%
+5	170	Reebok Ragnarians 4	Open	Men	23:10:25.5	5	+3:57:03.1	+20.55%	82.95%	25.46%	26.22%
+6	453	Easier Said Than Run: The Adirondack Inv	Open	Mixed	23:19:13.0	1	+4:05:50.6	+21.32%	82.43%	24.99%	25.76%
+7	92	Old Goats	Open	Men	23:25:21.3	6	+4:11:58.9	+21.85%	82.07%	24.66%	25.43%
+8	479	Northeastern University Club Running	Open	Mixed	23:30:57.6	2	+4:17:35.2	+22.33%	81.74%	24.36%	25.14%
+9	417	We 2 Are Groot	Open	Men	23:58:06.8	7	+4:44:44.4	+24.69%	80.20%	22.90%	23.69%
+10	329	Fanny Pack	Open	Men	24:39:41.1	8	+5:26:18.7	+28.29%	77.95%	20.67%	21.49%
+11	71	Baba Yaga	Open	Women	24:59:42.5	1	+5:46:20.1	+30.03%	76.91%	19.60%	20.43%
+12	428	Atlas Shrugged	Open	Men	25:11:38.2	9	+5:58:15.8	+31.06%	76.30%	18.96%	19.79%
+13	390	Hobby Joggers Track Club	Open	Men	25:11:47.1	10	+5:58:24.7	+31.08%	76.29%	18.95%	19.79%
+14	459	The Other Team	Open	Mixed	25:28:33.5	3	+6:15:11.1	+32.53%	75.45%	18.05%	18.90%
+15	33	Tuck 2017	Open	Men	25:33:57.3	11	+6:20:34.9	+33.00%	75.19%	17.76%	18.61%
+16	193	GURL Boston All-Stars	Open	Men	25:37:18.3	12	+6:23:55.9	+33.29%	75.03%	17.58%	18.43%
+17	195	GURL Boston Hot Messes	Open	Men	25:44:57.8	13	+6:31:35.4	+33.95%	74.65%	17.17%	18.03%
+18	363	Turbocam Blade Runners	Open	Men	26:25:54.1	14	+7:12:31.7	+37.50%	72.73%	14.98%	15.85%
+19	481	Agony of Duhfeet - BP Team A	Open	Mixed	26:29:08.0	4	+7:15:45.6	+37.78%	72.58%	14.80%	15.68%
+20	125	The Chronic	Open	Mixed	26:31:35.5	5	+7:18:13.1	+37.99%	72.47%	14.67%	15.55%
+21	95	Kier Bynres Freedom Runners	Open	Mixed	26:42:16.3	6	+7:28:53.9	+38.92%	71.98%	14.10%	14.98%
+22	371	The Brave Little Toasters	Open	Mixed	26:42:27.6	7	+7:29:05.2	+38.94%	71.98%	14.09%	14.97%
+23	130	Team Resting Beach Face	Open	Men	27:00:07.8	15	+7:46:45.4	+40.47%	71.19%	13.14%	14.04%
+24	265	Civil and Disobedient NHDOT	Open	Men	27:02:54.3	16	+7:49:31.9	+40.71%	71.07%	12.99%	13.89%
+25	494	Agony of Duhfeet � BP Team B	Open	Men	27:13:41.1	17	+8:00:18.7	+41.64%	70.60%	12.42%	13.32%
+26	12	Were Feeling Lucky	Open	Men	27:15:36.7	18	+8:02:14.3	+41.81%	70.52%	12.31%	13.22%
+27	471	Ginkgo Runningworks	Open	Men	27:18:48.8	19	+8:05:26.4	+42.09%	70.38%	12.14%	13.05%
+28	497	Runners Alley Ambassadors	Open	Mixed	27:25:44.5	8	+8:12:22.1	+42.69%	70.08%	11.77%	12.68%
+29	210	The A-Team	Open	Men	27:29:48.2	20	+8:16:25.8	+43.04%	69.91%	11.55%	12.46%
+30	28	Fox Chase Team 1	Open	Men	27:38:18.3	21	+8:24:55.9	+43.78%	69.55%	11.10%	12.01%
+31	29	Fox Chase Team 2	Open	Men	27:54:51.3	22	+8:41:28.9	+45.21%	68.86%	10.21%	11.13%
+32	474	Callys Crew	Open	Men	28:10:28.7	23	+8:57:06.3	+46.57%	68.23%	9.37%	10.30%
+33	352	NH State Parks	Open	Mixed	28:18:39.7	9	+9:05:17.3	+47.28%	67.90%	8.93%	9.87%
+34	49	123 RTB	Open	Men	28:19:23.3	24	+9:06:00.9	+47.34%	67.87%	8.89%	9.83%
+35	283	Wrap and Slap	Open	Mixed	28:25:54.6	10	+9:12:32.2	+47.91%	67.61%	8.54%	9.49%
+36	263	Civil and Disobedient Ultra	Open	Men	28:29:20.4	25	+9:15:58.0	+48.20%	67.47%	8.36%	9.30%
+37	17	#RunActon	Open	Men	28:34:59.9	26	+9:21:37.5	+48.69%	67.25%	8.06%	9.00%
+38	197	#quadgoals	Open	Women	28:35:54.9	2	+9:22:32.5	+48.77%	67.22%	8.01%	8.95%
+39	186	Boot N Relay	Open	Mixed	28:36:53.9	11	+9:23:31.5	+48.86%	67.18%	7.95%	8.90%
+40	355	Cash me outside	Open	Men	28:39:25.8	27	+9:26:03.4	+49.08%	67.08%	7.82%	8.77%
+41	169	Reebok Ragnarians 2	Open	Men	28:40:25.5	28	+9:27:03.1	+49.16%	67.04%	7.76%	8.72%
+42	83	Tactical Nuclear Penguins	Open	Men	28:44:39.6	29	+9:31:17.2	+49.53%	66.88%	7.54%	8.49%
+43	208	Cranial Nerves - Run Like Youre Mile-nat	Open	Mixed	28:45:50.1	12	+9:32:27.7	+49.63%	66.83%	7.47%	8.43%
+44	173	Team Alien Attack	Open	Men	28:52:01.7	30	+9:38:39.3	+50.17%	66.59%	7.14%	8.10%
+45	7	Uncle Filthys Chafin You Down	Open	Mixed	28:53:19.0	13	+9:39:56.6	+50.28%	66.54%	7.07%	8.03%
+46	335	Irish Wake	Open	Men	28:55:18.6	31	+9:41:56.2	+50.46%	66.46%	6.97%	7.93%
+47	311	GS United	Open	Men	28:55:41.3	32	+9:42:18.9	+50.49%	66.45%	6.95%	7.91%
+48	297	out here chafing our dreams &lt;3	Open	Mixed	28:56:54.6	14	+9:43:32.2	+50.59%	66.40%	6.88%	7.84%
+49	345	Covfefe	Open	Mixed	29:01:57.3	15	+9:48:34.9	+51.03%	66.21%	6.61%	7.57%
+50	440	PwC - Deals 14	Open	Men	29:07:59.3	33	+9:54:36.9	+51.55%	65.98%	6.29%	7.25%
+51	495	Blue Steel	Open	Men	29:08:54.6	34	+9:55:32.2	+51.63%	65.95%	6.24%	7.20%
+52	119	MTC Ultras Chasing the Moon	Open	Mixed Ultra	29:13:32.2	1	+10:00:09.8	+52.04%	65.77%	5.99%	6.96%
+53	8	UFHC3	Open	Mixed	29:14:36.4	16	+10:01:14.0	+52.13%	65.73%	5.93%	6.90%
+54	250	Night Stalking Care Bears	Open	Men	29:17:14.4	35	+10:03:52.0	+52.36%	65.64%	5.79%	6.76%
+55	189	Weild Things	Open	Men	29:24:51.3	36	+10:11:28.9	+53.02%	65.35%	5.38%	6.36%
+56	50	Wal-Mart Warriors	Open	Men	29:24:55.5	37	+10:11:33.1	+53.02%	65.35%	5.38%	6.35%
+57	482	Running Behind	Open	Men	29:25:12.2	38	+10:11:49.8	+53.05%	65.34%	5.36%	6.34%
+58	178	Advent 2	Open	Men	29:28:58.9	39	+10:15:36.5	+53.37%	65.20%	5.16%	6.14%
+59	144	Butts Sweat and Beers	Open	Mixed	29:29:51.9	17	+10:16:29.5	+53.45%	65.17%	5.11%	6.09%
+60	179	Advent 3	Open	Men	29:36:45.9	40	+10:23:23.5	+54.05%	64.91%	4.74%	5.73%
+61	78	Petards	Open	Men	29:39:46.3	41	+10:26:23.9	+54.31%	64.80%	4.58%	5.57%
+62	72	Pogue Mo Hara	Open	Men	29:40:18.8	42	+10:26:56.4	+54.36%	64.78%	4.55%	5.54%
+63	275	Hares &amp; Tortoises	Open	Mixed	29:41:36.2	18	+10:28:13.8	+54.47%	64.74%	4.48%	5.47%
+64	255	Outhouse Harriers	Open	Men	29:42:10.8	43	+10:28:48.4	+54.52%	64.72%	4.45%	5.44%
+65	67	Girls Night Out	Open	Women Ultra	29:43:50.5	1	+10:30:28.1	+54.66%	64.66%	4.36%	5.35%
+66	455	Holy Cross NROTC Battalion	Open	Men	29:49:58.0	44	+10:36:35.6	+55.19%	64.44%	4.04%	5.03%
+67	34	Team Chocolate Mile - King Size	Open	Men	29:51:34.7	45	+10:38:12.3	+55.33%	64.38%	3.95%	4.94%
+68	420	The Belles and Their Balls	Open	Mixed	29:54:47.9	19	+10:41:25.5	+55.61%	64.26%	3.78%	4.77%
+69	254	Lock Stock and 24 Smokin Sneakers	Open	Men	29:59:15.4	46	+10:45:53.0	+56.00%	64.10%	3.54%	4.53%
+70	408	Dirty F.O.B.s	Open	Men	29:59:39.0	47	+10:46:16.6	+56.03%	64.09%	3.52%	4.51%
+71	141	JDRF YLC Agony of Duh Feet 2017	Open	Men	30:04:22.5	48	+10:51:00.1	+56.44%	63.92%	3.26%	4.26%
+72	473	SIX03 - Black	Open	Men	30:06:16.5	49	+10:52:54.1	+56.61%	63.85%	3.16%	4.16%
+73	223	Big Booty Hohs	Open	Men	30:06:35.8	50	+10:53:13.4	+56.64%	63.84%	3.15%	4.14%
+74	245	Sole Sisters	Open	Women	30:08:00.6	3	+10:54:38.2	+56.76%	63.79%	3.07%	4.07%
+75	177	Advent 1	Open	Men	30:09:01.3	51	+10:55:38.9	+56.85%	63.76%	3.02%	4.01%
+76	430	Fletcher Runemployed	Open	Men	30:26:54.9	52	+11:13:32.5	+58.40%	63.13%	2.06%	3.06%
+77	262	The Airborne Shuffle	Open	Mixed	30:27:51.9	20	+11:14:29.5	+58.48%	63.10%	2.00%	3.01%
+78	320	Over the Hill RC	Open	Mixed	30:30:47.3	21	+11:17:24.9	+58.73%	63.00%	1.85%	2.86%
+79	209	Serious Laps of Judgement	Open	Mixed	30:30:58.8	22	+11:17:36.4	+58.75%	62.99%	1.84%	2.85%
+80	365	Filthy Shamrocks	Open	Mixed	30:31:09.5	23	+11:17:47.1	+58.77%	62.99%	1.83%	2.84%
+81	258	Agony of Duhfeet	Open	Men	30:35:22.6	53	+11:22:00.2	+59.13%	62.84%	1.60%	2.62%
+82	182	Advent 6	Open	Men	30:35:25.9	54	+11:22:03.5	+59.14%	62.84%	1.60%	2.61%
+83	304	Misfit Running Club	Open	Men	30:37:00.0	55	+11:23:37.6	+59.27%	62.79%	1.52%	2.53%
+84	406	Poop Emoji	Open	Men	30:37:52.1	56	+11:24:29.7	+59.35%	62.76%	1.47%	2.48%
+85	224	Miller Lite	Open	Men	30:38:05.1	57	+11:24:42.7	+59.37%	62.75%	1.46%	2.47%
+86	266	Great Works Sauntering Society	Open	Men	30:38:47.5	58	+11:25:25.1	+59.43%	62.72%	1.42%	2.43%
+87	153	Run Free or Die	Open	Mixed	30:39:32.4	24	+11:26:10.0	+59.49%	62.70%	1.38%	2.40%
+88	286	Simply Fit Training	Open	Men	30:41:28.3	59	+11:28:05.9	+59.66%	62.63%	1.28%	2.29%
+89	203	New Hamp-sure to Win!	Open	Mixed	30:44:04.1	25	+11:30:41.7	+59.88%	62.55%	1.14%	2.15%
+90	375	HyperRunners	Open	Men	30:46:12.8	60	+11:32:50.4	+60.07%	62.47%	1.02%	2.04%
+91	279	Just Between Pubs	Open	Men	30:47:19.1	61	+11:33:56.7	+60.17%	62.44%	0.96%	1.98%
+92	57	No sleep til . . .	Open	Men	30:49:15.2	62	+11:35:52.8	+60.33%	62.37%	0.86%	1.88%
+93	372	Everything Hurts and Running is Impossib	Open	Mixed	30:49:27.3	26	+11:36:04.9	+60.35%	62.36%	0.85%	1.87%
+94	449	Sloan and Steady	Open	Mixed	30:50:17.0	27	+11:36:54.6	+60.42%	62.33%	0.80%	1.82%
+95	264	Civil and Disobedient Regular Joes and J	Open	Men	30:52:49.4	63	+11:39:27.0	+60.64%	62.25%	0.67%	1.69%
+96	423	7B2 Flyers	Open	Men	30:54:28.9	64	+11:41:06.5	+60.79%	62.19%	0.58%	1.60%
+97	492	SIX03 - White	Open	Men	30:55:33.9	65	+11:42:11.5	+60.88%	62.16%	0.52%	1.54%
+98	308	5AM Fun	Open	Mixed Ultra	30:56:09.1	2	+11:42:46.7	+60.93%	62.14%	0.49%	1.51%
+99	11	Block Island Beasts	Open	Mixed	30:56:11.7	28	+11:42:49.3	+60.94%	62.14%	0.49%	1.51%
+100	401	Family Jewells	Open	Men	30:56:23.9	66	+11:43:01.5	+60.95%	62.13%	0.48%	1.50%
+101	413	Its Just for Fun!	Open	Men	30:58:13.1	67	+11:44:50.7	+61.11%	62.07%	0.38%	1.40%
+102	298	Pull It Together!	Open	Mixed	30:58:59.0	29	+11:45:36.6	+61.18%	62.04%	0.34%	1.36%
+103	202	Mountain to Sea We Are Free!	Open	Men	31:03:20.8	68	+11:49:58.4	+61.56%	61.90%	0.10%	1.13%
+104	331	Mustache You Wheres the Beach?	Open	Men	31:05:05.1	69	+11:51:42.7	+61.71%	61.84%	0.01%	1.04%
+105	439	R.I.O.T. (Running Is Our Therapy)	Open	Mixed	31:06:39.2	30	+11:53:16.8	+61.84%	61.79%	-0.07%	0.96%
+106	412	Dysfunctional Descendants	Open	Men	31:08:28.1	70	+11:55:05.7	+62.00%	61.73%	-0.17%	0.86%
+107	180	Advent 4	Open	Men	31:09:05.6	71	+11:55:43.2	+62.05%	61.71%	-0.21%	0.83%
+108	3	Misfit Toys	Open	Men	31:09:35.7	72	+11:56:13.3	+62.10%	61.69%	-0.23%	0.80%
+109	469	How I Met Your Runner	Open	Mixed	31:10:45.6	31	+11:57:23.2	+62.20%	61.65%	-0.29%	0.74%
+110	1	Roof Stomps Road Hazahds	Open	Mixed	31:11:03.1	32	+11:57:40.7	+62.22%	61.64%	-0.31%	0.72%
+111	460	Ukrainian Running Club	Open	Mixed	31:11:27.1	33	+11:58:04.7	+62.26%	61.63%	-0.33%	0.70%
+112	315	Infinite Insanity	Open	Mixed	31:11:55.6	34	+11:58:33.2	+62.30%	61.61%	-0.36%	0.68%
+113	452	Commotion to the Ocean	Open	Men	31:12:53.1	73	+11:59:30.7	+62.38%	61.58%	-0.41%	0.63%
+114	274	Wave Runners	Open	Men	31:12:58.6	74	+11:59:36.2	+62.39%	61.58%	-0.41%	0.62%
+115	379	Trails to Sails	Open	Mixed	31:14:12.7	35	+12:00:50.3	+62.50%	61.54%	-0.48%	0.56%
+116	75	ERC Eggs	Open	Mixed	31:14:14.1	36	+12:00:51.7	+62.50%	61.54%	-0.48%	0.55%
+117	493	Medtronic Transformers	Open	Mixed	31:15:16.5	37	+12:01:54.1	+62.59%	61.50%	-0.54%	0.50%
+118	301	NEMO Equipment	Open	Men	31:16:22.9	75	+12:03:00.5	+62.69%	61.47%	-0.60%	0.44%
+119	442	PwC - Deals 3	Open	Men	31:23:12.0	76	+12:09:49.6	+63.28%	61.25%	-0.96%	0.08%
+120	181	Advent 5	Open	Men	31:23:42.2	77	+12:10:19.8	+63.32%	61.23%	-0.99%	0.05%
+121	64	Praying4U	Open	Men	31:24:40.7	78	+12:11:18.3	+63.41%	61.20%	-1.04%	0.00%
+122	438	Mom....The Meatloaf Running Group	Open	Men	31:29:21.8	79	+12:15:59.4	+63.81%	61.05%	-1.29%	-0.25%
+123	198	Flagrant Foul Smells	Open	Men	31:32:48.5	80	+12:19:26.1	+64.11%	60.93%	-1.48%	-0.43%
+124	339	Better Late then Never	Open	Mixed	31:33:08.7	38	+12:19:46.3	+64.14%	60.92%	-1.50%	-0.45%
+125	276	Sleep When Youre Dead	Open	Mixed	31:34:54.6	39	+12:21:32.2	+64.29%	60.87%	-1.59%	-0.54%
+126	483	SIX03-Red	Open	Men	31:37:27.3	81	+12:24:04.9	+64.51%	60.79%	-1.73%	-0.68%
+127	399	Lindt Milk Chocolate	Open	Men	31:37:39.9	82	+12:24:17.5	+64.53%	60.78%	-1.74%	-0.69%
+128	402	Live Free or Run	Open	Men	31:37:48.8	83	+12:24:26.4	+64.54%	60.77%	-1.75%	-0.70%
+129	376	Chafing the Dream	Open	Men	31:37:55.0	84	+12:24:32.6	+64.55%	60.77%	-1.75%	-0.70%
+130	133	Channel 4 News Team	Open	Men	31:38:41.2	85	+12:25:18.8	+64.62%	60.75%	-1.79%	-0.74%
+131	183	Advent 7	Open	Men	31:42:27.0	86	+12:29:04.6	+64.95%	60.63%	-1.99%	-0.94%
+132	480	East Bound and Down	Open	Men	31:43:49.0	87	+12:30:26.6	+65.07%	60.58%	-2.07%	-1.02%
+133	256	Island Time	Open	Mixed	31:44:09.1	40	+12:30:46.7	+65.09%	60.57%	-2.09%	-1.03%
+134	217	Bull Mccaffrey	Open	Men Ultra	31:46:13.0	1	+12:32:50.6	+65.27%	60.51%	-2.20%	-1.14%
+135	108	Team &quot;One Verizon&quot;	Open	Men	31:51:24.6	88	+12:38:02.2	+65.72%	60.34%	-2.47%	-1.42%
+136	437	Belly full of Jelly	Open	Mixed	31:54:39.9	41	+12:41:17.5	+66.01%	60.24%	-2.65%	-1.59%
+137	302	Zombies on the Run	Open	Men	31:56:20.9	89	+12:42:58.5	+66.15%	60.19%	-2.74%	-1.68%
+138	171	Reebok Ragnarians 3	Open	Men	31:57:18.6	90	+12:43:56.2	+66.23%	60.16%	-2.79%	-1.73%
+139	147	The Beasts	Open	Men	31:57:27.6	91	+12:44:05.2	+66.25%	60.15%	-2.80%	-1.74%
+140	295	Wait I thought we were going apple picki	Open	Mixed	31:58:10.2	42	+12:44:47.8	+66.31%	60.13%	-2.84%	-1.78%
+141	395	Brainshark	Open	Men	31:59:24.5	92	+12:46:02.1	+66.42%	60.09%	-2.90%	-1.84%
+142	496	SIX03- Silver	Open	Men	31:59:51.9	93	+12:46:29.5	+66.46%	60.08%	-2.93%	-1.87%
+143	77	ERC chickens	Open	Men	32:00:33.1	94	+12:47:10.7	+66.52%	60.05%	-2.96%	-1.90%
+144	441	PwC - Deals 2	Open	Men	32:01:07.3	95	+12:47:44.9	+66.57%	60.04%	-2.99%	-1.93%
+145	4	Mind Over Miles	Open	Mixed	32:01:14.8	43	+12:47:52.4	+66.58%	60.03%	-3.00%	-1.94%
+146	185	Blue Monkey	Open	Men	32:04:06.0	96	+12:50:43.6	+66.82%	59.94%	-3.15%	-2.09%
+147	21	Salem Academy Charter School	Open	Mixed	32:04:06.2	44	+12:50:43.8	+66.82%	59.94%	-3.15%	-2.09%
+148	216	MonAmi	Open	Mixed	32:04:40.2	45	+12:51:17.8	+66.87%	59.93%	-3.19%	-2.12%
+149	269	Smells Like Team Spirit	Open	Men	32:11:32.3	97	+12:58:09.9	+67.47%	59.71%	-3.55%	-2.49%
+150	111	french couple team	Open	Men	32:13:40.4	98	+13:00:18.0	+67.65%	59.65%	-3.67%	-2.60%
+151	381	Twelve Shares = One Team	Open	Men	32:15:14.0	99	+13:01:51.6	+67.79%	59.60%	-3.75%	-2.68%
+152	161	Sore for Shore	Open	Men	32:17:28.4	100	+13:04:06.0	+67.98%	59.53%	-3.87%	-2.80%
+153	321	Mountain Dew Me	Open	Mixed	32:18:39.6	46	+13:05:17.2	+68.09%	59.49%	-3.94%	-2.86%
+154	157	Miles to go	Open	Mixed	32:19:14.8	47	+13:05:52.4	+68.14%	59.48%	-3.97%	-2.90%
+155	358	Road Islanders	Open	Men	32:24:23.5	101	+13:11:01.1	+68.58%	59.32%	-4.24%	-3.17%
+156	425	Wine OClock at The 401 Tavern	Open	Men	32:25:11.7	102	+13:11:49.3	+68.65%	59.29%	-4.29%	-3.21%
+157	61	Beaches Be Crazy	Open	Mixed	32:26:09.6	48	+13:12:47.2	+68.74%	59.26%	-4.34%	-3.26%
+158	253	Its Only a 5K Right?	Open	Men	32:28:18.0	103	+13:14:55.6	+68.92%	59.20%	-4.45%	-3.38%
+159	313	How hard could it be?	Open	Men	32:28:41.2	104	+13:15:18.8	+68.96%	59.19%	-4.47%	-3.40%
+160	323	Horrible Hartnetts & Our Insane Friends	Open	Mixed	32:34:42.2	49	+13:21:19.8	+69.48%	59.01%	-4.80%	-3.72%
+161	337	Chicks with Kicks	Open	Women	32:34:49.3	4	+13:21:26.9	+69.49%	59.00%	-4.80%	-3.72%
+162	392	The Pi Group	Open	Mixed	32:36:27.6	50	+13:23:05.2	+69.63%	58.95%	-4.89%	-3.81%
+163	330	Easier Said Than Run_Blanchard	Open	Men	32:37:20.6	105	+13:23:58.2	+69.71%	58.93%	-4.94%	-3.86%
+164	44	Too Stupid to Stop	Open	Men	32:37:53.7	106	+13:24:31.3	+69.75%	58.91%	-4.97%	-3.88%
+165	296	Easier Said Than Run	Open	Mixed	32:40:20.4	51	+13:26:58.0	+69.97%	58.84%	-5.10%	-4.01%
+166	109	6 Degrees	Open	Men	32:40:53.6	107	+13:27:31.2	+70.01%	58.82%	-5.13%	-4.04%
+167	386	Orangetheory Fitness Salem New Hampshire	Open	Men	32:41:59.0	108	+13:28:36.6	+70.11%	58.79%	-5.19%	-4.10%
+168	314	It.Will.Be.Fun	Open	Men	32:44:02.7	109	+13:30:40.3	+70.29%	58.72%	-5.30%	-4.21%
+169	447	Wheres The Beach?	Open	Mixed	32:45:54.1	52	+13:32:31.7	+70.45%	58.67%	-5.40%	-4.31%
+170	187	Flex on the Beach	Open	Men	32:49:07.6	110	+13:35:45.2	+70.73%	58.57%	-5.57%	-4.48%
+171	124	The Hitchhikers	Open	Mixed	32:51:02.2	53	+13:37:39.8	+70.89%	58.52%	-5.67%	-4.58%
+172	398	Lindt White Chocolate	Open	Men	32:51:40.4	111	+13:38:18.0	+70.95%	58.50%	-5.71%	-4.62%
+173	396	Liquor n Run	Open	Men	32:53:47.1	112	+13:40:24.7	+71.13%	58.43%	-5.82%	-4.73%
+174	384	Were not slow just getting our moneys wo	Open	Mixed	32:54:20.0	54	+13:40:57.6	+71.18%	58.42%	-5.85%	-4.76%
+175	415	Stow Pokes	Open	Men	32:57:23.4	113	+13:44:01.0	+71.44%	58.33%	-6.01%	-4.92%
+176	53	Fuster Clucks	Open	Men	32:57:36.1	114	+13:44:13.7	+71.46%	58.32%	-6.02%	-4.93%
+177	451	Boot and Rally	Open	Men	32:59:34.3	115	+13:46:11.9	+71.63%	58.26%	-6.13%	-5.03%
+178	400	Lindt Dark Chocolate	Open	Men	33:00:35.3	116	+13:47:12.9	+71.72%	58.23%	-6.18%	-5.09%
+179	234	Wheres Tyler?!	Open	Mixed Ultra	33:03:39.0	3	+13:50:16.6	+71.99%	58.14%	-6.35%	-5.25%
+180	468	TiredSweatyRunners	Open	Men	33:05:47.3	117	+13:52:24.9	+72.17%	58.08%	-6.46%	-5.36%
+181	123	Johnnylongbraidshangdown	Open	Men	33:12:29.9	118	+13:59:07.5	+72.75%	57.89%	-6.82%	-5.72%
+182	307	Not Fast Just Furious	Open	Men	33:13:44.8	119	+14:00:22.4	+72.86%	57.85%	-6.89%	-5.79%
+183	446	Kraken NH	Open	Mixed	33:14:44.6	55	+14:01:22.2	+72.95%	57.82%	-6.94%	-5.84%
+184	174	W.T.F.? Wheres The Finish?	Open	Men	33:14:51.2	120	+14:01:28.8	+72.96%	57.82%	-6.95%	-5.85%
+185	140	Coming in Hot n Sweaty	Open	Mixed	33:14:54.3	56	+14:01:31.9	+72.96%	57.82%	-6.95%	-5.85%
+186	62	A Connecticut Chafing in King Arthurs Sh	Open	Mixed	33:15:59.7	57	+14:02:37.3	+73.06%	57.78%	-7.01%	-5.91%
+187	316	Keene To Run	Open	Men	33:16:06.5	121	+14:02:44.1	+73.07%	57.78%	-7.02%	-5.91%
+188	20	Ancomcabs	Open	Mixed	33:16:07.2	58	+14:02:44.8	+73.07%	57.78%	-7.02%	-5.91%
+189	235	Manchester Police Ultra	Open	Men Ultra	33:16:11.3	2	+14:02:48.9	+73.07%	57.78%	-7.02%	-5.92%
+190	240	Calumet Team Languedoc	Open	Men	33:17:38.8	122	+14:04:16.4	+73.20%	57.74%	-7.10%	-5.99%
+191	238	Calumet Team Conner	Open	Men	33:17:44.7	123	+14:04:22.3	+73.21%	57.73%	-7.10%	-6.00%
+192	63	Co-Ed Naked Ragnar	Open	Men	33:18:03.0	124	+14:04:40.6	+73.24%	57.72%	-7.12%	-6.02%
+193	341	The Fat and the Furious	Open	Men	33:19:21.7	125	+14:05:59.3	+73.35%	57.69%	-7.19%	-6.09%
+194	282	ADK Loons Got the Runs!	Open	Mixed	33:21:48.4	59	+14:08:26.0	+73.56%	57.62%	-7.32%	-6.21%
+195	435	Run Like an Antelope!	Open	Men	33:23:14.3	126	+14:09:51.9	+73.69%	57.58%	-7.40%	-6.29%
+196	244	Knights Bucket Brigade	Open	Men	33:23:29.2	127	+14:10:06.8	+73.71%	57.57%	-7.41%	-6.30%
+197	69	Barefoot Darwin	Open	Mixed	33:23:44.3	60	+14:10:21.9	+73.73%	57.56%	-7.42%	-6.32%
+198	94	Outer Body	Open	Mixed	33:27:13.2	61	+14:13:50.8	+74.03%	57.46%	-7.61%	-6.50%
+199	241	Calumet Team Arndt	Open	Men	33:31:10.7	128	+14:17:48.3	+74.37%	57.35%	-7.82%	-6.71%
+200	239	Calumet Team Carolyn	Open	Men	33:31:19.8	129	+14:17:57.4	+74.39%	57.34%	-7.83%	-6.72%
+201	388	Helamans Army	Open	Men	33:36:00.1	130	+14:22:37.7	+74.79%	57.21%	-8.08%	-6.97%
+202	328	Team Bring It	Open	Men	33:37:37.3	131	+14:24:14.9	+74.93%	57.16%	-8.17%	-7.05%
+203	55	Wormtown Milers	Open	Mixed	33:39:51.9	62	+14:26:29.5	+75.13%	57.10%	-8.29%	-7.17%
+204	291	The Non-Prophets	Open	Mixed	33:43:51.2	63	+14:30:28.8	+75.47%	56.99%	-8.50%	-7.38%
+205	463	Team Sig Sauer Academy	Open	Men	33:44:21.1	132	+14:30:58.7	+75.52%	56.97%	-8.53%	-7.41%
+206	334	Drinkers with a running problem!	Open	Mixed	33:44:33.0	64	+14:31:10.6	+75.53%	56.97%	-8.54%	-7.42%
+207	249	Calumet Team Ricci	Open	Men	33:46:19.8	133	+14:32:57.4	+75.69%	56.92%	-8.64%	-7.52%
+208	242	Calumet Team Adam	Open	Men	33:47:36.4	134	+14:34:14.0	+75.80%	56.88%	-8.70%	-7.58%
+209	162	The Bar-Belles	Open	Women	33:50:30.8	5	+14:37:08.4	+76.05%	56.80%	-8.86%	-7.74%
+210	199	NSFW	Open	Men	33:52:59.4	135	+14:39:37.0	+76.26%	56.73%	-8.99%	-7.87%
+211	346	Crazy 8	Open	Mixed	34:07:16.5	65	+14:53:54.1	+77.50%	56.34%	-9.76%	-8.63%
+212	227	Shake N Bake	Open	Mixed	34:12:06.5	66	+14:58:44.1	+77.92%	56.20%	-10.02%	-8.88%
+213	484	No Idea	Open	Mixed	34:15:30.1	67	+15:02:07.7	+78.22%	56.11%	-10.20%	-9.06%
+214	344	Banana Assassins	Open	Mixed	34:23:38.8	68	+15:10:16.4	+78.92%	55.89%	-10.64%	-9.50%
+215	359	Team Ian	Open	Mixed	34:36:48.4	69	+15:23:26.0	+80.06%	55.54%	-11.34%	-10.19%
+216	81	Resting Beach Face	Open	Women	34:39:05.6	6	+15:25:43.2	+80.26%	55.47%	-11.46%	-10.32%
+217	36	Run Free or Cry	Open	Mixed	34:41:02.1	70	+15:27:39.7	+80.43%	55.42%	-11.57%	-10.42%
+218	218	Ultra Vicious and Delicious	Open	Women Ultra	34:43:44.4	2	+15:30:22.0	+80.66%	55.35%	-11.71%	-10.56%
+219	409	TEAM LUGG NUTT	Open	Men	34:44:05.8	136	+15:30:43.4	+80.70%	55.34%	-11.73%	-10.58%
+220	15	Running revelers	Open	Men	34:47:02.1	137	+15:33:39.7	+80.95%	55.26%	-11.89%	-10.74%
+221	104	Seagulls Stop it Now!	Open	Mixed	34:48:18.1	71	+15:34:55.7	+81.06%	55.23%	-11.96%	-10.80%
+222	354	Wine OClock at The 401 Tavern	Open	Men	34:50:04.5	138	+15:36:42.1	+81.21%	55.18%	-12.05%	-10.90%
+223	357	Nicholas Angels	Open	Men	34:50:19.7	139	+15:36:57.3	+81.24%	55.18%	-12.07%	-10.91%
+224	129	Seas the Day	Open	Men	34:52:40.5	140	+15:39:18.1	+81.44%	55.11%	-12.19%	-11.04%
+225	382	Relay Runny People	Open	Mixed	34:53:57.2	72	+15:40:34.8	+81.55%	55.08%	-12.26%	-11.10%
+226	230	Rosario and the Pineapple Express	Open	Women	34:55:17.6	7	+15:41:55.2	+81.67%	55.05%	-12.33%	-11.18%
+227	118	Nine Divine Divas41	Open	Women	35:01:13.9	8	+15:47:51.5	+82.18%	54.89%	-12.65%	-11.49%
+228	426	Helamans Warriors	Open	Mixed	35:02:42.3	73	+15:49:19.9	+82.31%	54.85%	-12.73%	-11.57%
+229	387	Loose Screw Athletic Crew	Open	Men	35:03:44.3	141	+15:50:21.9	+82.40%	54.82%	-12.79%	-11.62%
+230	131	Penguins Marching South 2.0	Open	Mixed	35:06:12.5	74	+15:52:50.1	+82.61%	54.76%	-12.92%	-11.75%
+231	465	RUN JMC	Open	Men	35:07:49.3	142	+15:54:26.9	+82.75%	54.72%	-13.00%	-11.84%
+232	267	Deerfield Dirty Dozen Desperados	Open	Mixed	35:21:09.2	75	+16:07:46.8	+83.91%	54.37%	-13.72%	-12.55%
+233	498	Dert Handshake_Banta	Open	Mixed Ultra	35:26:38.0	4	+16:13:15.6	+84.38%	54.23%	-14.01%	-12.84%
+234	58	Lemur 3000	Open	Men	35:27:54.5	143	+16:14:32.1	+84.49%	54.20%	-14.08%	-12.91%
+235	436	Ukrainian Running Club - Ultra Men	Open	Men Ultra	35:45:24.1	3	+16:32:01.7	+86.01%	53.76%	-15.02%	-13.83%
+236	448	RISE SHINE RUN	Open	Mixed	36:10:54.3	76	+16:57:31.9	+88.22%	53.13%	-16.39%	-15.19%
+237	324	No Sleep Till Merlot	Open	Mixed	36:15:06.4	77	+17:01:44.0	+88.59%	53.03%	-16.61%	-15.41%
+238	299	I Thought This Was a 5K	Open	Men	36:22:22.7	144	+17:09:00.3	+89.22%	52.85%	-17.00%	-15.80%
+239	232	Dangerous Curves	Open	Men	36:37:04.4	145	+17:23:42.0	+90.49%	52.50%	-17.79%	-16.58%
+240	156	Try Anything Once	Open	Women Ultra	36:57:56.7	3	+17:44:34.3	+92.30%	52.00%	-18.91%	-17.68%
+241	247	City Year NH	Open	Men	38:01:33.6	146	+18:48:11.2	+97.82%	50.55%	-22.32%	-21.06%
+-	360	Blood Sweat & Beers	Open	Mixed	DNF		-	-	-	-	-
+-	377	F The Warriors	Open	Men	DNF		-	-	-	-	-
+-	24	We Thought They Said Rum	Open	Men	DNS		-	-	-	-	-
+-	45	F Van 2	Open	Men	DNS		-	-	-	-	-
+-	134	The Island of Misfit Runners	Open	Men Ultra	DNS		-	-	-	-	-
+-	231	Rogue Runners	Open	Men	DNS		-	-	-	-	-
+-	251	The Ultra Stomping Turtles	Open	Men	DNS		-	-	-	-	-
+-	272	Dert handshake	Open	Mixed	DNS		-	-	-	-	-
+-	327	Limitless Fitness	Open	Women	DNS		-	-	-	-	-
+											
+		Submasters - Overall									
+Place	Bib	Name	Distance	Category	Time	Place in category	Difference	% Back	% Winning	% Average	% Median
+1	343	Franks Old Boys	Submasters	Men	20:18:27.3	1	-	-	100%	31.54%	30.99%
+2	190	Front Runners NY Ultragays	Submasters	Men Ultra	22:54:59.1	1	+2:36:31.8	+12.85%	88.62%	22.74%	22.12%
+3	56	Tempo al Tempo	Submasters	Men	24:43:24.5	2	+4:24:57.2	+21.75%	82.14%	16.65%	15.98%
+4	30	Fast Men Faster Women	Submasters	Mixed	24:51:21.5	1	+4:32:54.2	+22.40%	81.70%	16.21%	15.53%
+5	98	ERC - Team 9 From Outer Space	Submasters	Men	25:29:30.1	3	+5:11:02.8	+25.53%	79.66%	14.06%	13.37%
+6	444	High Mile .Club	Submasters	Mixed	26:53:06.1	2	+6:34:38.8	+32.39%	75.53%	9.37%	8.63%
+7	326	Wicked 24/7	Submasters	Men	26:54:28.0	4	+6:36:00.7	+32.50%	75.47%	9.29%	8.56%
+8	229	Eastbound and Down	Submasters	Men	27:23:43.9	5	+7:05:16.6	+34.90%	74.13%	7.65%	6.90%
+9	99	What R U Waiting 4?	Submasters	Mixed	28:13:37.4	3	+7:55:10.1	+39.00%	71.94%	4.84%	4.07%
+10	120	Old Men of the Mountains	Submasters	Men	28:29:13.1	6	+8:10:45.8	+40.28%	71.29%	3.97%	3.19%
+11	281	EMOJO	Submasters	Mixed	28:44:57.8	4	+8:26:30.5	+41.57%	70.64%	3.08%	2.30%
+12	84	Gunning for Garrett	Submasters	Men	29:08:18.4	7	+8:49:51.1	+43.49%	69.69%	1.77%	0.98%
+13	418	Twelve Times Dope	Submasters	Mixed	29:10:02.0	5	+8:51:34.7	+43.63%	69.62%	1.67%	0.88%
+14	93	Wait For Us	Submasters	Men Ultra	29:25:31.9	2	+9:07:04.6	+44.90%	69.01%	0.80%	0.00%
+15	411	Moose on the Loose	Submasters	Mixed	30:29:33.4	6	+10:11:06.1	+50.15%	66.60%	-2.80%	-3.63%
+16	317	6 Pack Short	Submasters	Mixed Ultra	30:39:40.0	1	+10:21:12.7	+50.98%	66.23%	-3.36%	-4.20%
+17	434	Rapscallion Racers	Submasters	Mixed	30:52:00.7	7	+10:33:33.4	+52.00%	65.79%	-4.06%	-4.90%
+18	152	The Warriors	Submasters	Mixed	32:15:42.6	8	+11:57:15.3	+58.87%	62.95%	-8.76%	-9.64%
+19	206	Dynamic Dozen	Submasters	Women	32:48:27.7	1	+12:30:00.4	+61.55%	61.90%	-10.60%	-11.49%
+20	385	Tour De Beach	Submasters	Mixed	33:03:46.2	9	+12:45:18.9	+62.81%	61.42%	-11.46%	-12.36%
+21	332	Run All the Miles Drink All the Rum	Submasters	Women Ultra	33:04:01.4	1	+12:45:34.1	+62.83%	61.41%	-11.47%	-12.38%
+22	485	What Happens In The Van Stays In The Van	Submasters	Mixed	33:06:18.0	10	+12:47:50.7	+63.02%	61.34%	-11.60%	-12.50%
+23	22	Wheres Waldo?	Submasters	Women	33:23:33.3	2	+13:05:06.0	+64.43%	60.81%	-12.57%	-13.48%
+24	450	Who said this was a Girls Nite Out?	Submasters	Women	34:08:23.1	3	+13:49:55.8	+68.11%	59.48%	-15.09%	-16.02%
+25	273	No Sleep Till Hampton	Submasters	Women	34:28:26.3	4	+14:09:59.0	+69.76%	58.91%	-16.22%	-17.16%
+26	166	Running From The Kids	Submasters	Women	34:31:54.2	5	+14:13:26.9	+70.04%	58.81%	-16.41%	-17.35%
+27	23	Wheres Wenda?	Submasters	Women	35:22:06.7	6	+15:03:39.4	+74.16%	57.42%	-19.23%	-20.20%
+-	51	Team Chocolate Mile - Fun Size	Submasters	Mixed Ultra	DNF		-	-	-	-	-
+											
+		Corporate/Public Service - Men									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	416	Pratt &amp; Whitney Afterburners	Corporate/Public Service	Men	25:45:37.2		-	-	100%	10.20%	8.83%
+2	102	Runners Drugs &amp; Money - Alpha	Corporate/Public Service	Men	27:21:40.8		+1:36:03.6	+6.21%	94.15%	4.62%	3.16%
+3	101	Runners Drugs &amp; Money - Beta	Corporate/Public Service	Men	27:23:16.7		+1:37:39.5	+6.32%	94.06%	4.53%	3.07%
+4	287	The Fast and the Fouriers	Corporate/Public Service	Men	28:15:19.3		+2:29:42.1	+9.69%	91.17%	1.51%	0.00%
+5	397	Ally Financial	Corporate/Public Service	Men	28:57:25.9		+3:11:48.7	+12.41%	88.96%	-0.94%	-2.48%
+6	289	Huron Crazy Legs	Corporate/Public Service	Men	30:32:58.7		+4:47:21.5	+18.59%	84.32%	-6.49%	-8.12%
+7	88	FIA: Running our Assets Off	Corporate/Public Service	Men	32:32:26.5		+6:46:49.3	+26.32%	79.16%	-13.43%	-15.17%
+											
+		Corporate/Public Service - Mixed									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	487	NB Game of Foams	Corporate/Public Service	Mixed	25:13:57.0		-	-	100%	18.99%	21.43%
+2	292	Team Ora	Corporate/Public Service	Mixed	27:36:57.7		+2:23:00.7	+9.45%	91.37%	11.34%	14.00%
+3	165	RUN MCC	Corporate/Public Service	Mixed	30:08:08.1		+4:54:11.1	+19.43%	83.73%	3.25%	6.16%
+4	367	Sanborn Head	Corporate/Public Service	Mixed	30:40:42.8		+5:26:45.8	+21.58%	82.25%	1.51%	4.47%
+5	259	Haas Dental	Corporate/Public Service	Mixed	32:06:46.4		+6:52:49.4	+27.27%	78.57%	-3.10%	0.00%
+6	338	Medtronic Heart &amp; Soles	Corporate/Public Service	Mixed	32:33:59.9		+7:20:02.9	+29.07%	77.48%	-4.55%	-1.41%
+7	31	One Time At Van Camp...	Corporate/Public Service	Mixed	33:08:22.6		+7:54:25.6	+31.34%	76.14%	-6.39%	-3.20%
+8	414	Steam Punks &amp; Ash Kickers	Corporate/Public Service	Mixed	33:40:42.4		+8:26:45.4	+33.47%	74.92%	-8.12%	-4.88%
+9	18	RUN PUC	Corporate/Public Service	Mixed	35:10:34.5		+9:56:37.5	+39.41%	71.73%	-12.93%	-9.54%
+											
+		Freestyle - Men									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	431	Reach the Bathroom	Freestyle	Men	28:51:48.1		-	-	100%	13.12%	12.55%
+2	32	Bushwacker Racing Team	Freestyle	Men	28:51:55.9		+0:07.8	+0.01%	99.99%	13.11%	12.54%
+3	351	Cambridge Fire Department	Freestyle	Men	29:40:00.0		+48:11.9	+2.78%	97.29%	10.70%	10.11%
+4	410	The Clydesdales	Freestyle	Men	29:40:10.7		+48:22.6	+2.79%	97.28%	10.69%	10.10%
+5	116	Run Sleep or Drive	Freestyle	Men	29:58:33.3		+1:06:45.2	+3.85%	96.29%	9.77%	9.17%
+6	257	Against Medical Advice	Freestyle	Men	30:09:32.5		+1:17:44.4	+4.49%	95.70%	9.22%	8.62%
+7	10	No Sleep Till Hampton	Freestyle	Men	30:12:37.0		+1:20:48.9	+4.67%	95.54%	9.06%	8.46%
+8	488	NB Blind Chicken	Freestyle	Men	30:28:44.4		+1:36:56.3	+5.60%	94.70%	8.25%	7.65%
+9	25	Dublin School	Freestyle	Men	30:30:26.2		+1:38:38.1	+5.70%	94.61%	8.17%	7.56%
+10	184	Team Zachry	Freestyle	Men	30:38:45.3		+1:46:57.2	+6.18%	94.18%	7.75%	7.14%
+11	475	Harpoon	Freestyle	Men	30:40:04.7		+1:48:16.6	+6.25%	94.12%	7.69%	7.08%
+12	391	A Flock of Seagulls	Freestyle	Men	30:56:57.6		+2:05:09.5	+7.23%	93.26%	6.84%	6.22%
+13	427	Ground Effect	Freestyle	Men	31:03:46.8		+2:11:58.7	+7.62%	92.92%	6.50%	5.88%
+14	477	Stupid Running Friends	Freestyle	Men	31:18:17.8		+2:26:29.7	+8.46%	92.20%	5.77%	5.15%
+15	143	Hoppy Daze	Freestyle	Men	31:18:29.6		+2:26:41.5	+8.47%	92.19%	5.76%	5.14%
+16	196	Team Flannel	Freestyle	Men	31:30:31.2		+2:38:43.1	+9.16%	91.60%	5.15%	4.53%
+17	407	Heat Chameleons	Freestyle	Men	31:37:12.9		+2:45:24.8	+9.55%	91.28%	4.82%	4.19%
+18	364	Shenanigans in the Van Again	Freestyle	Men	31:38:32.5		+2:46:44.4	+9.63%	91.22%	4.75%	4.12%
+19	43	Rungry Like The Wolf	Freestyle	Men	31:48:10.6		+2:56:22.5	+10.18%	90.76%	4.27%	3.64%
+20	222	Miles Sweat and Beers	Freestyle	Men	31:51:55.9		+3:00:07.8	+10.40%	90.58%	4.08%	3.45%
+21	59	Hartfords &amp; Company	Freestyle	Men	32:14:22.0		+3:22:33.9	+11.70%	89.53%	2.95%	2.32%
+22	68	SauceBossWingNut	Freestyle	Men	32:24:06.4		+3:32:18.3	+12.26%	89.08%	2.47%	1.82%
+23	432	CrabLanders	Freestyle	Men	32:33:27.1		+3:41:39.0	+12.80%	88.65%	2.00%	1.35%
+24	121	Crazy Bastards	Freestyle	Men	32:52:18.5		+4:00:30.4	+13.89%	87.81%	1.05%	0.40%
+25	13	And again and again and again?!?	Freestyle	Men	33:08:08.5		+4:16:20.4	+14.80%	87.11%	0.26%	-0.40%
+26	146	Glaze On	Freestyle	Men	33:27:29.3		+4:35:41.2	+15.92%	86.27%	-0.71%	-1.38%
+27	419	On the Rocks	Freestyle	Men	33:48:33.5		+4:56:45.4	+17.14%	85.37%	-1.77%	-2.44%
+28	160	Irish Feet Are Running Again	Freestyle	Men	33:49:41.6		+4:57:53.5	+17.20%	85.32%	-1.83%	-2.50%
+29	454	Reach The Beer	Freestyle	Men	33:51:00.6		+4:59:12.5	+17.28%	85.27%	-1.89%	-2.56%
+30	348	--tbd--	Freestyle	Men	34:07:58.1		+5:16:10.0	+18.26%	84.56%	-2.74%	-3.42%
+31	138	Suck It Up Buttercup!	Freestyle	Men	34:16:36.2		+5:24:48.1	+18.76%	84.21%	-3.18%	-3.86%
+32	368	We B.E.E.R	Freestyle	Men	34:21:00.3		+5:29:12.2	+19.01%	84.03%	-3.40%	-4.08%
+32	369	We B.E.E.R too	Freestyle	Men	34:21:00.3		+5:29:12.2	+19.01%	84.03%	-3.40%	-4.08%
+34	135	The Running Dead	Freestyle	Men	34:28:22.8		+5:36:34.7	+19.44%	83.73%	-3.77%	-4.45%
+35	237	Red Threaded Step Children	Freestyle	Men	34:32:10.2		+5:40:22.1	+19.65%	83.57%	-3.96%	-4.64%
+36	35	Where the Wild Things Run	Freestyle	Men	34:38:51.2		+5:47:03.1	+20.04%	83.31%	-4.29%	-4.98%
+37	366	Everybodys On the Run	Freestyle	Men	34:41:47.3		+5:49:59.2	+20.21%	83.19%	-4.44%	-5.13%
+38	236	BOB SHOULD BE HERE!!	Freestyle	Men	34:47:10.5		+5:55:22.4	+20.52%	82.97%	-4.71%	-5.40%
+39	112	KARL STORZ Endomaniacs 1	Freestyle	Men	35:02:16.4		+6:10:28.3	+21.39%	82.38%	-5.47%	-6.16%
+40	113	KARL STORZ Endomaniacs 2	Freestyle	Men	35:14:34.7		+6:22:46.6	+22.10%	81.90%	-6.09%	-6.78%
+41	65	Dozen Eggs with Legs!	Freestyle	Men	35:41:13.6		+6:49:25.5	+23.64%	80.88%	-7.42%	-8.13%
+42	478	The Stampeding Turtles	Freestyle	Men	35:50:59.2		+6:59:11.1	+24.21%	80.51%	-7.91%	-8.62%
+43	100	Griswold Family Ragnar	Freestyle	Men	35:55:26.7		+7:03:38.6	+24.46%	80.35%	-8.14%	-8.85%
+44	158	Well Catch Up With You Later	Freestyle	Men	36:34:23.2		+7:42:35.1	+26.71%	78.92%	-10.09%	-10.82%
+45	201	Unleashed	Freestyle	Men	37:14:10.2		+8:22:22.1	+29.01%	77.51%	-12.09%	-12.82%
+46	422	Gonna Get Beach Slapped!!	Freestyle	Men	39:18:58.9		+10:27:10.8	+36.22%	73.41%	-18.35%	-19.13%
+47	277	Sole Sisters And A Mister	Freestyle	Men	41:16:38.8		+12:24:50.7	+43.01%	69.93%	-24.25%	-25.07%
+48	383	Beach Better Have My Medal	Freestyle	Men	41:17:17.4		+12:25:29.3	+43.05%	69.91%	-24.28%	-25.10%
+-	370	Wishin We Had Chicken	Freestyle	Men	DNF		-	-	-	-	-
+											
+		Freestyle - Men Ultra									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	349	CAA Ultra	Freestyle	Men Ultra	29:43:20.7		-	-	100%	5.93%	6.73%
+2	310	HAIR OF THE DOG! PART DEUX	Freestyle	Men Ultra	29:52:50.8		+9:30.1	+0.53%	99.47%	5.42%	6.23%
+3	378	Slappin Da Pace	Freestyle	Men Ultra	31:15:13.6		+1:31:52.9	+5.15%	95.10%	1.08%	1.93%
+4	306	Ultra Sloths	Freestyle	Men Ultra	32:28:54.0		+2:45:33.3	+9.28%	91.51%	-2.81%	-1.93%
+5	373	Cape Crusaders	Freestyle	Men Ultra	32:47:59.6		+3:04:38.9	+10.35%	90.62%	-3.81%	-2.93%
+6	456	We Smell Ultra Bad	Freestyle	Men Ultra	33:25:45.6		+3:42:24.9	+12.47%	88.91%	-5.81%	-4.90%
+											
+		Freestyle - Mixed									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	42	Kale And Quinwhaaat?	Freestyle	Mixed	26:46:03.6		-	-	100%	18.21%	18.66%
+2	9	Fruit Baskets	Freestyle	Mixed	26:47:01.8		+0:58.2	+0.06%	99.94%	18.16%	18.61%
+3	6	Uncle Filthys Scrambled Leggs	Freestyle	Mixed	27:34:27.7		+48:24.1	+3.01%	97.07%	15.75%	16.21%
+4	96	Uncle Filthys Kissin Cousins	Freestyle	Mixed	27:51:53.3		+1:05:49.7	+4.10%	96.06%	14.86%	15.32%
+5	16	We Got The Runs	Freestyle	Mixed	28:22:54.5		+1:36:50.9	+6.03%	94.31%	13.28%	13.75%
+6	86	Blood Sweat &amp; Beers	Freestyle	Mixed	28:33:05.5		+1:47:01.9	+6.66%	93.75%	12.76%	13.24%
+7	14	The Muddy Calves	Freestyle	Mixed	28:36:03.8		+1:50:00.2	+6.85%	93.59%	12.61%	13.09%
+8	380	Team Rocket	Freestyle	Mixed	28:48:37.9		+2:02:34.3	+7.63%	92.91%	11.97%	12.45%
+9	470	Keeping Our Day Jobs	Freestyle	Mixed	28:58:42.4		+2:12:38.8	+8.26%	92.37%	11.46%	11.94%
+10	127	Nights Watch	Freestyle	Mixed	29:20:23.5		+2:34:19.9	+9.61%	91.23%	10.35%	10.84%
+11	191	Running Peeps	Freestyle	Mixed	29:33:51.7		+2:47:48.1	+10.45%	90.54%	9.67%	10.16%
+12	115	Bad Runners...Great Hockey!	Freestyle	Mixed	29:39:38.6		+2:53:35.0	+10.81%	90.25%	9.37%	9.87%
+13	150	Are We Out of the Woods Yet?	Freestyle	Mixed	29:45:41.8		+2:59:38.2	+11.18%	89.94%	9.07%	9.56%
+14	233	Between a Walk and a Hard Pace_Kwolek	Freestyle	Mixed	30:25:12.2		+3:39:08.6	+13.64%	87.99%	7.05%	7.56%
+15	221	Molecular Misfits	Freestyle	Mixed	30:29:29.8		+3:43:26.2	+13.91%	87.79%	6.83%	7.34%
+16	443	Speed Kills	Freestyle	Mixed	30:32:33.8		+3:46:30.2	+14.10%	87.64%	6.68%	7.19%
+17	490	Cake Walk	Freestyle	Mixed	30:40:22.1		+3:54:18.5	+14.59%	87.27%	6.28%	6.79%
+18	117	Sole Mates	Freestyle	Mixed	30:47:07.4		+4:01:03.8	+15.01%	86.95%	5.94%	6.45%
+19	136	Syracuse 12-pack	Freestyle	Mixed	30:47:51.7		+4:01:48.1	+15.06%	86.91%	5.90%	6.41%
+20	394	PERFECT STRANGERS	Freestyle	Mixed	30:48:52.8		+4:02:49.2	+15.12%	86.87%	5.85%	6.36%
+21	285	Assorted Dozen	Freestyle	Mixed	30:58:53.7		+4:12:50.1	+15.74%	86.40%	5.34%	5.85%
+22	312	The Pascagoula Runners	Freestyle	Mixed	31:09:56.7		+4:23:53.1	+16.43%	85.89%	4.77%	5.29%
+23	90	Hurts So Good	Freestyle	Mixed	31:13:54.5		+4:27:50.9	+16.68%	85.71%	4.57%	5.09%
+24	457	RumRunners	Freestyle	Mixed	31:40:00.9		+4:53:57.3	+18.30%	84.53%	3.24%	3.77%
+25	290	Hannahs Irish Bombers	Freestyle	Mixed	31:43:43.0		+4:57:39.4	+18.53%	84.36%	3.05%	3.58%
+26	151	#WeAreDumb	Freestyle	Mixed	31:53:28.1		+5:07:24.5	+19.14%	83.93%	2.56%	3.09%
+27	280	Meat Sweats &amp; Mosquito Bites	Freestyle	Mixed	32:01:17.6		+5:15:14.0	+19.63%	83.59%	2.16%	2.69%
+28	421	Guacamole	Freestyle	Mixed	32:05:03.9		+5:19:00.3	+19.86%	83.43%	1.97%	2.50%
+29	89	Dancin With The Cars	Freestyle	Mixed	32:06:56.7		+5:20:53.1	+19.98%	83.35%	1.87%	2.41%
+30	37	Jeremys Bootcamp Team 1	Freestyle	Mixed	32:08:59.7		+5:22:56.1	+20.11%	83.26%	1.77%	2.30%
+31	228	Crazy Train	Freestyle	Mixed	32:14:07.8		+5:28:04.2	+20.43%	83.04%	1.51%	2.04%
+32	393	Changes in Latitude Changes in Attitude	Freestyle	Mixed	32:20:26.0		+5:34:22.4	+20.82%	82.77%	1.19%	1.72%
+33	318	Run like the Wind/Pick up the Pace	Freestyle	Mixed	32:22:06.8		+5:36:03.2	+20.92%	82.70%	1.10%	1.64%
+34	164	SharksWithFrickinLaserBeamsAttachedToThe	Freestyle	Mixed	32:27:34.9		+5:41:31.3	+21.26%	82.46%	0.82%	1.36%
+35	362	Running with the Night	Freestyle	Mixed	32:44:23.5		+5:58:19.9	+22.31%	81.76%	-0.03%	0.51%
+36	211	Rogue Run: A Downhill Story	Freestyle	Mixed	32:44:40.4		+5:58:36.8	+22.33%	81.75%	-0.05%	0.49%
+37	214	�Carriage Town Runners	Freestyle	Mixed	32:44:46.5		+5:58:42.9	+22.34%	81.74%	-0.05%	0.49%
+38	225	Nevertheless They Persisted	Freestyle	Mixed	32:45:49.0		+5:59:45.4	+22.40%	81.70%	-0.11%	0.44%
+39	73	Brew Crew	Freestyle	Mixed	32:45:53.6		+5:59:50.0	+22.40%	81.70%	-0.11%	0.43%
+40	347	Team Mike McNeil - NES	Freestyle	Mixed	32:48:35.7		+6:02:32.1	+22.57%	81.58%	-0.25%	0.30%
+41	268	Run like a Canadian	Freestyle	Mixed	33:00:16.2		+6:14:12.6	+23.30%	81.10%	-0.84%	-0.30%
+42	168	Reebok Ragnarians 1 Wehawesome Sauce	Freestyle	Mixed	33:10:37.1		+6:24:33.5	+23.94%	80.68%	-1.37%	-0.82%
+43	194	Just 4 Fun	Freestyle	Mixed	33:12:07.7		+6:26:04.1	+24.04%	80.62%	-1.45%	-0.90%
+44	114	CPR (Cool People Running)	Freestyle	Mixed	33:17:37.8		+6:31:34.2	+24.38%	80.40%	-1.73%	-1.17%
+45	80	Shepley Bulfinch	Freestyle	Mixed	33:18:01.5		+6:31:57.9	+24.41%	80.38%	-1.75%	-1.19%
+46	340	Run Free or Die Trying	Freestyle	Mixed	33:18:31.7		+6:32:28.1	+24.44%	80.36%	-1.77%	-1.22%
+47	52	Beaches United	Freestyle	Mixed	33:23:40.4		+6:37:36.8	+24.76%	80.16%	-2.04%	-1.48%
+48	38	Jeremys Bootcamp Team 2	Freestyle	Mixed	33:26:00.2		+6:39:56.6	+24.90%	80.06%	-2.15%	-1.60%
+49	243	RTB 4 lyfe!	Freestyle	Mixed	33:26:34.4		+6:40:30.8	+24.94%	80.04%	-2.18%	-1.63%
+50	294	Run Track Minds	Freestyle	Mixed	33:29:06.8		+6:43:03.2	+25.10%	79.94%	-2.31%	-1.76%
+51	163	Blood Guts and Glory	Freestyle	Mixed	33:36:22.8		+6:50:19.2	+25.55%	79.65%	-2.68%	-2.12%
+52	219	Nevertheless We Persisted	Freestyle	Mixed	33:38:20.4		+6:52:16.8	+25.67%	79.57%	-2.78%	-2.22%
+53	167	Dump and Run	Freestyle	Mixed	33:47:14.9		+7:01:11.3	+26.22%	79.22%	-3.24%	-2.67%
+54	26	The Knights who say Ni!	Freestyle	Mixed	33:54:34.9		+7:08:31.3	+26.68%	78.94%	-3.61%	-3.05%
+55	333	Frequent Flyers	Freestyle	Mixed	33:56:01.4		+7:09:57.8	+26.77%	78.88%	-3.68%	-3.12%
+56	461	The Misfits	Freestyle	Mixed	34:01:51.4		+7:15:47.8	+27.13%	78.66%	-3.98%	-3.41%
+57	374	Undertrained &amp; Overconfident	Freestyle	Mixed	34:09:43.6		+7:23:40.0	+27.62%	78.35%	-4.38%	-3.81%
+58	403	Flocking Flamingos	Freestyle	Mixed	34:16:06.4		+7:30:02.8	+28.02%	78.11%	-4.71%	-4.14%
+59	149	Monsters of the Midway...Wait Were Only 	Freestyle	Mixed	34:19:11.4		+7:33:07.8	+28.21%	77.99%	-4.86%	-4.29%
+60	342	Resting Beach Faces	Freestyle	Mixed	34:21:48.2		+7:35:44.6	+28.38%	77.90%	-5.00%	-4.43%
+61	207	Keeping Up with the Kids	Freestyle	Mixed	34:24:14.1		+7:38:10.5	+28.53%	77.80%	-5.12%	-4.55%
+62	54	Need for Speed	Freestyle	Mixed	34:24:21.7		+7:38:18.1	+28.54%	77.80%	-5.13%	-4.55%
+63	97	Just Keep Running	Freestyle	Mixed	34:31:32.3		+7:45:28.7	+28.98%	77.53%	-5.49%	-4.92%
+64	424	This Game of Tag Sucks	Freestyle	Mixed	34:33:16.9		+7:47:13.3	+29.09%	77.46%	-5.58%	-5.01%
+65	433	NES Heroes Vs. Villians	Freestyle	Mixed	34:38:40.8		+7:52:37.2	+29.43%	77.26%	-5.85%	-5.28%
+66	319	Just Run With It	Freestyle	Mixed	34:43:03.4		+7:56:59.8	+29.70%	77.10%	-6.08%	-5.50%
+67	467	Blood Sweat &amp; Beers_Snowman	Freestyle	Mixed	34:54:07.5		+8:08:03.9	+30.39%	76.69%	-6.64%	-6.06%
+68	145	120 Toes	Freestyle	Mixed	35:02:28.1		+8:16:24.5	+30.91%	76.39%	-7.07%	-6.48%
+69	76	#youareit	Freestyle	Mixed	35:18:33.8		+8:32:30.2	+31.91%	75.81%	-7.89%	-7.30%
+70	200	Resting Beach Face_Harrington	Freestyle	Mixed	35:29:27.4		+8:43:23.8	+32.59%	75.42%	-8.44%	-7.85%
+71	325	NSKA- Dont Think Just Do	Freestyle	Mixed	35:37:21.9		+8:51:18.3	+33.08%	75.14%	-8.84%	-8.25%
+72	46	Rock Your Body	Freestyle	Mixed	35:37:59.6		+8:51:56.0	+33.12%	75.12%	-8.88%	-8.28%
+73	293	The Kingstonians	Freestyle	Mixed	35:39:04.8		+8:53:01.2	+33.19%	75.08%	-8.93%	-8.34%
+74	215	SLOW BUT NOT STEADY	Freestyle	Mixed	36:27:54.8		+9:41:51.2	+36.23%	73.41%	-11.42%	-10.81%
+75	288	Bucket Listers	Freestyle	Mixed	36:41:24.0		+9:55:20.4	+37.07%	72.96%	-12.10%	-11.50%
+76	271	Bunch of Boobs	Freestyle	Mixed	36:47:07.9		+10:01:04.3	+37.43%	72.77%	-12.40%	-11.79%
+77	41	Between a Walk and a Hard Pace	Freestyle	Mixed	36:51:04.8		+10:05:01.2	+37.67%	72.64%	-12.60%	-11.99%
+78	175	Ragnerds	Freestyle	Mixed	36:54:50.2		+10:08:46.6	+37.90%	72.51%	-12.79%	-12.18%
+79	246	TCRC PEEPS	Freestyle	Mixed	37:08:43.3		+10:22:39.7	+38.77%	72.06%	-13.50%	-12.88%
+80	464	Nuts N Honeys	Freestyle	Mixed	41:16:54.3		+14:30:50.7	+54.22%	64.84%	-26.13%	-25.45%
+-	389	NES Hitchhikers Guide to Ragnar	Freestyle	Mixed	DNF		-	-	-	-	-
+											
+		Freestyle - Mixed Ultra									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	405	Ultra Dead Last Ducks	Freestyle	Mixed Ultra	29:08:03.3		-	-	100%	3.06%	3.06%
+2	5	FAT BETTY	Freestyle	Mixed Ultra	30:58:23.5		+1:50:20.2	+6.31%	94.06%	-3.06%	-3.06%
+											
+		Freestyle - Women									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	192	Where the Rubber Meets the Rhode	Freestyle	Women	31:06:45.9		-	-	100%	7.36%	7.33%
+2	85	E. Norma Snockers	Freestyle	Women	31:44:48.0		+38:02.1	+2.04%	98.00%	5.48%	5.45%
+3	188	GoGo Girls	Freestyle	Women	32:04:34.6		+57:48.7	+3.10%	97.00%	4.50%	4.46%
+4	212	Hustle for that Muscle	Freestyle	Women	32:19:05.0		+1:12:19.1	+3.87%	96.27%	3.78%	3.74%
+5	472	12 Broke Batesies	Freestyle	Women	32:19:52.4		+1:13:06.5	+3.92%	96.23%	3.74%	3.70%
+6	48	Blood Guts &amp; Glory	Freestyle	Women	32:57:33.4		+1:50:47.5	+5.93%	94.40%	1.87%	1.83%
+7	82	Team RBF	Freestyle	Women	33:23:58.0		+2:17:12.1	+7.35%	93.15%	0.56%	0.52%
+8	87	Foxy Ladies	Freestyle	Women	33:45:03.1		+2:38:17.2	+8.48%	92.18%	-0.49%	-0.52%
+9	476	Vans on the Run	Freestyle	Women	34:38:47.3		+3:32:01.4	+11.36%	89.80%	-3.16%	-3.19%
+10	154	Kiss My Asphalt	Freestyle	Women	34:40:13.2		+3:33:27.3	+11.43%	89.74%	-3.23%	-3.26%
+11	489	I Want My MTV (Medal Tee-Shirt & Victory	Freestyle	Women	34:52:34.8		+3:45:48.9	+12.10%	89.21%	-3.84%	-3.88%
+12	350	No Sleep Til Hampton!	Freestyle	Women	35:05:30.6		+3:58:44.7	+12.79%	88.66%	-4.48%	-4.52%
+13	429	irish Feet Are Running Again	Freestyle	Women	35:28:11.0		+4:21:25.1	+14.00%	87.72%	-5.61%	-5.64%
+14	204	Sisters by Relaytion	Freestyle	Women	35:45:32.2		+4:38:46.3	+14.93%	87.01%	-6.47%	-6.50%
+											
+		Masters - Men									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	261	Fellowship of the Bubblewrap	Masters	Men	28:49:56.8		-	-	100%	5.67%	5.01%
+2	107	Beer View Mirrors	Masters	Men	30:21:08.6		+1:31:11.8	+5.27%	94.99%	0.70%	0.00%
+3	142	Dont Wait For Us	Masters	Men	32:30:36.3		+3:40:39.5	+12.76%	88.69%	-6.36%	-7.11%
+											
+		Masters - Men Ultra									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	47	Dogtown Hounds	Masters	Men Ultra	29:09:36.7		-	-	100%	1.33%	1.33%
+2	79	Sons of Beaches	Masters	Men Ultra	29:56:52.3		+47:15.6	+2.70%	97.37%	-1.33%	-1.33%
+											
+		Masters - Mixed									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	404	Running Joke	Masters	Mixed	25:55:17.4		-	-	100%	14.89%	15.71%
+2	60	Grin &amp; Polar Bear It	Masters	Mixed	28:11:11.7		+2:15:54.3	+8.74%	91.96%	7.45%	8.35%
+3	356	Turtleback Trail Runners	Masters	Mixed	29:12:02.4		+3:16:45.0	+12.65%	88.77%	4.12%	5.05%
+4	303	The Sunday Runs	Masters	Mixed	29:47:00.2		+3:51:42.8	+14.90%	87.03%	2.21%	3.15%
+5	445	The New Hip River Runners	Masters	Mixed	30:03:24.9		+4:08:07.5	+15.95%	86.24%	1.31%	2.27%
+6	74	50 is the new 30	Masters	Mixed	31:27:00.2		+5:31:42.8	+21.33%	82.42%	-3.26%	-2.27%
+7	220	Schweddys Beach Balls	Masters	Mixed	31:39:46.6		+5:44:29.2	+22.15%	81.87%	-3.96%	-2.96%
+8	66	Highlander Project	Masters	Mixed	32:26:48.2		+6:31:30.8	+25.17%	79.89%	-6.53%	-5.51%
+9	248	Van Down by the River	Masters	Mixed	32:34:55.7		+6:39:38.3	+25.70%	79.56%	-6.98%	-5.95%
+10	126	Almost First	Masters	Mixed	33:16:25.6		+7:21:08.2	+28.36%	77.90%	-9.25%	-8.20%
+											
+		Masters - Mixed Ultra									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	128	With.To.For.	Masters	Mixed Ultra	30:30:17.4		-	-	100%	2.93%	2.93%
+2	176	Ultra Agony of Duhfeet	Masters	Mixed Ultra	32:20:45.1		+1:50:27.7	+6.04%	94.31%	-2.93%	-2.93%
+											
+		Masters - Women									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	300	Moms Gone Miles	Masters	Women	29:38:16.8		-	-	100%	6.76%	6.11%
+2	105	Sweet Escape	Masters	Women	30:43:27.9		+1:05:11.1	+3.67%	96.46%	3.34%	2.67%
+3	110	Chasing Vermeer	Masters	Women	30:45:29.4		+1:07:12.6	+3.78%	96.36%	3.23%	2.56%
+4	278	Concord Grapes	Masters	Women	32:22:27.6		+2:44:10.8	+9.23%	91.55%	-1.85%	-2.56%
+5	122	Sistas With Blistas	Masters	Women	32:44:15.5		+3:05:58.7	+10.46%	90.53%	-2.99%	-3.71%
+6	270	12 Angry Glutes	Masters	Women	34:29:09.4		+4:50:52.6	+16.36%	85.94%	-8.49%	-9.25%
+											
+		Masters - Women Ultra									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	205	Midd Mamas	Masters	Women Ultra	35:43:47.4		-	-	100%	0.00%	0.00%
+											
+		Open - Men									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	213	Cutters	Open	Men	19:13:22.4		-	-	100%	37.46%	38.42%
+2	458	H.C. Goats - Rise of Koiseptember	Open	Men	20:53:11.8		+1:39:49.4	+8.65%	92.03%	32.05%	33.09%
+3	19	Mixed Nuts 2.0	Open	Men	20:58:29.7		+1:45:07.3	+9.11%	91.65%	31.76%	32.81%
+4	486	The Boys TC	Open	Men	21:43:55.4		+2:30:33.0	+13.05%	88.45%	29.30%	30.38%
+5	170	Reebok Ragnarians 4	Open	Men	23:10:25.5		+3:57:03.1	+20.55%	82.95%	24.61%	25.76%
+6	92	Old Goats	Open	Men	23:25:21.3		+4:11:58.9	+21.85%	82.07%	23.80%	24.96%
+7	417	We 2 Are Groot	Open	Men	23:58:06.8		+4:44:44.4	+24.69%	80.20%	22.02%	23.22%
+8	329	Fanny Pack	Open	Men	24:39:41.1		+5:26:18.7	+28.29%	77.95%	19.77%	21.00%
+9	428	Atlas Shrugged	Open	Men	25:11:38.2		+5:58:15.8	+31.06%	76.30%	18.04%	19.29%
+10	390	Hobby Joggers Track Club	Open	Men	25:11:47.1		+5:58:24.7	+31.08%	76.29%	18.03%	19.28%
+11	33	Tuck 2017	Open	Men	25:33:57.3		+6:20:34.9	+33.00%	75.19%	16.83%	18.10%
+12	193	GURL Boston All-Stars	Open	Men	25:37:18.3		+6:23:55.9	+33.29%	75.03%	16.64%	17.92%
+13	195	GURL Boston Hot Messes	Open	Men	25:44:57.8		+6:31:35.4	+33.95%	74.65%	16.23%	17.51%
+14	363	Turbocam Blade Runners	Open	Men	26:25:54.1		+7:12:31.7	+37.50%	72.73%	14.01%	15.33%
+15	130	Team Resting Beach Face	Open	Men	27:00:07.8		+7:46:45.4	+40.47%	71.19%	12.15%	13.50%
+16	265	Civil and Disobedient NHDOT	Open	Men	27:02:54.3		+7:49:31.9	+40.71%	71.07%	12.00%	13.35%
+17	494	Agony of Duhfeet � BP Team B	Open	Men	27:13:41.1		+8:00:18.7	+41.64%	70.60%	11.42%	12.77%
+18	12	Were Feeling Lucky	Open	Men	27:15:36.7		+8:02:14.3	+41.81%	70.52%	11.31%	12.67%
+19	471	Ginkgo Runningworks	Open	Men	27:18:48.8		+8:05:26.4	+42.09%	70.38%	11.14%	12.50%
+20	210	The A-Team	Open	Men	27:29:48.2		+8:16:25.8	+43.04%	69.91%	10.54%	11.91%
+21	28	Fox Chase Team 1	Open	Men	27:38:18.3		+8:24:55.9	+43.78%	69.55%	10.08%	11.46%
+22	29	Fox Chase Team 2	Open	Men	27:54:51.3		+8:41:28.9	+45.21%	68.86%	9.19%	10.58%
+23	474	Callys Crew	Open	Men	28:10:28.7		+8:57:06.3	+46.57%	68.23%	8.34%	9.74%
+24	49	123 RTB	Open	Men	28:19:23.3		+9:06:00.9	+47.34%	67.87%	7.86%	9.27%
+25	263	Civil and Disobedient Ultra	Open	Men	28:29:20.4		+9:15:58.0	+48.20%	67.47%	7.32%	8.73%
+26	17	#RunActon	Open	Men	28:34:59.9		+9:21:37.5	+48.69%	67.25%	7.01%	8.43%
+27	355	Cash me outside	Open	Men	28:39:25.8		+9:26:03.4	+49.08%	67.08%	6.77%	8.20%
+28	169	Reebok Ragnarians 2	Open	Men	28:40:25.5		+9:27:03.1	+49.16%	67.04%	6.72%	8.14%
+29	83	Tactical Nuclear Penguins	Open	Men	28:44:39.6		+9:31:17.2	+49.53%	66.88%	6.49%	7.92%
+30	173	Team Alien Attack	Open	Men	28:52:01.7		+9:38:39.3	+50.17%	66.59%	6.09%	7.52%
+31	335	Irish Wake	Open	Men	28:55:18.6		+9:41:56.2	+50.46%	66.46%	5.91%	7.35%
+32	311	GS United	Open	Men	28:55:41.3		+9:42:18.9	+50.49%	66.45%	5.89%	7.33%
+33	440	PwC - Deals 14	Open	Men	29:07:59.3		+9:54:36.9	+51.55%	65.98%	5.22%	6.67%
+34	495	Blue Steel	Open	Men	29:08:54.6		+9:55:32.2	+51.63%	65.95%	5.17%	6.62%
+35	250	Night Stalking Care Bears	Open	Men	29:17:14.4		+10:03:52.0	+52.36%	65.64%	4.72%	6.18%
+36	189	Weild Things	Open	Men	29:24:51.3		+10:11:28.9	+53.02%	65.35%	4.31%	5.77%
+37	50	Wal-Mart Warriors	Open	Men	29:24:55.5		+10:11:33.1	+53.02%	65.35%	4.30%	5.77%
+38	482	Running Behind	Open	Men	29:25:12.2		+10:11:49.8	+53.05%	65.34%	4.29%	5.75%
+39	178	Advent 2	Open	Men	29:28:58.9		+10:15:36.5	+53.37%	65.20%	4.08%	5.55%
+40	179	Advent 3	Open	Men	29:36:45.9		+10:23:23.5	+54.05%	64.91%	3.66%	5.13%
+41	78	Petards	Open	Men	29:39:46.3		+10:26:23.9	+54.31%	64.80%	3.50%	4.97%
+42	72	Pogue Mo Hara	Open	Men	29:40:18.8		+10:26:56.4	+54.36%	64.78%	3.47%	4.95%
+43	255	Outhouse Harriers	Open	Men	29:42:10.8		+10:28:48.4	+54.52%	64.72%	3.37%	4.85%
+44	455	Holy Cross NROTC Battalion	Open	Men	29:49:58.0		+10:36:35.6	+55.19%	64.44%	2.95%	4.43%
+45	34	Team Chocolate Mile - King Size	Open	Men	29:51:34.7		+10:38:12.3	+55.33%	64.38%	2.86%	4.34%
+46	254	Lock Stock and 24 Smokin Sneakers	Open	Men	29:59:15.4		+10:45:53.0	+56.00%	64.10%	2.44%	3.93%
+47	408	Dirty F.O.B.s	Open	Men	29:59:39.0		+10:46:16.6	+56.03%	64.09%	2.42%	3.91%
+48	141	JDRF YLC Agony of Duh Feet 2017	Open	Men	30:04:22.5		+10:51:00.1	+56.44%	63.92%	2.16%	3.66%
+49	473	SIX03 - Black	Open	Men	30:06:16.5		+10:52:54.1	+56.61%	63.85%	2.06%	3.56%
+50	223	Big Booty Hohs	Open	Men	30:06:35.8		+10:53:13.4	+56.64%	63.84%	2.04%	3.54%
+51	177	Advent 1	Open	Men	30:09:01.3		+10:55:38.9	+56.85%	63.76%	1.91%	3.41%
+52	430	Fletcher Runemployed	Open	Men	30:26:54.9		+11:13:32.5	+58.40%	63.13%	0.94%	2.46%
+53	258	Agony of Duhfeet	Open	Men	30:35:22.6		+11:22:00.2	+59.13%	62.84%	0.48%	2.01%
+54	182	Advent 6	Open	Men	30:35:25.9		+11:22:03.5	+59.14%	62.84%	0.48%	2.00%
+55	304	Misfit Running Club	Open	Men	30:37:00.0		+11:23:37.6	+59.27%	62.79%	0.39%	1.92%
+56	406	Poop Emoji	Open	Men	30:37:52.1		+11:24:29.7	+59.35%	62.76%	0.35%	1.87%
+57	224	Miller Lite	Open	Men	30:38:05.1		+11:24:42.7	+59.37%	62.75%	0.34%	1.86%
+58	266	Great Works Sauntering Society	Open	Men	30:38:47.5		+11:25:25.1	+59.43%	62.72%	0.30%	1.82%
+59	286	Simply Fit Training	Open	Men	30:41:28.3		+11:28:05.9	+59.66%	62.63%	0.15%	1.68%
+60	375	HyperRunners	Open	Men	30:46:12.8		+11:32:50.4	+60.07%	62.47%	-0.10%	1.43%
+61	279	Just Between Pubs	Open	Men	30:47:19.1		+11:33:56.7	+60.17%	62.44%	-0.16%	1.37%
+62	57	No sleep til . . .	Open	Men	30:49:15.2		+11:35:52.8	+60.33%	62.37%	-0.27%	1.26%
+63	264	Civil and Disobedient Regular Joes and J	Open	Men	30:52:49.4		+11:39:27.0	+60.64%	62.25%	-0.46%	1.07%
+64	423	7B2 Flyers	Open	Men	30:54:28.9		+11:41:06.5	+60.79%	62.19%	-0.55%	0.99%
+65	492	SIX03 - White	Open	Men	30:55:33.9		+11:42:11.5	+60.88%	62.16%	-0.61%	0.93%
+66	401	Family Jewells	Open	Men	30:56:23.9		+11:43:01.5	+60.95%	62.13%	-0.66%	0.88%
+67	413	Its Just for Fun!	Open	Men	30:58:13.1		+11:44:50.7	+61.11%	62.07%	-0.76%	0.79%
+68	202	Mountain to Sea We Are Free!	Open	Men	31:03:20.8		+11:49:58.4	+61.56%	61.90%	-1.03%	0.51%
+69	331	Mustache You Wheres the Beach?	Open	Men	31:05:05.1		+11:51:42.7	+61.71%	61.84%	-1.13%	0.42%
+70	412	Dysfunctional Descendants	Open	Men	31:08:28.1		+11:55:05.7	+62.00%	61.73%	-1.31%	0.24%
+71	180	Advent 4	Open	Men	31:09:05.6		+11:55:43.2	+62.05%	61.71%	-1.35%	0.20%
+72	3	Misfit Toys	Open	Men	31:09:35.7		+11:56:13.3	+62.10%	61.69%	-1.37%	0.18%
+73	452	Commotion to the Ocean	Open	Men	31:12:53.1		+11:59:30.7	+62.38%	61.58%	-1.55%	0.00%
+74	274	Wave Runners	Open	Men	31:12:58.6		+11:59:36.2	+62.39%	61.58%	-1.56%	0.00%
+75	301	NEMO Equipment	Open	Men	31:16:22.9		+12:03:00.5	+62.69%	61.47%	-1.74%	-0.18%
+76	442	PwC - Deals 3	Open	Men	31:23:12.0		+12:09:49.6	+63.28%	61.25%	-2.11%	-0.55%
+77	181	Advent 5	Open	Men	31:23:42.2		+12:10:19.8	+63.32%	61.23%	-2.14%	-0.58%
+78	64	Praying4U	Open	Men	31:24:40.7		+12:11:18.3	+63.41%	61.20%	-2.19%	-0.63%
+79	438	Mom....The Meatloaf Running Group	Open	Men	31:29:21.8		+12:15:59.4	+63.81%	61.05%	-2.44%	-0.88%
+80	198	Flagrant Foul Smells	Open	Men	31:32:48.5		+12:19:26.1	+64.11%	60.93%	-2.63%	-1.06%
+81	483	SIX03-Red	Open	Men	31:37:27.3		+12:24:04.9	+64.51%	60.79%	-2.88%	-1.31%
+82	399	Lindt Milk Chocolate	Open	Men	31:37:39.9		+12:24:17.5	+64.53%	60.78%	-2.89%	-1.32%
+83	402	Live Free or Run	Open	Men	31:37:48.8		+12:24:26.4	+64.54%	60.77%	-2.90%	-1.33%
+84	376	Chafing the Dream	Open	Men	31:37:55.0		+12:24:32.6	+64.55%	60.77%	-2.91%	-1.33%
+85	133	Channel 4 News Team	Open	Men	31:38:41.2		+12:25:18.8	+64.62%	60.75%	-2.95%	-1.38%
+86	183	Advent 7	Open	Men	31:42:27.0		+12:29:04.6	+64.95%	60.63%	-3.15%	-1.58%
+87	480	East Bound and Down	Open	Men	31:43:49.0		+12:30:26.6	+65.07%	60.58%	-3.23%	-1.65%
+88	108	Team &quot;One Verizon&quot;	Open	Men	31:51:24.6		+12:38:02.2	+65.72%	60.34%	-3.64%	-2.05%
+89	302	Zombies on the Run	Open	Men	31:56:20.9		+12:42:58.5	+66.15%	60.19%	-3.91%	-2.32%
+90	171	Reebok Ragnarians 3	Open	Men	31:57:18.6		+12:43:56.2	+66.23%	60.16%	-3.96%	-2.37%
+91	147	The Beasts	Open	Men	31:57:27.6		+12:44:05.2	+66.25%	60.15%	-3.97%	-2.38%
+92	395	Brainshark	Open	Men	31:59:24.5		+12:46:02.1	+66.42%	60.09%	-4.07%	-2.48%
+93	496	SIX03- Silver	Open	Men	31:59:51.9		+12:46:29.5	+66.46%	60.08%	-4.10%	-2.51%
+94	77	ERC chickens	Open	Men	32:00:33.1		+12:47:10.7	+66.52%	60.05%	-4.14%	-2.54%
+95	441	PwC - Deals 2	Open	Men	32:01:07.3		+12:47:44.9	+66.57%	60.04%	-4.17%	-2.57%
+96	185	Blue Monkey	Open	Men	32:04:06.0		+12:50:43.6	+66.82%	59.94%	-4.33%	-2.73%
+97	269	Smells Like Team Spirit	Open	Men	32:11:32.3		+12:58:09.9	+67.47%	59.71%	-4.73%	-3.13%
+98	111	french couple team	Open	Men	32:13:40.4		+13:00:18.0	+67.65%	59.65%	-4.85%	-3.24%
+99	381	Twelve Shares = One Team	Open	Men	32:15:14.0		+13:01:51.6	+67.79%	59.60%	-4.93%	-3.33%
+100	161	Sore for Shore	Open	Men	32:17:28.4		+13:04:06.0	+67.98%	59.53%	-5.05%	-3.45%
+101	358	Road Islanders	Open	Men	32:24:23.5		+13:11:01.1	+68.58%	59.32%	-5.43%	-3.82%
+102	425	Wine OClock at The 401 Tavern	Open	Men	32:25:11.7		+13:11:49.3	+68.65%	59.29%	-5.47%	-3.86%
+103	253	Its Only a 5K Right?	Open	Men	32:28:18.0		+13:14:55.6	+68.92%	59.20%	-5.64%	-4.02%
+104	313	How hard could it be?	Open	Men	32:28:41.2		+13:15:18.8	+68.96%	59.19%	-5.66%	-4.04%
+105	330	Easier Said Than Run_Blanchard	Open	Men	32:37:20.6		+13:23:58.2	+69.71%	58.93%	-6.13%	-4.51%
+106	44	Too Stupid to Stop	Open	Men	32:37:53.7		+13:24:31.3	+69.75%	58.91%	-6.16%	-4.54%
+107	109	6 Degrees	Open	Men	32:40:53.6		+13:27:31.2	+70.01%	58.82%	-6.32%	-4.70%
+108	386	Orangetheory Fitness Salem New Hampshire	Open	Men	32:41:59.0		+13:28:36.6	+70.11%	58.79%	-6.38%	-4.75%
+109	314	It.Will.Be.Fun	Open	Men	32:44:02.7		+13:30:40.3	+70.29%	58.72%	-6.49%	-4.86%
+110	187	Flex on the Beach	Open	Men	32:49:07.6		+13:35:45.2	+70.73%	58.57%	-6.77%	-5.14%
+111	398	Lindt White Chocolate	Open	Men	32:51:40.4		+13:38:18.0	+70.95%	58.50%	-6.91%	-5.27%
+112	396	Liquor n Run	Open	Men	32:53:47.1		+13:40:24.7	+71.13%	58.43%	-7.02%	-5.38%
+113	415	Stow Pokes	Open	Men	32:57:23.4		+13:44:01.0	+71.44%	58.33%	-7.22%	-5.58%
+114	53	Fuster Clucks	Open	Men	32:57:36.1		+13:44:13.7	+71.46%	58.32%	-7.23%	-5.59%
+115	451	Boot and Rally	Open	Men	32:59:34.3		+13:46:11.9	+71.63%	58.26%	-7.34%	-5.69%
+116	400	Lindt Dark Chocolate	Open	Men	33:00:35.3		+13:47:12.9	+71.72%	58.23%	-7.39%	-5.75%
+117	468	TiredSweatyRunners	Open	Men	33:05:47.3		+13:52:24.9	+72.17%	58.08%	-7.67%	-6.03%
+118	123	Johnnylongbraidshangdown	Open	Men	33:12:29.9		+13:59:07.5	+72.75%	57.89%	-8.04%	-6.38%
+119	307	Not Fast Just Furious	Open	Men	33:13:44.8		+14:00:22.4	+72.86%	57.85%	-8.10%	-6.45%
+120	174	W.T.F.? Wheres The Finish?	Open	Men	33:14:51.2		+14:01:28.8	+72.96%	57.82%	-8.16%	-6.51%
+121	316	Keene To Run	Open	Men	33:16:06.5		+14:02:44.1	+73.07%	57.78%	-8.23%	-6.58%
+122	240	Calumet Team Languedoc	Open	Men	33:17:38.8		+14:04:16.4	+73.20%	57.74%	-8.32%	-6.66%
+123	238	Calumet Team Conner	Open	Men	33:17:44.7		+14:04:22.3	+73.21%	57.73%	-8.32%	-6.66%
+124	63	Co-Ed Naked Ragnar	Open	Men	33:18:03.0		+14:04:40.6	+73.24%	57.72%	-8.34%	-6.68%
+125	341	The Fat and the Furious	Open	Men	33:19:21.7		+14:05:59.3	+73.35%	57.69%	-8.41%	-6.75%
+126	435	Run Like an Antelope!	Open	Men	33:23:14.3		+14:09:51.9	+73.69%	57.58%	-8.62%	-6.96%
+127	244	Knights Bucket Brigade	Open	Men	33:23:29.2		+14:10:06.8	+73.71%	57.57%	-8.63%	-6.97%
+128	241	Calumet Team Arndt	Open	Men	33:31:10.7		+14:17:48.3	+74.37%	57.35%	-9.05%	-7.38%
+129	239	Calumet Team Carolyn	Open	Men	33:31:19.8		+14:17:57.4	+74.39%	57.34%	-9.06%	-7.39%
+130	388	Helamans Army	Open	Men	33:36:00.1		+14:22:37.7	+74.79%	57.21%	-9.31%	-7.64%
+131	328	Team Bring It	Open	Men	33:37:37.3		+14:24:14.9	+74.93%	57.16%	-9.40%	-7.73%
+132	463	Team Sig Sauer Academy	Open	Men	33:44:21.1		+14:30:58.7	+75.52%	56.97%	-9.76%	-8.08%
+133	249	Calumet Team Ricci	Open	Men	33:46:19.8		+14:32:57.4	+75.69%	56.92%	-9.87%	-8.19%
+134	242	Calumet Team Adam	Open	Men	33:47:36.4		+14:34:14.0	+75.80%	56.88%	-9.94%	-8.26%
+135	199	NSFW	Open	Men	33:52:59.4		+14:39:37.0	+76.26%	56.73%	-10.23%	-8.55%
+136	409	TEAM LUGG NUTT	Open	Men	34:44:05.8		+15:30:43.4	+80.70%	55.34%	-13.00%	-11.27%
+137	15	Running revelers	Open	Men	34:47:02.1		+15:33:39.7	+80.95%	55.26%	-13.16%	-11.43%
+138	354	Wine OClock at The 401 Tavern	Open	Men	34:50:04.5		+15:36:42.1	+81.21%	55.18%	-13.33%	-11.59%
+139	357	Nicholas Angels	Open	Men	34:50:19.7		+15:36:57.3	+81.24%	55.18%	-13.34%	-11.61%
+140	129	Seas the Day	Open	Men	34:52:40.5		+15:39:18.1	+81.44%	55.11%	-13.47%	-11.73%
+141	387	Loose Screw Athletic Crew	Open	Men	35:03:44.3		+15:50:21.9	+82.40%	54.82%	-14.07%	-12.32%
+142	465	RUN JMC	Open	Men	35:07:49.3		+15:54:26.9	+82.75%	54.72%	-14.29%	-12.54%
+143	58	Lemur 3000	Open	Men	35:27:54.5		+16:14:32.1	+84.49%	54.20%	-15.38%	-13.61%
+144	299	I Thought This Was a 5K	Open	Men	36:22:22.7		+17:09:00.3	+89.22%	52.85%	-18.33%	-16.52%
+145	232	Dangerous Curves	Open	Men	36:37:04.4		+17:23:42.0	+90.49%	52.50%	-19.13%	-17.31%
+146	247	City Year NH	Open	Men	38:01:33.6		+18:48:11.2	+97.82%	50.55%	-23.71%	-21.82%
+-	377	F The Warriors	Open	Men	DNF		-	-	-	-	-
+-	24	We Thought They Said Rum	Open	Men	DNS		-	-	-	-	-
+-	45	F Van 2	Open	Men	DNS		-	-	-	-	-
+-	231	Rogue Runners	Open	Men	DNS		-	-	-	-	-
+-	251	The Ultra Stomping Turtles	Open	Men	DNS		-	-	-	-	-
+											
+		Open - Men Ultra									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	217	Bull Mccaffrey	Open	Men Ultra	31:46:13.0		-	-	100%	5.44%	4.51%
+2	235	Manchester Police Ultra	Open	Men Ultra	33:16:11.3		+1:29:58.3	+4.72%	95.49%	0.98%	0.00%
+3	436	Ukrainian Running Club - Ultra Men	Open	Men Ultra	35:45:24.1		+3:59:11.1	+12.55%	88.85%	-6.42%	-7.47%
+-	134	The Island of Misfit Runners	Open	Men Ultra	DNS		-	-	-	-	-
+											
+		Open - Mixed									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	453	Easier Said Than Run: The Adirondack Inv	Open	Mixed	23:19:13.0		-	-	100%	25.76%	26.16%
+2	479	Northeastern University Club Running	Open	Mixed	23:30:57.6		+11:44.6	+0.84%	99.17%	25.14%	25.54%
+3	459	The Other Team	Open	Mixed	25:28:33.5		+2:09:20.5	+9.24%	91.54%	18.90%	19.33%
+4	481	Agony of Duhfeet - BP Team A	Open	Mixed	26:29:08.0		+3:09:55.0	+13.57%	88.05%	15.68%	16.14%
+5	125	The Chronic	Open	Mixed	26:31:35.5		+3:12:22.5	+13.75%	87.91%	15.55%	16.01%
+6	95	Kier Bynres Freedom Runners	Open	Mixed	26:42:16.3		+3:23:03.3	+14.51%	87.33%	14.99%	15.44%
+7	371	The Brave Little Toasters	Open	Mixed	26:42:27.6		+3:23:14.6	+14.53%	87.32%	14.98%	15.43%
+8	497	Runners Alley Ambassadors	Open	Mixed	27:25:44.5		+4:06:31.5	+17.62%	85.02%	12.68%	13.15%
+9	352	NH State Parks	Open	Mixed	28:18:39.7		+4:59:26.7	+21.40%	82.37%	9.87%	10.36%
+10	283	Wrap and Slap	Open	Mixed	28:25:54.6		+5:06:41.6	+21.92%	82.02%	9.49%	9.97%
+11	186	Boot N Relay	Open	Mixed	28:36:53.9		+5:17:40.9	+22.70%	81.50%	8.91%	9.39%
+12	208	Cranial Nerves - Run Like Youre Mile-nat	Open	Mixed	28:45:50.1		+5:26:37.1	+23.34%	81.07%	8.43%	8.92%
+13	7	Uncle Filthys Chafin You Down	Open	Mixed	28:53:19.0		+5:34:06.0	+23.88%	80.72%	8.03%	8.53%
+14	297	out here chafing our dreams &lt;3	Open	Mixed	28:56:54.6		+5:37:41.6	+24.13%	80.56%	7.84%	8.34%
+15	345	Covfefe	Open	Mixed	29:01:57.3		+5:42:44.3	+24.50%	80.32%	7.58%	8.07%
+16	8	UFHC3	Open	Mixed	29:14:36.4		+5:55:23.4	+25.40%	79.75%	6.90%	7.40%
+17	144	Butts Sweat and Beers	Open	Mixed	29:29:51.9		+6:10:38.9	+26.49%	79.06%	6.09%	6.60%
+18	275	Hares &amp; Tortoises	Open	Mixed	29:41:36.2		+6:22:23.2	+27.33%	78.54%	5.47%	5.98%
+19	420	The Belles and Their Balls	Open	Mixed	29:54:47.9		+6:35:34.9	+28.27%	77.96%	4.77%	5.28%
+20	262	The Airborne Shuffle	Open	Mixed	30:27:51.9		+7:08:38.9	+30.63%	76.55%	3.02%	3.54%
+21	320	Over the Hill RC	Open	Mixed	30:30:47.3		+7:11:34.3	+30.84%	76.43%	2.86%	3.38%
+22	209	Serious Laps of Judgement	Open	Mixed	30:30:58.8		+7:11:45.8	+30.86%	76.42%	2.85%	3.37%
+23	365	Filthy Shamrocks	Open	Mixed	30:31:09.5		+7:11:56.5	+30.87%	76.41%	2.84%	3.36%
+24	153	Run Free or Die	Open	Mixed	30:39:32.4		+7:20:19.4	+31.47%	76.06%	2.40%	2.92%
+25	203	New Hamp-sure to Win!	Open	Mixed	30:44:04.1		+7:24:51.1	+31.79%	75.88%	2.16%	2.68%
+26	372	Everything Hurts and Running is Impossib	Open	Mixed	30:49:27.3		+7:30:14.3	+32.18%	75.66%	1.87%	2.40%
+27	449	Sloan and Steady	Open	Mixed	30:50:17.0		+7:31:04.0	+32.24%	75.62%	1.83%	2.36%
+28	11	Block Island Beasts	Open	Mixed	30:56:11.7		+7:36:58.7	+32.66%	75.38%	1.51%	2.04%
+29	298	Pull It Together!	Open	Mixed	30:58:59.0		+7:39:46.0	+32.86%	75.27%	1.37%	1.90%
+30	439	R.I.O.T. (Running Is Our Therapy)	Open	Mixed	31:06:39.2		+7:47:26.2	+33.41%	74.96%	0.96%	1.49%
+31	469	How I Met Your Runner	Open	Mixed	31:10:45.6		+7:51:32.6	+33.70%	74.79%	0.74%	1.27%
+32	1	Roof Stomps Road Hazahds	Open	Mixed	31:11:03.1		+7:51:50.1	+33.72%	74.78%	0.73%	1.26%
+33	460	Ukrainian Running Club	Open	Mixed	31:11:27.1		+7:52:14.1	+33.75%	74.77%	0.70%	1.24%
+34	315	Infinite Insanity	Open	Mixed	31:11:55.6		+7:52:42.6	+33.78%	74.75%	0.68%	1.21%
+35	379	Trails to Sails	Open	Mixed	31:14:12.7		+7:54:59.7	+33.95%	74.66%	0.56%	1.09%
+36	75	ERC Eggs	Open	Mixed	31:14:14.1		+7:55:01.1	+33.95%	74.66%	0.56%	1.09%
+37	493	Medtronic Transformers	Open	Mixed	31:15:16.5		+7:56:03.5	+34.02%	74.61%	0.50%	1.04%
+38	339	Better Late then Never	Open	Mixed	31:33:08.7		+8:13:55.7	+35.30%	73.91%	-0.45%	0.09%
+39	276	Sleep When Youre Dead	Open	Mixed	31:34:54.6		+8:15:41.6	+35.43%	73.84%	-0.54%	0.00%
+40	256	Island Time	Open	Mixed	31:44:09.1		+8:24:56.1	+36.09%	73.48%	-1.03%	-0.49%
+41	437	Belly full of Jelly	Open	Mixed	31:54:39.9		+8:35:26.9	+36.84%	73.08%	-1.59%	-1.04%
+42	295	Wait I thought we were going apple picki	Open	Mixed	31:58:10.2		+8:38:57.2	+37.09%	72.95%	-1.77%	-1.23%
+43	4	Mind Over Miles	Open	Mixed	32:01:14.8		+8:42:01.8	+37.31%	72.83%	-1.94%	-1.39%
+44	21	Salem Academy Charter School	Open	Mixed	32:04:06.2		+8:44:53.2	+37.51%	72.72%	-2.09%	-1.54%
+45	216	MonAmi	Open	Mixed	32:04:40.2		+8:45:27.2	+37.55%	72.70%	-2.12%	-1.57%
+46	321	Mountain Dew Me	Open	Mixed	32:18:39.6		+8:59:26.6	+38.55%	72.17%	-2.86%	-2.31%
+47	157	Miles to go	Open	Mixed	32:19:14.8		+9:00:01.8	+38.60%	72.15%	-2.89%	-2.34%
+48	61	Beaches Be Crazy	Open	Mixed	32:26:09.6		+9:06:56.6	+39.09%	71.90%	-3.26%	-2.70%
+49	323	Horrible Hartnetts & Our Insane Friends	Open	Mixed	32:34:42.2		+9:15:29.2	+39.70%	71.58%	-3.71%	-3.16%
+50	392	The Pi Group	Open	Mixed	32:36:27.6		+9:17:14.6	+39.83%	71.52%	-3.81%	-3.25%
+51	296	Easier Said Than Run	Open	Mixed	32:40:20.4		+9:21:07.4	+40.10%	71.38%	-4.01%	-3.45%
+52	447	Wheres The Beach?	Open	Mixed	32:45:54.1		+9:26:41.1	+40.50%	71.17%	-4.31%	-3.75%
+53	124	The Hitchhikers	Open	Mixed	32:51:02.2		+9:31:49.2	+40.87%	70.99%	-4.58%	-4.02%
+54	384	Were not slow just getting our moneys wo	Open	Mixed	32:54:20.0		+9:35:07.0	+41.10%	70.87%	-4.75%	-4.19%
+55	446	Kraken NH	Open	Mixed	33:14:44.6		+9:55:31.6	+42.56%	70.15%	-5.84%	-5.27%
+56	140	Coming in Hot n Sweaty	Open	Mixed	33:14:54.3		+9:55:41.3	+42.57%	70.14%	-5.85%	-5.28%
+57	62	A Connecticut Chafing in King Arthurs Sh	Open	Mixed	33:15:59.7		+9:56:46.7	+42.65%	70.10%	-5.90%	-5.33%
+58	20	Ancomcabs	Open	Mixed	33:16:07.2		+9:56:54.2	+42.66%	70.10%	-5.91%	-5.34%
+59	282	ADK Loons Got the Runs!	Open	Mixed	33:21:48.4		+10:02:35.4	+43.07%	69.90%	-6.21%	-5.64%
+60	69	Barefoot Darwin	Open	Mixed	33:23:44.3		+10:04:31.3	+43.20%	69.83%	-6.31%	-5.74%
+61	94	Outer Body	Open	Mixed	33:27:13.2		+10:08:00.2	+43.45%	69.71%	-6.50%	-5.93%
+62	55	Wormtown Milers	Open	Mixed	33:39:51.9		+10:20:38.9	+44.36%	69.27%	-7.17%	-6.59%
+63	291	The Non-Prophets	Open	Mixed	33:43:51.2		+10:24:38.2	+44.64%	69.14%	-7.38%	-6.80%
+64	334	Drinkers with a running problem!	Open	Mixed	33:44:33.0		+10:25:20.0	+44.69%	69.11%	-7.42%	-6.84%
+65	346	Crazy 8	Open	Mixed	34:07:16.5		+10:48:03.5	+46.32%	68.35%	-8.62%	-8.04%
+66	227	Shake N Bake	Open	Mixed	34:12:06.5		+10:52:53.5	+46.66%	68.18%	-8.88%	-8.30%
+67	484	No Idea	Open	Mixed	34:15:30.1		+10:56:17.1	+46.90%	68.07%	-9.06%	-8.47%
+68	344	Banana Assassins	Open	Mixed	34:23:38.8		+11:04:25.8	+47.49%	67.80%	-9.49%	-8.90%
+69	359	Team Ian	Open	Mixed	34:36:48.4		+11:17:35.4	+48.43%	67.37%	-10.19%	-9.60%
+70	36	Run Free or Cry	Open	Mixed	34:41:02.1		+11:21:49.1	+48.73%	67.24%	-10.42%	-9.82%
+71	104	Seagulls Stop it Now!	Open	Mixed	34:48:18.1		+11:29:05.1	+49.25%	67.00%	-10.80%	-10.21%
+72	382	Relay Runny People	Open	Mixed	34:53:57.2		+11:34:44.2	+49.65%	66.82%	-11.10%	-10.50%
+73	426	Helamans Warriors	Open	Mixed	35:02:42.3		+11:43:29.3	+50.28%	66.54%	-11.57%	-10.97%
+74	131	Penguins Marching South 2.0	Open	Mixed	35:06:12.5		+11:46:59.5	+50.53%	66.43%	-11.75%	-11.15%
+75	267	Deerfield Dirty Dozen Desperados	Open	Mixed	35:21:09.2		+12:01:56.2	+51.60%	65.96%	-12.54%	-11.94%
+76	448	RISE SHINE RUN	Open	Mixed	36:10:54.3		+12:51:41.3	+55.15%	64.45%	-15.18%	-14.57%
+77	324	No Sleep Till Merlot	Open	Mixed	36:15:06.4		+12:55:53.4	+55.45%	64.33%	-15.41%	-14.79%
+-	360	Blood Sweat & Beers	Open	Mixed	DNF		-	-	-	-	-
+-	272	Dert handshake	Open	Mixed	DNS		-	-	-	-	-
+											
+		Open - Mixed Ultra									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	119	MTC Ultras Chasing the Moon	Open	Mixed Ultra	29:13:32.2		-	-	100%	9.14%	8.67%
+2	308	5AM Fun	Open	Mixed Ultra	30:56:09.1		+1:42:36.9	+5.85%	94.47%	3.83%	3.32%
+3	234	Wheres Tyler?!	Open	Mixed Ultra	33:03:39.0		+3:50:06.8	+13.12%	88.40%	-2.78%	-3.32%
+4	498	Dert Handshake_Banta	Open	Mixed Ultra	35:26:38.0		+6:13:05.8	+21.28%	82.46%	-10.19%	-10.77%
+											
+		Open - Women									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	71	Baba Yaga	Open	Women	24:59:42.5		-	-	100%	21.50%	24.74%
+2	197	#quadgoals	Open	Women	28:35:54.9		+3:36:12.4	+14.42%	87.40%	10.19%	13.89%
+3	245	Sole Sisters	Open	Women	30:08:00.6		+5:08:18.1	+20.56%	82.95%	5.37%	9.27%
+4	337	Chicks with Kicks	Open	Women	32:34:49.3		+7:35:06.8	+30.35%	76.72%	-2.32%	1.90%
+5	162	The Bar-Belles	Open	Women	33:50:30.8		+8:50:48.3	+35.39%	73.86%	-6.28%	-1.90%
+6	81	Resting Beach Face	Open	Women	34:39:05.6		+9:39:23.1	+38.63%	72.13%	-8.82%	-4.34%
+7	230	Rosario and the Pineapple Express	Open	Women	34:55:17.6		+9:55:35.1	+39.71%	71.58%	-9.67%	-5.15%
+8	118	Nine Divine Divas41	Open	Women	35:01:13.9		+10:01:31.4	+40.11%	71.37%	-9.98%	-5.45%
+-	327	Limitless Fitness	Open	Women	DNS		-	-	-	-	-
+											
+		Open - Women Ultra									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	67	Girls Night Out	Open	Women Ultra	29:43:50.5		-	-	100%	12.06%	14.39%
+2	218	Ultra Vicious and Delicious	Open	Women Ultra	34:43:44.4		+4:59:53.9	+16.81%	85.61%	-2.72%	0.00%
+3	156	Try Anything Once	Open	Women Ultra	36:57:56.7		+7:14:06.2	+24.34%	80.43%	-9.34%	-6.44%
+											
+		Submasters - Men									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	343	Franks Old Boys	Submasters	Men	20:18:27.3		-	-	100%	22.09%	24.53%
+2	56	Tempo al Tempo	Submasters	Men	24:43:24.5		+4:24:57.2	+21.75%	82.14%	5.15%	8.12%
+3	98	ERC - Team 9 From Outer Space	Submasters	Men	25:29:30.1		+5:11:02.8	+25.53%	79.66%	2.20%	5.26%
+4	326	Wicked 24/7	Submasters	Men	26:54:28.0		+6:36:00.7	+32.50%	75.47%	-3.24%	0.00%
+5	229	Eastbound and Down	Submasters	Men	27:23:43.9		+7:05:16.6	+34.90%	74.13%	-5.11%	-1.81%
+6	120	Old Men of the Mountains	Submasters	Men	28:29:13.1		+8:10:45.8	+40.28%	71.29%	-9.29%	-5.87%
+7	84	Gunning for Garrett	Submasters	Men	29:08:18.4		+8:49:51.1	+43.49%	69.69%	-11.79%	-8.29%
+											
+		Submasters - Men Ultra									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	190	Front Runners NY Ultragays	Submasters	Men Ultra	22:54:59.1		-	-	100%	12.44%	12.44%
+2	93	Wait For Us	Submasters	Men Ultra	29:25:31.9		+6:30:32.8	+28.40%	77.88%	-12.44%	-12.44%
+											
+		Submasters - Mixed									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	30	Fast Men Faster Women	Submasters	Mixed	24:51:21.5		-	-	100%	16.50%	16.67%
+2	444	High Mile .Club	Submasters	Mixed	26:53:06.1		+2:01:44.6	+8.16%	92.45%	9.68%	9.87%
+3	99	What R U Waiting 4?	Submasters	Mixed	28:13:37.4		+3:22:15.9	+13.56%	88.06%	5.17%	5.37%
+4	281	EMOJO	Submasters	Mixed	28:44:57.8		+3:53:36.3	+15.66%	86.46%	3.42%	3.62%
+5	418	Twelve Times Dope	Submasters	Mixed	29:10:02.0		+4:18:40.5	+17.34%	85.22%	2.02%	2.22%
+6	411	Moose on the Loose	Submasters	Mixed	30:29:33.4		+5:38:11.9	+22.68%	81.51%	-2.44%	-2.22%
+7	434	Rapscallion Racers	Submasters	Mixed	30:52:00.7		+6:00:39.2	+24.18%	80.53%	-3.69%	-3.48%
+8	152	The Warriors	Submasters	Mixed	32:15:42.6		+7:24:21.1	+29.80%	77.04%	-8.38%	-8.15%
+9	385	Tour De Beach	Submasters	Mixed	33:03:46.2		+8:12:24.7	+33.02%	75.18%	-11.07%	-10.84%
+10	485	What Happens In The Van Stays In The Van	Submasters	Mixed	33:06:18.0		+8:14:56.5	+33.19%	75.08%	-11.21%	-10.98%
+											
+		Submasters - Mixed Ultra									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	317	6 Pack Short	Submasters	Mixed Ultra	30:39:40.0		-	-	100%	0.00%	0.00%
+-	51	Team Chocolate Mile - Fun Size	Submasters	Mixed Ultra	DNF		-	-	-	-	-
+											
+		Submasters - Women									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	206	Dynamic Dozen	Submasters	Women	32:48:27.7		-	-	100%	3.84%	4.37%
+2	22	Wheres Waldo?	Submasters	Women	33:23:33.3		+35:05.6	+1.78%	98.25%	2.13%	2.66%
+3	450	Who said this was a Girls Nite Out?	Submasters	Women	34:08:23.1		+1:19:55.4	+4.06%	96.10%	-0.06%	0.49%
+4	273	No Sleep Till Hampton	Submasters	Women	34:28:26.3		+1:39:58.6	+5.08%	95.17%	-1.04%	-0.49%
+5	166	Running From The Kids	Submasters	Women	34:31:54.2		+1:43:26.5	+5.25%	95.01%	-1.21%	-0.66%
+6	23	Wheres Wenda?	Submasters	Women	35:22:06.7		+2:33:39.0	+7.81%	92.76%	-3.66%	-3.09%
+											
+		Submasters - Women Ultra									
+Place	Bib	Name	Distance	Category	Time		Difference	% Back	% Winning	% Average	% Median
+1	332	Run All the Miles Drink All the Rum	Submasters	Women Ultra	33:04:01.4		-	-	100%	0.00%	0.00%
+											

@@ -4,27 +4,55 @@ SHELL := /bin/bash
 # Default target
 .DEFAULT_GOAL := launch
 
-# Launch the Streamlit app
+# --- App Commands ---
+
+# Launch the Streamlit app from the root
 launch:
-	@echo "🚀 Launching Streamlit app..."
-	uv run streamlit run app/app.py
+	@echo "🚀 Launching Race Engine..."
+	uv run streamlit run app.py
+
+# Generate metadata skeletons for any new race folders
+metadata:
+	@echo "📂 Generating metadata skeletons..."
+	uv run python scripts/generate_metadata.py
+
+# --- Dev Tools ---
 
 # Lint the code with Ruff
 lint:
 	@echo "🔍 Running Ruff lint..."
-	uv run ruff check src
+	uv run ruff check src pages app.py
 
-# Autoformat with Black
+# Autoformat with Ruff (Ruff handles formatting now, replacing Black)
 format:
-	@echo "🎨 Formatting code with Black..."
-	uv run black src
+	@echo "🎨 Formatting code..."
+	uv run ruff format src pages app.py
 
-# Rebuild the environment
+# --- Dependency Management ---
+
+# Sync dependencies and update lock
 sync:
 	@echo "🔄 Syncing dependencies..."
 	uv sync --all-extras
+	uv lock
 
-# Clean build artifacts
+lock:
+	@echo "🔒 Updating lock file..."
+	uv lock
+
+# --- Cleanup ---
+
 clean:
-	@echo "🧹 Cleaning up..."
+	@echo "🧹 Cleaning build artifacts..."
 	rm -rf dist build *.egg-info __pycache__ .pytest_cache .ruff_cache
+	find . -name "*.pyc" -delete
+
+# Help menu
+help:
+	@echo "Available commands:"
+	@echo "  make launch   - Start the Streamlit app"
+	@echo "  make metadata - Generate JSON skeletons for new race folders"
+	@echo "  make sync     - Update dependencies and lock file"
+	@echo "  make format   - Run auto-formatter"
+	@echo "  make lint     - Run linter check"
+	@echo "  make clean    - Remove cache and build files"

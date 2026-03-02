@@ -1,0 +1,57 @@
+{
+    "race_metadata": {
+        "name": "Grand Further Moutain Run",
+        "date": "2017-08-26",
+        "distance_value": null,
+        "distance_unit": "kilometers",
+        "type": "Road",
+        "surface": "Asphalt",
+        "course_style": "Loop",
+        "start_city": "Banner Elk",
+        "start_state": "NC",
+        "end_state": "NC",
+        "personal_states_covered": [
+            "NC"
+        ],
+        "location_gps": [
+            0.0,
+            0.0
+        ]
+    },
+    "results": {
+        "official_time": "00:00:00",
+        "elevation_gain": null,
+        "elevation_loss": null,
+        "elevation_unit": "feet",
+        "status": "Finished",
+        "is_official": true,
+        "is_sanctioned": true,
+        "team_name": "",
+        "personal_legs": [],
+        "notes": ""
+    },
+    "weather": {
+        "temp": null,
+        "feels_like": null,
+        "humidity": null,
+        "wind_speed": null,
+        "wind_direction": "",
+        "condition": ""
+    },
+    "rankings": {
+        "overall_rank": null,
+        "overall_total": null,
+        "group_name": "",
+        "group_rank": null,
+        "group_total": null
+    },
+    "sources": {
+        "original_url": "",
+        "athlinks_id": "",
+        "local_files": [
+            "results.png",
+            "activity.gpx",
+            "results.html"
+        ]
+    }
+}

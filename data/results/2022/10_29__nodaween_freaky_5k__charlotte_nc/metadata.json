@@ -1,0 +1,56 @@
+{
+    "race_metadata": {
+        "name": "Nodaween Freaky 5K",
+        "date": "2022-10-29",
+        "distance_value": 5,
+        "distance_unit": "kilometers",
+        "type": "Road",
+        "surface": "Asphalt",
+        "course_style": "Loop",
+        "start_city": "Charlotte",
+        "start_state": "NC",
+        "end_state": "NC",
+        "personal_states_covered": [
+            "NC"
+        ],
+        "location_gps": [
+            35.24674966541625,
+            -80.80448571414286
+        ]
+    },
+    "results": {
+        "official_time": "00:00:00",
+        "elevation_gain": 148,
+        "elevation_loss": 148,
+        "elevation_unit": "feet",
+        "status": "Finished",
+        "is_official": true,
+        "is_sanctioned": true,
+        "team_name": "",
+        "personal_legs": [],
+        "notes": ""
+    },
+    "weather": {
+        "temp": 63,
+        "feels_like": 63,
+        "humidity": 69,
+        "wind_speed": 5.8,
+        "wind_direction": "ENE",
+        "condition": "Cloudy"
+    },
+    "rankings": {
+        "overall_rank": 15,
+        "overall_total": 154,
+        "group_name": "M 35-39",
+        "group_rank": 3,
+        "group_total": 17
+    },
+    "sources": {
+        "original_url": "",
+        "athlinks_id": "",
+        "local_files": [
+            "activity.gpx",
+            "results.pdf"
+        ]
+    }
+}
