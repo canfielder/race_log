@@ -51,3 +51,39 @@ def format_pace(minutes):
     mins = int(minutes)
     secs = int((minutes - mins) * 60)
     return f"{mins}:{secs:02d}"
+
+
+def calculate_climb_density(elevation_ft, distance_miles):
+    """Returns average feet of gain per mile."""
+    if not distance_miles or distance_miles == 0:
+        return 0
+    return round(float(elevation_ft / distance_miles), 1)
+ 
+
+def calculate_elevation_bounds(df_elev, climb_density):
+    """
+    Calculates dynamic y-min and y-max with an inverse buffer.
+    Flatter races get larger buffers to prevent 'mountainous' visual distortion.
+    """
+    elev_min = df_elev["Elevation (ft)"].min()
+    elev_max = df_elev["Elevation (ft)"].max()
+    elev_range = elev_max - elev_min
+
+    # DYNAMIC BUFFER LOGIC:
+    # If density is 300+ ft/mi, buffer is 10% (0.1)
+    # If density is 10 ft/mi, buffer scales up significantly
+    # Formula: We want buffer to be large when density is low.
+    if climb_density < 50:
+        buffer_factor = 2.0  # 200% buffer for very flat races
+    elif climb_density < 150:
+        buffer_factor = 0.5  # 50% buffer for rolling hills
+    else:
+        buffer_factor = 0.1  # 10% buffer for technical/mountain races
+
+    padding = max(elev_range * buffer_factor, 100) # Minimum 100ft window
+    
+    # CLAMP: Ensure y_min is at least 0
+    y_min = max(0, elev_min - padding)
+    y_max = elev_max + padding
+    
+    return y_min, y_max

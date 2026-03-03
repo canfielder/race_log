@@ -1,0 +1,19 @@
+{
+    "states_geo_url": "https://raw.githubusercontent.com/python-visualization/folium-example-data/main/us_states.json",
+    "highlight_style": {
+        "fill_color": "#2e7d32",
+        "border_color": "#444444",
+        "weight": 1.2,
+        "fill_opacity": 0.15
+    },
+    "map_defaults": {
+        "location": [35.2271, -80.8431],
+        "zoom": 6
+    },
+    "chart_style": {
+        "primary_color": "#E91E63",
+        "fill_color": "rgba(233, 30, 99, 0.2)",
+        "height": 300,
+        "y_axis_buffer_percent": 0.1
+    }
+}

@@ -20,6 +20,7 @@ def find_project_root(sentinel_files=None):
 
 # Define global constants
 PROJECT_ROOT = find_project_root()
+CONFIG_DIR = PROJECT_ROOT / "config"
 DATA_DIR = PROJECT_ROOT / "data"
 RESULTS_DIR = DATA_DIR / "results"
 RAW_DIR = DATA_DIR / "raw"

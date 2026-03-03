@@ -1,9 +1,9 @@
 [project]
 name = "race_log"
-version = "0.1.0"
+version = "1.0.0"
 description = "Comprehensive visualization, history tracking, and performance analysis engine for trail and road races."
 readme = "README.md"
-requires-python = ">=3.11.4"
+requires-python = ">=3.11,<3.12"
 license = { text = "MIT" }
 authors = [
     { name = "Evan Canfield" }
@@ -11,12 +11,13 @@ authors = [
 
 dependencies = [
     "streamlit>=1.42.0",
-    "siuba==0.4.2",
     "pandas>=2.2.0",
     "numpy>=1.26.0",
     "folium>=0.17.0",
     "streamlit_folium>=0.21.0",
-    "openpyxl==3.1.5"
+    "openpyxl==3.1.5",
+    "gpxpy==1.6.2",
+    "plotly==6.6.0"
 ]
 
 [project.optional-dependencies]

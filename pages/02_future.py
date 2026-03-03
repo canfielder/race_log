@@ -23,7 +23,7 @@ try:
     with open(regions_path, "r") as f:
         regions = json.load(f)
 except FileNotFoundError:
-    regions = {}
+    regions = {}ß
     st.error(f"Region config not found at {regions_path}")
 
 # --- TOP FILTER SECTION ---

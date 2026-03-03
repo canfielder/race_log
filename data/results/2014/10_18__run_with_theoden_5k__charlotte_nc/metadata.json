@@ -14,8 +14,8 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.32357360880697,
+            -80.75638500980278
         ]
     },
     "results": {
@@ -46,7 +46,7 @@
         "group_total": null
     },
     "sources": {
-        "original_url": "",
+        "original_url": "https://jonesracingcompany.com/2014-results/theoden/",
         "athlinks_id": "",
         "local_files": [
             "results.png",
