@@ -47,10 +47,11 @@
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [],
         "local_files": [
-            "results.png",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

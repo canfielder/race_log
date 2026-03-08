@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Tuckfest Half Marathon",
         "date": "2017-04-22",
-        "distance_value": null,
-        "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "distance_value": 13.1,
+        "distance_unit": "miles",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
         "course_style": "Loop",
         "start_city": "Charlotte",
         "start_state": "NC",
@@ -19,12 +19,12 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "2:10:24",
+        "elevation_gain": 976,
+        "elevation_loss": 973,
         "elevation_unit": "feet",
         "status": "Finished",
-        "is_official": true,
+        "is_official": false,
         "is_sanctioned": true,
         "team_name": "",
         "personal_legs": [],
@@ -47,7 +47,10 @@
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [
+            "https://www.strava.com/activities/953180360"
+        ],
         "local_files": [
             "activity.gpx"
         ]

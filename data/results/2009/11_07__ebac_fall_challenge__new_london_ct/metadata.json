@@ -1,9 +1,9 @@
 {
     "race_metadata": {
-        "name": "Ebac Fall Challenge",
+        "name": "EBAC Fall Challenge",
         "date": "2009-11-07",
-        "distance_value": null,
-        "distance_unit": "kilometers",
+        "distance_value": 4.75,
+        "distance_unit": "miles",
         "type": "Road",
         "surface": "Asphalt",
         "course_style": "Loop",
@@ -14,43 +14,45 @@
             "CT"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            41.30831455782295,
+            -72.09911716857522
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:32:01",
+        "elevation_gain": 175,
+        "elevation_loss": 175,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
         "is_sanctioned": true,
         "team_name": "",
         "personal_legs": [],
-        "notes": ""
+        "notes": "See Strava segment for elevation information: https://www.strava.com/segments/13623692."
     },
     "weather": {
-        "temp": null,
+        "temp": 51,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
         "wind_direction": "",
-        "condition": ""
+        "condition": "Sunny"
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 20,
+        "overall_total": 130,
+        "group_name": "M 20-24",
+        "group_rank": 1,
+        "group_total": 2
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "http://www.ebac.us/running/RaceArchive/ebacarch09to10.htm",
+        "athlinks_url": "https://www.athlinks.com/event/45814/results/Event/105327/Course/144949/Bib/235",
+        "strava_url": [],
         "local_files": [
-            "results.png",
-            "results.html"
+            "ebac_course_map.pdf",
+            "results.html",
+            "results.png"
         ]
     }
 }

@@ -19,9 +19,9 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:32:12",
+        "elevation_gain": 124,
+        "elevation_loss": 142,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 74,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 73,
+        "overall_total": 2926,
+        "group_name": "M 30-34",
+        "group_rank": 14,
+        "group_total": 197
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/5989/results/Event/602131/Course/910991/Bib/380",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Isabellla Santos Foundation",
         "date": "2013-09-21",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.06036601466478, 
+            -80.85407724561344
         ]
     },
     "results": {
         "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "elevation_gain": 178,
+        "elevation_loss": 177,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 75,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 2,
+        "overall_total": 962,
+        "group_name": "M",
+        "group_rank": 2,
+        "group_total": 368
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/180733/results/Event/313911/Course/450653/Bib/3620",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

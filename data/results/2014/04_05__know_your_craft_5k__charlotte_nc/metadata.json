@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Know Your Craft 5K",
         "date": "2014-04-05",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.201106524320465, 
+            -80.8689758022879
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:18:32",
+        "elevation_gain": 115,
+        "elevation_loss": 135,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 71,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 5,
+        "overall_total": 259,
+        "group_name": "M 25-29",
+        "group_rank": 1,
+        "group_total": 31
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/108393/results/Event/373663/Course/553298/Bib/514",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

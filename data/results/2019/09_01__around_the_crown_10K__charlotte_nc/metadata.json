@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Around The Crown 10K",
         "date": "2019-09-01",
-        "distance_value": null,
+        "distance_value": 10,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.22668754466396,
+            -80.8475995075047
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:52:14",
+        "elevation_gain": 246,
+        "elevation_loss": 259,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,27 +31,28 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 86,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
         "wind_direction": "",
-        "condition": ""
+        "condition": "Partly Cloudy"
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 1005,
+        "overall_total": 3970,
+        "group_name": "M 30-34",
+        "group_rank": 137,
+        "group_total": 318
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://results.raceroster.com/v3/events/hhtmcybsq6seaewh/race/53343/participant/t7ujc5cj6d7xyjjp?filter_search=canfield",
+        "athlinks_url": "https://www.athlinks.com/event/322337/results/Event/879871/Course/1680374/Bib/1558",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

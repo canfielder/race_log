@@ -47,7 +47,8 @@
     },
     "sources": {
         "original_url": "https://runsignup.com/Race/Results/137475/IndividualResult/BLhG?resultSetId=525800#U5701270 ",
-        "athlinks_id": "https://www.athlinks.com/event/360545/results/Event/1128877/Course/2655605/Bib/540",
+        "athlinks_url": "https://www.athlinks.com/event/360545/results/Event/1128877/Course/2655605/Bib/540",
+        "strava_url": [],
         "local_files": [
             "activity.gpx",
             "results.html",

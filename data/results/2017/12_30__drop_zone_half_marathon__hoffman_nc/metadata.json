@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Drop Zone Half Marathon",
         "date": "2017-12-30",
-        "distance_value": null,
-        "distance_unit": "kilometers",
+        "distance_value": 13.1,
+        "distance_unit": "miles",
         "type": "Road",
-        "surface": "Asphalt",
+        "surface": "Sand",
         "course_style": "Loop",
         "start_city": "Hoffman",
         "start_state": "NC",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            34.99080300291772, 
+            -79.53426784184545
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "01:43:47",
+        "elevation_gain": 304,
+        "elevation_loss": 307,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,27 +31,28 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 53,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
         "wind_direction": "",
-        "condition": ""
+        "condition": "Clear"
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 2,
+        "overall_total": 32,
+        "group_name": "M 30-39",
+        "group_rank": 2,
+        "group_total": 6
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://ultrasignup.com/results_event.aspx?did=49195#id106273",
+        "athlinks_url": "https://www.athlinks.com/event/189606/results/Event/701967/Course/1143101/Entry/321520488",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Rabun Half Marathon",
         "date": "2017-06-11",
-        "distance_value": null,
-        "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "distance_value": 13.1,
+        "distance_unit": "miles",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
         "course_style": "Loop",
         "start_city": "Sky Valley",
         "start_state": "GA",
@@ -14,14 +14,14 @@
             "GA"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            34.98161601739422,
+            -83.27417218988673
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "02:16:59",
+        "elevation_gain": 2690,
+        "elevation_loss": 2714,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 86,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 14,
+        "overall_total": 70,
+        "group_name": "M 30-39",
+        "group_rank": 1,
+        "group_total": 11
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://ultrasignup.com/results_event.aspx?did=39495 ",
+        "athlinks_url": "https://www.athlinks.com/event/92317/results/Event/664260/Course/1044532/Entry/303135687",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

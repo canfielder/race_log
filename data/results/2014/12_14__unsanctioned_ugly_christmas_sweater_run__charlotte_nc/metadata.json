@@ -2,11 +2,11 @@
     "race_metadata": {
         "name": "Unsanctioned Ugly Christmas Sweater Run",
         "date": "2014-12-14",
-        "distance_value": null,
-        "distance_unit": "kilometers",
+        "distance_value": 12.5,
+        "distance_unit": "miles",
         "type": "Road",
         "surface": "Asphalt",
-        "course_style": "Loop",
+        "course_style": "Out-and-Back",
         "start_city": "Charlotte",
         "start_state": "NC",
         "end_state": "NC",
@@ -14,18 +14,18 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.07062617000252,
+            -80.84524277590019
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "01:28:04",
+        "elevation_gain": 290,
+        "elevation_loss": 279,
         "elevation_unit": "feet",
         "status": "Finished",
-        "is_official": true,
-        "is_sanctioned": true,
+        "is_official": false,
+        "is_sanctioned": false,
         "team_name": "",
         "personal_legs": [],
         "notes": ""
@@ -47,7 +47,8 @@
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [],
         "local_files": [
             "activity.gpx"
         ]

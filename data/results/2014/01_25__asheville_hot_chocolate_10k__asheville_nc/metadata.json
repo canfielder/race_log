@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Asheville Hot Chocolate 10K",
         "date": "2014-01-25",
-        "distance_value": null,
+        "distance_value": 10,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.59828676681832,
+            -82.56107091169962
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:42:19",
+        "elevation_gain": 297,
+        "elevation_loss": 296,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 37,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 22,
+        "overall_total": 790,
+        "group_name": "M 25-29",
+        "group_rank": 2,
+        "group_total": 24
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/6356/results/Event/251950/Course/355251/Bib/128",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

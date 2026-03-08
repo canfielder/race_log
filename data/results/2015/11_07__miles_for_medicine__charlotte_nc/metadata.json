@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Miles For Medicine",
         "date": "2015-11-07",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.20960803457209,
+            -80.86218686156955
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:20:28",
+        "elevation_gain": 79,
+        "elevation_loss": 58,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 71,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 6,
+        "overall_total": 419,
+        "group_name": "M 25-29",
+        "group_rank": 1,
+        "group_total": 37
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/156475/results/Event/493840/Course/734105/Bib/57",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

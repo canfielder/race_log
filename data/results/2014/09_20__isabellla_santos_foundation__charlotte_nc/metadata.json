@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Isabellla Santos Foundation",
         "date": "2014-09-20",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,24 +14,24 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.06036601466478,
+            -80.85407724561344
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:21:28",
+        "elevation_gain": 104,
+        "elevation_loss": 105,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
         "is_sanctioned": true,
         "team_name": "",
         "personal_legs": [],
-        "notes": ""
+        "notes": "Missed the split between 5k and 10k."
     },
     "weather": {
-        "temp": null,
+        "temp": 82,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 12,
+        "overall_total": 866,
+        "group_name": "M 25-29",
+        "group_rank": 4,
+        "group_total": 36
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/180733/results/Event/357820/Course/524872/Bib/87",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

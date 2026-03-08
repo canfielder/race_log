@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Elizabeth 8K Road Race",
         "date": "2017-03-25",
-        "distance_value": null,
+        "distance_value": 8,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.21553316215694,
+            -80.82374812764603
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:32:40",
+        "elevation_gain": 171,
+        "elevation_loss": 150,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 75,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 12,
+        "overall_total": 735,
+        "group_name": "M 30-34",
+        "group_rank": 6,
+        "group_total": 75
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://jonesracingcompany.com/2017-results/elizabeth8k/",
+        "athlinks_url": "https://www.athlinks.com/event/19840/results/Event/624998/Course/959200/Bib/97",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

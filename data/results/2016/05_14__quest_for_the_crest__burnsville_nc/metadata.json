@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Quest For The Crest",
         "date": "2016-05-14",
-        "distance_value": null,
+        "distance_value": 10,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
         "course_style": "Loop",
         "start_city": "Burnsville",
         "start_state": "NC",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.83818762749735,
+            -82.21935486140987
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "01:49:37",
+        "elevation_gain": 2970,
+        "elevation_loss": 2979,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 72,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 19,
+        "overall_total": 101,
+        "group_name": "M 30-39",
+        "group_rank": 7,
+        "group_total": 20
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://ultrasignup.com/results_event.aspx?did=35773#id1062732 ",
+        "athlinks_url": "https://www.athlinks.com/event/112259/results/Event/516571/Course/809451/Entry/257323786",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

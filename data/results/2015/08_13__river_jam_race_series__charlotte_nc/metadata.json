@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "River Jam Race Series",
         "date": "2015-08-13",
-        "distance_value": null,
+        "distance_value": 10,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
         "course_style": "Loop",
         "start_city": "Charlotte",
         "start_state": "NC",
@@ -19,12 +19,12 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:59:36",
+        "elevation_gain": 462,
+        "elevation_loss": 453,
         "elevation_unit": "feet",
         "status": "Finished",
-        "is_official": true,
+        "is_official": false,
         "is_sanctioned": true,
         "team_name": "",
         "personal_legs": [],
@@ -47,10 +47,13 @@
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [
+            "https://www.strava.com/activities/371422351/overview"
+        ],
         "local_files": [
-            "results.pdf",
-            "activity.gpx"
+            "activity.gpx",
+            "results.pdf"
         ]
     }
 }

@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Jingle Jog",
         "date": "2014-12-27",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,14 +14,14 @@
             "GA"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            32.08491538755943, 
+            -81.08565358142643
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:18:32",
+        "elevation_gain": 13,
+        "elevation_loss": 10,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 69,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 2,
+        "overall_total": 204,
+        "group_name": "M",
+        "group_rank": 2,
+        "group_total": 73
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/100864/results/Event/409936/Course/616418/Bib/856",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

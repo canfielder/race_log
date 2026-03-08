@@ -2,8 +2,8 @@
     "race_metadata": {
         "name": "Four On The Fourth",
         "date": "2018-07-04",
-        "distance_value": null,
-        "distance_unit": "kilometers",
+        "distance_value": 4,
+        "distance_unit": "miles",
         "type": "Road",
         "surface": "Asphalt",
         "course_style": "Loop",
@@ -14,14 +14,14 @@
             "ME"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            43.15472406237802,
+            -70.62829562831813
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:26:37",
+        "elevation_gain": 66,
+        "elevation_loss": 72,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -39,20 +39,21 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 30,
+        "overall_total": 865,
+        "group_name": "M 30-39",
+        "group_rank": 9,
+        "group_total": 83
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://me.milesplit.com/meets/323615-york-four-on-the-4th-2018/results/598365/raw#",
+        "athlinks_url": "https://www.athlinks.com/event/39702/results/Event/747601/Course/1261598/Bib/268",
+        "strava_url": [],
         "local_files": [
-            "results_02.png",
-            "results_01.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results_02.png",
+            "results_01.png"
         ]
     }
 }

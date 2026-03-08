@@ -2,11 +2,11 @@
     "race_metadata": {
         "name": "Grand Further Moutain Run",
         "date": "2017-08-26",
-        "distance_value": null,
+        "distance_value": 25,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
-        "course_style": "Loop",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
+        "course_style": "Out-And-Back",
         "start_city": "Banner Elk",
         "start_state": "NC",
         "end_state": "NC",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            36.11917760684868,
+            -81.83310037784017
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "03:33:18",
+        "elevation_gain": 4539,
+        "elevation_loss": 4710,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,27 +31,28 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 72,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
         "wind_direction": "",
-        "condition": ""
+        "condition": "Partly Cloudy"
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 54,
+        "overall_total": 132,
+        "group_name": "M 30-39",
+        "group_rank": 9,
+        "group_total": 33
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://ultrasignup.com/results_event.aspx?did=47097#id1062732",
+        "athlinks_url": "https://www.athlinks.com/event/225026/results/Event/695940/Course/1129281/Entry/318235891",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

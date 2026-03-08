@@ -2,11 +2,11 @@
     "race_metadata": {
         "name": "Tuna Relay 200",
         "date": "2014-10-10",
-        "distance_value": null,
-        "distance_unit": "kilometers",
+        "distance_value": 200,
+        "distance_unit": "miles",
         "type": "Road",
         "surface": "Asphalt",
-        "course_style": "Loop",
+        "course_style": "Point-to-Point",
         "start_city": "Garner",
         "start_state": "NC",
         "end_state": "NC",
@@ -19,15 +19,15 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
+        "official_time": "26:30:07",
         "elevation_gain": null,
         "elevation_loss": null,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
         "is_sanctioned": true,
-        "team_name": "",
-        "personal_legs": [],
+        "team_name": "Tuna Snatchers",
+        "personal_legs": [1, 11, 23, 35],
         "notes": ""
     },
     "weather": {
@@ -39,21 +39,22 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
+        "overall_rank": 5,
+        "overall_total": 67,
         "group_name": "",
         "group_rank": null,
         "group_total": null
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [],
         "local_files": [
             "results.pdf",
-            "leg_1.gpx",
-            "leg_2.gpx",
-            "leg_3.gpx",
-            "leg_4.gpx"
+            "leg_01.gpx",
+            "leg_11.gpx",
+            "leg_23.gpx",
+            "leg_35.gpx"
         ]
     }
 }

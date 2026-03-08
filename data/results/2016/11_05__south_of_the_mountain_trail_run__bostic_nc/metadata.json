@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "South Of The Mountain Trail Run",
         "date": "2016-11-05",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
         "course_style": "Loop",
         "start_city": "Bostic",
         "start_state": "NC",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.40556428815474,
+            -81.78416059871445
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:20:34",
+        "elevation_gain": 267,
+        "elevation_loss": 288,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 68,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 4,
+        "overall_total": 166,
+        "group_name": "M 30-34",
+        "group_rank": 1,
+        "group_total": 6
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/155951/results/Event/596622/Course/900291/Bib/25",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

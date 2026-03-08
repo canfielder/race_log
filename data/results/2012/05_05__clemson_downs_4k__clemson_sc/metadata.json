@@ -1,8 +1,8 @@
 {
     "race_metadata": {
-        "name": "Clemson Downs 4K",
+        "name": "Clemson Downs 5K",
         "date": "2012-05-05",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,12 +14,12 @@
             "SC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            34.67587559560836,
+            -82.7942800299921
         ]
     },
     "results": {
-        "official_time": "00:00:00",
+        "official_time": "00:19:38",
         "elevation_gain": null,
         "elevation_loss": null,
         "elevation_unit": "feet",
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 90,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,18 +39,19 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 2,
+        "overall_total": 60,
+        "group_name": "M 25-29",
+        "group_rank": 1,
+        "group_total": 2
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [],
         "local_files": [
-            "results.png",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

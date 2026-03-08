@@ -14,17 +14,17 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.219579846737126,
+            -80.84276307181337
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "02:31:52",
+        "elevation_gain": 273,
+        "elevation_loss": 252,
         "elevation_unit": "feet",
         "status": "Finished",
-        "is_official": true,
+        "is_official": false,
         "is_sanctioned": true,
         "team_name": "",
         "personal_legs": [],
@@ -47,7 +47,8 @@
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [],
         "local_files": [
             "activity.gpx"
         ]

@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Ring In The New Year",
         "date": "2018-01-01",
-        "distance_value": null,
-        "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "distance_value": 10,
+        "distance_unit": "miles",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
         "course_style": "Loop",
         "start_city": "Fort Mill",
         "start_state": "SC",
@@ -14,14 +14,14 @@
             "SC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.03581409465173, 
+            -80.94215670434163
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "01:27:22",
+        "elevation_gain": 483,
+        "elevation_loss": 484,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,27 +31,28 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 29,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
         "wind_direction": "",
-        "condition": ""
+        "condition": "Sunny"
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 10,
+        "overall_total": 65,
+        "group_name": "M 30-39",
+        "group_rank": 5,
+        "group_total": 11
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/161713/results/Event/701968/Course/1143103/Entry/321551019",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

@@ -2,8 +2,8 @@
     "race_metadata": {
         "name": "American Two Mile Road Race",
         "date": "2013-04-06",
-        "distance_value": null,
-        "distance_unit": "kilometers",
+        "distance_value": 2,
+        "distance_unit": "miles",
         "type": "Road",
         "surface": "Asphalt",
         "course_style": "Loop",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.473878124863994,
+            -80.89934502948319
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:11:22",
+        "elevation_gain": 42,
+        "elevation_loss": 50,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 68,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 12,
+        "overall_total": 63,
+        "group_name": "U 25-29",
+        "group_rank": 4,
+        "group_total": 4
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/78182/results/Event/275316/Course/391416/Entry/143194940",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

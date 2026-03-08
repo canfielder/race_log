@@ -46,12 +46,12 @@
         "group_total": 31
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "https://www.athlinks.com/event/139737/results/Event/1096428/Course/2538953/Bib/2368",
+        "original_url": "https://whitewater.org/wp-content/uploads/2021/01/Finals-A-Shot-In-the-Dark-10k-Overall.pdf",
+        "athlinks_url": "https://www.athlinks.com/event/139737/results/Event/1096428/Course/2538953/Bib/2368",
+        "strava_url": [],
         "local_files": [
             "activity.gpx",
-            "results.html",
-            "results.png"
+            "results.pdf"
         ]
     }
 }

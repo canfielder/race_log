@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Tuckfest Twilight 5K",
         "date": "2016-04-22",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
         "course_style": "Loop",
         "start_city": "Charlotte",
         "start_state": "NC",
@@ -19,12 +19,12 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:25:32",
+        "elevation_gain": 211,
+        "elevation_loss": 207,
         "elevation_unit": "feet",
         "status": "Finished",
-        "is_official": true,
+        "is_official": false,
         "is_sanctioned": true,
         "team_name": "",
         "personal_legs": [],
@@ -47,7 +47,10 @@
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [
+            "https://www.strava.com/activities/553775517/overview"
+        ],
         "local_files": [
             "activity.gpx"
         ]

@@ -2,8 +2,8 @@
     "race_metadata": {
         "name": "The Stevest",
         "date": "2018-07-28",
-        "distance_value": null,
-        "distance_unit": "kilometers",
+        "distance_value": 42,
+        "distance_unit": "miles",
         "type": "Road",
         "surface": "Asphalt",
         "course_style": "Loop",
@@ -14,21 +14,21 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.32065942156891,
+            -80.53571660421157
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "06:14:51",
+        "elevation_gain": 2848,
+        "elevation_loss": 2828,
         "elevation_unit": "feet",
-        "status": "Finished",
-        "is_official": true,
+        "status": "DNF",
+        "is_official": false,
         "is_sanctioned": true,
         "team_name": "",
         "personal_legs": [],
-        "notes": ""
+        "notes": "Only completed 2 of 3 laps."
     },
     "weather": {
         "temp": null,
@@ -46,12 +46,13 @@
         "group_total": null
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://ultrasignup.com/results_event.aspx?did=105111",
+        "athlinks_url": "",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

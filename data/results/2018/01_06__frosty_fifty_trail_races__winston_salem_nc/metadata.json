@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Frosty Fifty Trail Races",
         "date": "2018-01-06",
-        "distance_value": null,
+        "distance_value": 25,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,21 +14,21 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            36.09302664864253,
+            -80.19249674248789
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "01:52:13",
+        "elevation_gain": 1024,
+        "elevation_loss": 1039,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
         "is_sanctioned": true,
         "team_name": "",
         "personal_legs": [],
-        "notes": ""
+        "notes": "GPS watch died during race."
     },
     "weather": {
         "temp": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 18,
+        "overall_total": 243,
+        "group_name": "M 30-39",
+        "group_rank": 3,
+        "group_total": 25
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://runsignup.com/Race/Results/25800/IndividualResult/PdKx?resultSetId=106252#U12691427,U5701270",
+        "athlinks_url": "https://www.athlinks.com/event/47158/results/Event/683967/Course/1101004/Bib/127",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

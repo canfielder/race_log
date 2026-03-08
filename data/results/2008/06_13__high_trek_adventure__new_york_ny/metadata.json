@@ -1,0 +1,56 @@
+{
+    "race_metadata": {
+        "name": "CitySolve High Trek Adventure",
+        "date": "2008-11-27",
+        "distance_value": null,
+        "distance_unit": "kilometers",
+        "type": "Road",
+        "surface": "Asphalt",
+        "course_style": "Scavenger Hunt",
+        "start_city": "New York",
+        "start_state": "NY",
+        "end_state": "NY",
+        "personal_states_covered": [
+            "NY"
+        ],
+        "location_gps": [
+            40.735893437888265,
+            -73.99027637702763
+        ]
+    },
+    "results": {
+        "official_time": "02:06:01",
+        "elevation_gain": null,
+        "elevation_loss": null,
+        "elevation_unit": "feet",
+        "status": "Finished",
+        "is_official": true,
+        "is_sanctioned": true,
+        "team_name": "Monster Bear",
+        "personal_legs": [],
+        "notes": "Ran with Heather Sarkees. Only evidence is pictures from the day."
+    },
+    "weather": {
+        "temp": null,
+        "feels_like": null,
+        "humidity": null,
+        "wind_speed": null,
+        "wind_direction": "",
+        "condition": ""
+    },
+    "rankings": {
+        "overall_rank": null,
+        "overall_total": null,
+        "group_name": "",
+        "group_rank": null,
+        "group_total": null
+    },
+    "sources": {
+        "original_url": "https://web.archive.org/web/20081018213825/http://www.hightrekadventure.com/nyc-urban-race",
+        "athlinks_url": "",
+        "strava_url": [],
+        "local_files": [
+            "photos/heather_and_evan_exxon.jpg"
+        ]
+    }
+}

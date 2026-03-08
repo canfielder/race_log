@@ -14,8 +14,8 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.151039555856244,
+            -80.7413072943311
         ]
     },
     "results": {
@@ -47,10 +47,11 @@
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [],
         "local_files": [
-            "results.png",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

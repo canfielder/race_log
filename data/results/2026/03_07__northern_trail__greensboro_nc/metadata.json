@@ -1,0 +1,61 @@
+{
+    "race_metadata": {
+        "name": "Northern Trails Trail Race",
+        "date": "2026-03-07",
+        "distance_value": 10,
+        "distance_unit": "miles",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
+        "course_style": "Loop",
+        "start_city": "Greensboro",
+        "start_state": "NC",
+        "end_state": "NC",
+        "personal_states_covered": [
+            "NC"
+        ],
+        "location_gps": [
+            36.20910545909041,
+            -79.80442993022925
+        ]
+    },
+    "results": {
+        "official_time": "01:52:03",
+        "elevation_gain": 1638,
+        "elevation_loss": 1822,
+        "elevation_unit": "feet",
+        "status": "Finished",
+        "is_official": true,
+        "is_sanctioned": true,
+        "team_name": "",
+        "personal_legs": [],
+        "notes": ""
+    },
+    "weather": {
+        "temp": 63,
+        "feels_like": 66,
+        "humidity": 90,
+        "wind_speed": 5.8,
+        "wind_direction": "SW",
+        "condition": "Clear"
+    },
+    "rankings": {
+        "overall_rank": 23,
+        "overall_total": 72,
+        "group_name": "M 40-45",
+        "group_rank": 8,
+        "group_total": 9
+    },
+    "sources": {
+        "original_url": "https://runsignup.com/Race/Results/17965#resultSetId-631689;perpage:5000",
+        "athlinks_url": "",
+        "strava_url": [
+            "https://www.strava.com/activities/17637622945/overview"
+        ],
+        "local_files": [
+            "activity.gpx",
+            "results.html",
+            "results.png",
+            "results__personal.png"
+        ]
+    }
+}

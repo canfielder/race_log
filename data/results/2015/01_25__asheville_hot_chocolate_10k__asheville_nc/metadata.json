@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Asheville Hot Chocolate 10K",
         "date": "2015-01-25",
-        "distance_value": null,
+        "distance_value": 10,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.59828676681832,
+            -82.56107091169962
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:41:05",
+        "elevation_gain": 300,
+        "elevation_loss": 297,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 54,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,20 +39,21 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 21,
+        "overall_total": 666,
+        "group_name": "M 25-29",
+        "group_rank": 5,
+        "group_total": 22
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://rightontimeproductions.blogspot.com/2015/01/2015-hot-chocolate-10k-overall-results.html",
+        "athlinks_url": "https://www.athlinks.com/event/6356/results/Event/403378/Course/605487/Bib/891",
+        "strava_url": [],
         "local_files": [
-            "results_02.png",
-            "results_01.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results_01.png",
+            "results_02.png"
         ]
     }
 }

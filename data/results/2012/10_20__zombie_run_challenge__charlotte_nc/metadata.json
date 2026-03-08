@@ -4,8 +4,8 @@
         "date": "2012-10-20",
         "distance_value": null,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "type": "Trail",
+        "surface": "Grass",
         "course_style": "Loop",
         "start_city": "Charlotte",
         "start_state": "NC",
@@ -14,17 +14,17 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.17865735184324,
+            -80.90814345996161
         ]
     },
     "results": {
         "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "elevation_gain": 344,
+        "elevation_loss": 363,
         "elevation_unit": "feet",
         "status": "Finished",
-        "is_official": true,
+        "is_official": false,
         "is_sanctioned": true,
         "team_name": "",
         "personal_legs": [],
@@ -47,7 +47,8 @@
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [],
         "local_files": [
             "activity.gpx"
         ]

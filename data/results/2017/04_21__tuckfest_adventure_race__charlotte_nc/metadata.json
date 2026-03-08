@@ -1,0 +1,58 @@
+{
+    "race_metadata": {
+        "name": "Tuckfest Adventure Race",
+        "date": "2017-04-21",
+        "distance_value": null,
+        "distance_unit": "kilometers",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
+        "course_style": "Orienteering",
+        "start_city": "Charlotte",
+        "start_state": "NC",
+        "end_state": "NC",
+        "personal_states_covered": [
+            "NC"
+        ],
+        "location_gps": [
+            35.270849437529385,
+            -81.00761637831458
+        ]
+    },
+    "results": {
+        "official_time": "01:36:42",
+        "elevation_gain": 665,
+        "elevation_loss": 667,
+        "elevation_unit": "feet",
+        "status": "Finished",
+        "is_official": false,
+        "is_sanctioned": true,
+        "team_name": "",
+        "personal_legs": [],
+        "notes": "Night-time orienteering. 8/8 markers."
+    },
+    "weather": {
+        "temp": null,
+        "feels_like": null,
+        "humidity": null,
+        "wind_speed": null,
+        "wind_direction": "",
+        "condition": "Night orienteering."
+    },
+    "rankings": {
+        "overall_rank": 3,
+        "overall_total": null,
+        "group_name": "",
+        "group_rank": null,
+        "group_total": null
+    },
+    "sources": {
+        "original_url": "",
+        "athlinks_url": "",
+        "strava_url": [
+            "https://www.strava.com/activities/952232160/overview"
+        ],
+        "local_files": [
+            "activity.gpx"
+        ]
+    }
+}

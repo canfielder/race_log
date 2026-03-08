@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Nodaween Freaky 5K",
         "date": "2012-10-27",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -19,7 +19,7 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
+        "official_time": "00:18:38",
         "elevation_gain": null,
         "elevation_loss": null,
         "elevation_unit": "feet",
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 72,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 3,
+        "overall_total": 181,
+        "group_name": "M",
+        "group_rank": 2,
+        "group_total": 80
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/26365/results/Event/237045/Course/331891/Bib/162",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

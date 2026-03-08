@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "First Footin Five Miler",
         "date": "2015-01-01",
-        "distance_value": null,
-        "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "distance_value": 5,
+        "distance_unit": "miles",
+        "type": "Trail",
+        "surface": "Grass",
         "course_style": "Loop",
         "start_city": "Huntersville",
         "start_state": "NC",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.38680350824558,
+            -80.94561690234775
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:36:45",
+        "elevation_gain": 289,
+        "elevation_loss": 283,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 53,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
+        "overall_rank": 3,
+        "overall_total": 60,
         "group_name": "",
         "group_rank": null,
         "group_total": null
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/183197/results/Event/403422/Course/605590/Entry/206971943",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

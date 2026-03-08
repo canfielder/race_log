@@ -47,10 +47,12 @@
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [],
         "local_files": [
+            "results.html",
             "results.png",
-            "results.html"
+            "photos/action__pre_race.jpg"
         ]
     }
 }

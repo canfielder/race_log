@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Run With Theoden 5K",
         "date": "2014-10-18",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -19,7 +19,7 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
+        "official_time": "00:19:40",
         "elevation_gain": null,
         "elevation_loss": null,
         "elevation_unit": "feet",
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 75,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,15 +39,16 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
+        "overall_rank": 6,
+        "overall_total": 49,
+        "group_name": "M 25-29",
+        "group_rank": 2,
         "group_total": null
     },
     "sources": {
         "original_url": "https://jonesracingcompany.com/2014-results/theoden/",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/153076/results/Event/484133/Course/720109/Bib/9",
+        "strava_url": [],
         "local_files": [
             "results.png",
             "results.html"

@@ -15,5 +15,22 @@
         "fill_color": "rgba(233, 30, 99, 0.2)",
         "height": 300,
         "y_axis_buffer_percent": 0.1
+    },
+    "metadata": {
+        "palette_url": "https://coolors.co/palette/001219-005f73-0a9396-94d2bd-e9d8a6-ee9b00-ca6702-bb3e03-ae2012-9b2226",
+        "theme_name": "Ocean Sunset",
+        "last_accessed": "2026-03-03"
+    },
+    "palette": {
+        "ink_black": "#001219",
+        "dark_teal": "#005f73",
+        "dark_cyan": "#0a9396",
+        "pearl_aqua": "#94d2bd",
+        "vanilla": "#e9d8a6",
+        "orange": "#ee9b00",
+        "caramel": "#ca6702",
+        "spice": "#bb3e03",
+        "iron": "#ae2012",
+        "red": "#9b2226"
     }
 }

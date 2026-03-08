@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Tiger Trail 5K",
         "date": "2017-07-15",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "type": "Trail",
+        "surface": "Grass",
         "course_style": "Loop",
         "start_city": "Greenville",
         "start_state": "SC",
@@ -14,14 +14,14 @@
             "SC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            34.7970684701094, 
+            -82.40642482610845
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:21:38.74",
+        "elevation_gain": 171,
+        "elevation_loss": 173,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,27 +31,28 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 91,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
         "wind_direction": "",
-        "condition": ""
+        "condition": "Sunny"
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 33,
+        "overall_total": 232,
+        "group_name": "M 30-39",
+        "group_rank": 1,
+        "group_total": 13
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://sc.milesplit.com/meets/283738-tiger-trail-5k-2017/results/531947/raw",
+        "athlinks_url": "https://www.athlinks.com/event/209451/results/Event/657940/Course/1030063/Entry/300315301",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

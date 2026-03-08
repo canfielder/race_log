@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Free Tacky Sweater 5K",
         "date": "2016-12-10",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "type": "Trail",
+        "surface": "Grass",
         "course_style": "Loop",
         "start_city": "Greenville",
         "start_state": "SC",
@@ -14,14 +14,14 @@
             "SC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            34.7970684701094, 
+            -82.40642482610845
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:21:16",
+        "elevation_gain": 166,
+        "elevation_loss": 189,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 46,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 8,
+        "overall_total": 136,
+        "group_name": "M 30-34",
+        "group_rank": 2,
+        "group_total": 4
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://sc.milesplit.com/meets/258203-free-tacky-sweater-5k-2016/results",
+        "athlinks_url": "https://www.athlinks.com/event/135048/results/Event/604373/Course/915611/Entry/278760049",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

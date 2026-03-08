@@ -2,8 +2,8 @@
     "race_metadata": {
         "name": "The Bear",
         "date": "2015-07-09",
-        "distance_value": null,
-        "distance_unit": "kilometers",
+        "distance_value": 5,
+        "distance_unit": "miles",
         "type": "Road",
         "surface": "Asphalt",
         "course_style": "Loop",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            36.07112452699795,
+            -81.87046029823598
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:47:59",
+        "elevation_gain": 1655,
+        "elevation_loss": 58,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 88,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,20 +39,21 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 139,
+        "overall_total": 763,
+        "group_name": "M 25-29",
+        "group_rank": 15,
+        "group_total": 33
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://www.leetiming.com/BEAR5M2015_OA.htm",
+        "athlinks_url": "https://www.athlinks.com/event/5788/results/Event/415143/Course/625011/Bib/91",
+        "strava_url": [],
         "local_files": [
-            "results_02.png",
-            "results_01.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results_01.png",
+            "results_02.png"
         ]
     }
 }

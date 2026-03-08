@@ -1,13 +1,21 @@
+import os
 import json
 import pandas as pd
 import pathlib
 import streamlit as st
 import gpxpy
+from dotenv import load_dotenv
 
 from src.paths import CONFIG_DIR, RAW_DIR, RESULTS_DIR
 from src.pace import (
     calculate_climb_density, calculate_elevation_bounds, calculate_paces
 )
+
+# Load the .env file
+load_dotenv()
+
+# Access the key
+TF_API_KEY = os.getenv("THUNDERFOREST_API_KEY")
 
 @st.cache_data
 def load_future_races():
@@ -22,40 +30,61 @@ def load_future_races():
 
 
 @st.cache_data
-def load_race_history():
+def load_race_history(verbose=False):
     history_data = []
     
     for json_path in RESULTS_DIR.glob("**/*.json"):
-        with open(json_path, 'r') as f:
-            data = json.load(f)
-            
-            # Extracting nested values
-            meta = data.get('race_metadata', {})
-            res = data.get('results', {})
-            
-            row = {
-                "Name": meta.get('name'),
-                "Date": pd.to_datetime(meta.get('date')),
-                "Year": pd.to_datetime(meta.get('date')).year, # Added for map popup
-                "Distance": meta.get('distance_value'),
-                "Unit": meta.get('distance_unit'),
-                "Type": meta.get('type'),
-                "Surface": meta.get('surface'),
-                "Time": res.get('official_time'),
-                "Elevation": res.get('elevation_gain'),
-                "State": meta.get('start_state'),
-                "Lat": meta.get('location_gps')[0] if meta.get('location_gps') else None,
-                "Lon": meta.get('location_gps')[1] if meta.get('location_gps') else None,
-                "is_official": res.get('is_official', False),
-                "folder_path": str(json_path.parent) # Crucial for finding activity.gpx
-            }
+        if json_path.name.startswith("._"):
+            if verbose:
+                print(f"File Detected With Leading Underscore: {json_path}")
+            continue
 
-            # Calculate Paces
-            pace, gap = calculate_paces(row)
-            row["Pace"] = pace
-            row["GAP"] = gap
+        if verbose:
+            print(f"📂 Processing: {json_path}")
 
-            history_data.append(row)
+        try:
+            with open(json_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            
+                # Extracting nested values
+                meta = data.get('race_metadata', {})
+                res = data.get('results', {})
+                src = data.get('sources', {}) # New source extraction
+                
+                row = {
+                    "Name": meta.get('name'),
+                    "Date": pd.to_datetime(meta.get('date')),
+                    "Year": pd.to_datetime(meta.get('date')).year,
+                    "Distance": meta.get('distance_value'),
+                    "Unit": meta.get('distance_unit'),
+                    "Type": meta.get('type'),
+                    "Surface": meta.get('surface'),
+                    "Time": res.get('official_time'),
+                    "Elevation": res.get('elevation_gain'),
+                    "State": meta.get('start_state'),
+                    "Lat": meta.get('location_gps')[0] if meta.get('location_gps') else None,
+                    "Lon": meta.get('location_gps')[1] if meta.get('location_gps') else None,
+                    "is_official": res.get('is_official', False),
+                    "folder_path": str(json_path.parent),
+                    
+                    # New URL fields
+                    "athlinks_url": src.get('athlinks_url', None),
+                    "original_url": src.get('original_url', None),
+                    "strava_url": src.get('strava_url', None)
+                }
+
+                # Calculate Paces
+                pace, gap = calculate_paces(row)
+                row["Pace"] = pace
+                row["GAP"] = gap
+
+                history_data.append(row)
+
+        except json.JSONDecodeError as e:
+            # We always print errors, regardless of verbose level
+            print(f"\n❌ JSON ERROR in: {json_path}")
+            print(f"   Line {e.lineno}, Col {e.colno}: {e.msg}")
+            continue
 
     return pd.DataFrame(history_data)
 

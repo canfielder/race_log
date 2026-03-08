@@ -2,8 +2,8 @@
     "race_metadata": {
         "name": "Charlotte Runners Beer Mile",
         "date": "2012-03-15",
-        "distance_value": null,
-        "distance_unit": "kilometers",
+        "distance_value": 1,
+        "distance_unit": "miles",
         "type": "Road",
         "surface": "Asphalt",
         "course_style": "Loop",
@@ -14,8 +14,8 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.21650151750566,
+            -80.80534530339396
         ]
     },
     "results": {
@@ -28,7 +28,7 @@
         "is_sanctioned": true,
         "team_name": "",
         "personal_legs": [],
-        "notes": ""
+        "notes": "5th Annual"
     },
     "weather": {
         "temp": null,
@@ -39,7 +39,7 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
+        "overall_rank": 2,
         "overall_total": null,
         "group_name": "",
         "group_rank": null,
@@ -47,7 +47,8 @@
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [],
         "local_files": []
     }
 }

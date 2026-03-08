@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Grayson Highlands",
         "date": "2017-05-06",
-        "distance_value": null,
-        "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "distance_value": 13.1,
+        "distance_unit": "miles",
+        "type": "Trail",
+        "surface": "Trial (Technical)",
         "course_style": "Loop",
         "start_city": "Mouth Of Wilson",
         "start_state": "VA",
@@ -14,14 +14,14 @@
             "VA"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            36.62457515923949,
+            -81.5003299453895
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "01:49:37",
+        "elevation_gain": 1992,
+        "elevation_loss": 1027,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 53,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 3,
+        "overall_total": 163,
+        "group_name": "M 30-39",
+        "group_rank": 1,
+        "group_total": 28
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://ultrasignup.com/results_event.aspx?did=38828#id1062732",
+        "athlinks_url": "https://www.athlinks.com/event/137051/results/Event/630842/Course/1001991/Entry/295095883",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

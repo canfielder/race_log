@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Brew Dash 6K",
         "date": "2014-06-14",
-        "distance_value": null,
+        "distance_value": 6,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
         "course_style": "Loop",
         "start_city": "Charlotte",
         "start_state": "NC",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.270849437529385,
+            -81.00761637831458
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:24:50",
+        "elevation_gain": 219,
+        "elevation_loss": 347,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 86,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,18 +39,19 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 3,
+        "overall_total": 709,
+        "group_name": "M 25-29",
+        "group_rank": 3,
+        "group_total": 101
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://whitewater.org/wp-content/uploads/2020/08/2018-2013-Brew-Dash-Age-Group-Results.pdf",
+        "athlinks_url": "https://www.athlinks.com/event/40216/results/Event/348162/Course/572726/Bib/5108",
+        "strava_url": [],
         "local_files": [
-            "results.pdf",
-            "activity.gpx"
+            "activity.gpx",
+            "results.pdf"
         ]
     }
 }

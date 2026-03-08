@@ -2,8 +2,8 @@
     "race_metadata": {
         "name": "Charlotte Runners Beer Mile",
         "date": "2014-03-13",
-        "distance_value": null,
-        "distance_unit": "kilometers",
+        "distance_value": 1,
+        "distance_unit": "miles",
         "type": "Road",
         "surface": "Asphalt",
         "course_style": "Loop",
@@ -14,21 +14,21 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.21650151750566,
+            -80.80534530339396
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:08:04",
+        "elevation_gain": 58,
+        "elevation_loss": 55,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
         "is_sanctioned": true,
         "team_name": "",
         "personal_legs": [],
-        "notes": ""
+        "notes": "7th Annual"
     },
     "weather": {
         "temp": null,
@@ -39,7 +39,7 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
+        "overall_rank": 1,
         "overall_total": null,
         "group_name": "",
         "group_rank": null,
@@ -47,7 +47,10 @@
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [
+            "https://www.strava.com/activities/1286364754/overview"
+        ],
         "local_files": [
             "activity.gpx"
         ]

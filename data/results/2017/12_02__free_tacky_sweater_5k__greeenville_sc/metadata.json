@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Free Tacky Sweater 5K",
         "date": "2017-12-02",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,14 +14,14 @@
             "SC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            34.7970684701094, 
+            -82.40642482610845
         ]
     },
     "results": {
         "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "elevation_gain": 179,
+        "elevation_loss": 197,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,27 +31,28 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 60,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
         "wind_direction": "",
-        "condition": ""
+        "condition": "Partly Cloudy"
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 9,
+        "overall_total": 571,
+        "group_name": "M 30-34",
+        "group_rank": 2,
+        "group_total": 24
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://sc.milesplit.com/meets/295854-free-tacky-sweater-5k-2017/results/560554/raw",
+        "athlinks_url": "https://www.athlinks.com/event/135048/results/Event/694756/Course/1126730/Entry/318245546",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

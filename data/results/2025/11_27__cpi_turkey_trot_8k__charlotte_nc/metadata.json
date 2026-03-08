@@ -40,14 +40,15 @@
     },
     "rankings": {
         "overall_rank": 146,
-        "overall_total": null,
+        "overall_total": 2337,
         "group_name": "M 35-39",
-        "group_rank": 25,
-        "group_total": null
+        "group_rank": 22,
+        "group_total": 149
     },
     "sources": {
         "original_url": "https://results.raceroster.com/v3/events/akmduj6sssqnt4bd/race/248637?filter_search=&sort=ageGroup+desc",
-        "athlinks_id": "5989",
+        "athlinks_url": "https://www.athlinks.com/event/5989/results/Event/1128942/Course/2673971/Bib/1728?source=internal",
+        "strava_url": [],
         "local_files": [
             "activity.gpx",
             "results.html",

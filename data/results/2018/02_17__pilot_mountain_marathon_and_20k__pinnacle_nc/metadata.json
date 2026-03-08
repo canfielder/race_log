@@ -2,11 +2,11 @@
     "race_metadata": {
         "name": "Pilot Mountain Marathon And 20K",
         "date": "2018-02-17",
-        "distance_value": null,
+        "distance_value": 20,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
-        "course_style": "Loop",
+        "type": "Trail",
+        "surface": "Trail (Techinical)",
+        "course_style": "Out-And-Back",
         "start_city": "Pinnacle",
         "start_state": "NC",
         "end_state": "NC",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            36.35904100036923,
+            -80.49321688151065
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "01:47:19",
+        "elevation_gain": 1844,
+        "elevation_loss": 1864,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,27 +31,28 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 49,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
         "wind_direction": "",
-        "condition": ""
+        "condition": "Cloudy"
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 6,
+        "overall_total": 53,
+        "group_name": "M 30-39",
+        "group_rank": 5,
+        "group_total": 12
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://ultrasignup.com/results_event.aspx?did=51833#id1062732",
+        "athlinks_url": "",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

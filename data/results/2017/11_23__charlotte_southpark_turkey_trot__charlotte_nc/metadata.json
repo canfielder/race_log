@@ -19,9 +19,9 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:30:34",
+        "elevation_gain": 160,
+        "elevation_loss": 164,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 44,
+        "overall_total": 2678,
+        "group_name": "M 30-34",
+        "group_rank": 8,
+        "group_total": 156
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/5989/results/Event/604245/Course/915372/Bib/383",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

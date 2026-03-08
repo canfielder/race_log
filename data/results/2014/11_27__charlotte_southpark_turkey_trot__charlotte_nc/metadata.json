@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Charlotte Turkey Trot",
         "date": "2014-11-27",
-        "distance_value": null,
+        "distance_value": 8,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -19,9 +19,9 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:30:31",
+        "elevation_gain": 117,
+        "elevation_loss": 130,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 52,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,15 +39,16 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 52,
+        "overall_total": 3451,
+        "group_name": "M 25-29",
+        "group_rank": 10,
+        "group_total": 167
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/5989/results/Event/407074/Course/534882/Bib/470",
+        "strava_url": [],
         "local_files": [
             "results.png",
             "activity.gpx",

@@ -2,8 +2,8 @@
     "race_metadata": {
         "name": "Rock N Roll Brooklyn",
         "date": "2017-10-14",
-        "distance_value": null,
-        "distance_unit": "kilometers",
+        "distance_value": 13.1,
+        "distance_unit": "miles",
         "type": "Road",
         "surface": "Asphalt",
         "course_style": "Loop",
@@ -14,14 +14,14 @@
             "NY"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            40.672400320509546, 
+            -73.96513382541593
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "01:28:50",
+        "elevation_gain": 166,
+        "elevation_loss": 206,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,27 +31,28 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 72,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
         "wind_direction": "",
-        "condition": ""
+        "condition": "Cloudy"
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 72,
+        "overall_total": 8512,
+        "group_name": "M 30-34",
+        "group_rank": 15,
+        "group_total": 639
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "https://www.athlinks.com/event/186133/results/Event/683430/Course/918302/Bib/1269",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

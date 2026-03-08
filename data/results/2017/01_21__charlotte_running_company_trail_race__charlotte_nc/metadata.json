@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Charlotte Running Company Trail Race",
         "date": "2017-01-21",
-        "distance_value": null,
-        "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "distance_value": 9,
+        "distance_unit": "miles",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
         "course_style": "Loop",
         "start_city": "Charlotte",
         "start_state": "NC",
@@ -19,9 +19,9 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "01:06:49",
+        "elevation_gain": 512,
+        "elevation_loss": 493,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 15,
+        "overall_total": 418,
+        "group_name": "M 30-34",
+        "group_rank": 1,
+        "group_total": 18
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://results.raceroster.com/v3/events/zmjg5rv4v7jaucq6/race/90640/participant/na4b9nsuvpbebbug?filter_search=",
+        "athlinks_url": "https://www.athlinks.com/event/40402/results/Event/613104/Course/942232/Bib/285",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

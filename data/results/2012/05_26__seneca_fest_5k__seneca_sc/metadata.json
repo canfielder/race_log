@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Seneca Fest 5K",
         "date": "2012-05-26",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,12 +14,12 @@
             "SC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            34.67851386174585,
+            -82.96532709803193
         ]
     },
     "results": {
-        "official_time": "00:00:00",
+        "official_time": "00:18:40",
         "elevation_gain": null,
         "elevation_loss": null,
         "elevation_unit": "feet",
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 93,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,18 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 1,
+        "overall_total": 150,
+        "group_name": "M 25-29",
+        "group_rank": 1,
+        "group_total": 4
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://terrytimes.com/results/SF5K12AWA.txt",
+        "athlinks_url": "https://www.athlinks.com/event/15347/results/Event/210780/Course/291065/Bib/112",
+        "strava_url": [],
         "local_files": [
+            "results.html",
             "results.png",
-            "results.html"
+            "results.txt"
         ]
     }
 }

@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Shot In The Dark",
         "date": "2015-11-13",
-        "distance_value": null,
+        "distance_value": 10,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
         "course_style": "Loop",
         "start_city": "Charlotte",
         "start_state": "NC",
@@ -19,7 +19,7 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
+        "official_time": "00:43:47",
         "elevation_gain": null,
         "elevation_loss": null,
         "elevation_unit": "feet",
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 66,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,19 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
+        "overall_rank": 4,
+        "overall_total": 100,
         "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "group_rank": 2,
+        "group_total": 3
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://whitewater.org/wp-content/uploads/2021/01/2019-2014-Shot-in-the-Dark-10k-Overall.pdf",
+        "athlinks_url": "https://www.athlinks.com/event/139737/results/Event/444573/Course/665425/Bib/5741",
+        "strava_url": [],
         "local_files": [
-            "results.pdf",
             "activity.gpx",
-            "url.txt"
+            "results.pdf"
         ]
     }
 }

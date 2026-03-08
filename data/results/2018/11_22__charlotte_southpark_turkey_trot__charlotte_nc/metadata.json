@@ -19,9 +19,9 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:33:26",
+        "elevation_gain": 174,
+        "elevation_loss": 167,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,28 +31,28 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 58,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
         "wind_direction": "",
-        "condition": ""
+        "condition": "Partly Cloudy"
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 89,
+        "overall_total": 2521,
+        "group_name": "M 30-34",
+        "group_rank": 11,
+        "group_total": 164
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://resultscui.active.com/participants/36118345",
+        "athlinks_url": "https://www.athlinks.com/event/5989/results/Event/828458/Course/1471482/Bib/584",
+        "strava_url": [],
         "local_files": [
-            "results.png",
-            "metadata 2.json",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

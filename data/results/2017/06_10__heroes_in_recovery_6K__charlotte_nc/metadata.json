@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Heroes In Recovery 6K",
         "date": "2017-06-10",
-        "distance_value": null,
+        "distance_value": 6,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "type": "Trail",
+        "surface": "Groomed",
         "course_style": "Loop",
         "start_city": "Charlotte",
         "start_state": "NC",
@@ -14,14 +14,14 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.151039555856244,
+            -80.7413072943311
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "00:25:10",
+        "elevation_gain": 37,
+        "elevation_loss": 33,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 86,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,19 +39,20 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 18,
+        "overall_total": 283,
+        "group_name": "M 30-34",
+        "group_rank": 2,
+        "group_total": 10
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://runsignup.com/Race/Results/48497/IndividualResult/PtZq?resultSetId=84019#U5701270",
+        "athlinks_url": "https://www.athlinks.com/event/113016/results/Event/646222/Course/1007886/Bib/238",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }

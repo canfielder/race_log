@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Tuckfest Quarter Marathon",
         "date": "2014-04-26",
-        "distance_value": null,
-        "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "distance_value": 6.6,
+        "distance_unit": "miles",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
         "course_style": "Loop",
         "start_city": "Charlotte",
         "start_state": "NC",
@@ -19,9 +19,9 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "01:07:01",
+        "elevation_gain": 469,
+        "elevation_loss": 476,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -47,7 +47,8 @@
     },
     "sources": {
         "original_url": "",
-        "athlinks_id": "",
+        "athlinks_url": "",
+        "strava_url": [],
         "local_files": [
             "activity.gpx"
         ]

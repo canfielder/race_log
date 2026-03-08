@@ -2,11 +2,11 @@
     "race_metadata": {
         "name": "Loon Mountain Race",
         "date": "2017-07-02",
-        "distance_value": null,
-        "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
-        "course_style": "Loop",
+        "distance_value": 6.6,
+        "distance_unit": "miles",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
+        "course_style": "Point-To-Point",
         "start_city": "Lincoln",
         "start_state": "NH",
         "end_state": "NH",
@@ -14,14 +14,14 @@
             "NH"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            44.0557025682475,
+            -71.62981959335953
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
-        "elevation_loss": null,
+        "official_time": "01:37:40",
+        "elevation_gain": 2952,
+        "elevation_loss": 1189,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": true,
@@ -31,27 +31,28 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 80,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
         "wind_direction": "",
-        "condition": ""
+        "condition": "Partly Cloudy"
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 207,
+        "overall_total": 462,
+        "group_name": "M 30-39",
+        "group_rank": 86,
+        "group_total": 121
     },
     "sources": {
-        "original_url": "",
-        "athlinks_id": "",
+        "original_url": "https://ultrasignup.com/results_event.aspx?did=92789#id1062732",
+        "athlinks_url": "https://www.athlinks.com/event/48593/results/Event/655673/Course/1025395/Bib/167",
+        "strava_url": [],
         "local_files": [
-            "results.png",
             "activity.gpx",
-            "results.html"
+            "results.html",
+            "results.png"
         ]
     }
 }
