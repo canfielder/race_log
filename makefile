@@ -47,6 +47,12 @@ clean:
 	rm -rf dist build *.egg-info __pycache__ .pytest_cache .ruff_cache
 	find . -name "*.pyc" -delete
 
+# --- Requirements ---
+requirements:
+	@echo "📦 Generating requirements.txt from pyproject.toml..."
+	@uv pip compile pyproject.toml -o requirements.txt
+	@echo "✅ Success! requirements.txt has been updated."
+
 # Help menu
 help:
 	@echo "Available commands:"
