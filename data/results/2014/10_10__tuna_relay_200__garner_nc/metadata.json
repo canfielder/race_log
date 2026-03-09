@@ -48,7 +48,24 @@
     "sources": {
         "original_url": "",
         "athlinks_url": "",
-        "strava_url": [],
+        "strava_url": [
+            {
+                "label": "Leg 1",
+                "url": "https://www.strava.com/activities/210247922/overview"
+            },
+            {
+                "label": "Leg 11",
+                "url": "https://www.strava.com/activities/210247916/overview"
+            },
+            {
+                "label": "Leg 23",
+                "url": "https://www.strava.com/activities/210247920/overview"
+            },
+            {
+                "label": "Leg 35",
+                "url": "https://www.strava.com/activities/210247913/overview"
+            }
+        ],
         "local_files": [
             "results.pdf",
             "leg_01.gpx",

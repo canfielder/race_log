@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://whitewater.org/wp-content/uploads/2020/09/2013-2019-labor-day-trail-race-15k-overall.pdf",
         "athlinks_url": "https://www.athlinks.com/event/70234/results/Event/305015/Course/437216/Bib/3194",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1159750498/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.pdf"

@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Hopebuilders 5K",
         "date": "2010-10-09",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,12 +14,12 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.206350067616704,
+            -80.83886217992041
         ]
     },
     "results": {
-        "official_time": "00:00:00",
+        "official_time": "00:19:51",
         "elevation_gain": null,
         "elevation_loss": null,
         "elevation_unit": "feet",
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 83,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,15 +39,15 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 13,
+        "overall_total": 773,
+        "group_name": "M 20-24",
+        "group_rank": 2,
+        "group_total": 8
     },
     "sources": {
         "original_url": "",
-        "athlinks_url": "",
+        "athlinks_url": "https://www.athlinks.com/event/2632/results/Event/150228/Course/205803/Bib/859",
         "strava_url": [],
         "local_files": [
             "results.html",

@@ -2,7 +2,7 @@
     "race_metadata": {
         "name": "Portsmouth Harbor 5K Road Race",
         "date": "2010-07-10",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
         "type": "Road",
         "surface": "Asphalt",
@@ -14,13 +14,13 @@
             "NH"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            43.06710509027368,
+            -70.75249246004213
         ]
     },
     "results": {
-        "official_time": "00:00:00",
-        "elevation_gain": null,
+        "official_time": "00:19:28",
+        "elevation_gain": 122,
         "elevation_loss": null,
         "elevation_unit": "feet",
         "status": "Finished",
@@ -31,7 +31,7 @@
         "notes": "2016 Portsmouth Jingle Bell '5K' strava segment used as proxy for course. From my memory this feels very close. https://www.strava.com/segments/13800989."
     },
     "weather": {
-        "temp": null,
+        "temp": 84,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,15 +39,15 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 24,
+        "overall_total": 310,
+        "group_name": "M 20-24",
+        "group_rank": 3,
+        "group_total": 10
     },
     "sources": {
         "original_url": "",
-        "athlinks_url": "",
+        "athlinks_url": "https://www.athlinks.com/event/41257/results/Event/160513/Course/220675/Bib/23",
         "strava_url": [],
         "local_files": [
             "results.html",

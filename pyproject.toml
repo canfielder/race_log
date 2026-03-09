@@ -1,7 +1,7 @@
 [project]
 name = "race_log"
 version = "1.0.0"
-description = "Comprehensive visualization, history tracking, and performance analysis engine for trail and road races."
+description = "Comprehensive visualization, history tracking, and performance analysis engine running races."
 readme = "README.md"
 requires-python = ">=3.11,<3.12"
 license = { text = "MIT" }

@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "Warrior Dash",
         "date": "2011-08-28",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
         "course_style": "Loop",
         "start_city": "Huntersville",
         "start_state": "NC",
@@ -14,12 +14,12 @@
             "NC"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            35.38680350824558,
+            -80.94561690234775
         ]
     },
     "results": {
-        "official_time": "00:00:00",
+        "official_time": "00:35:31",
         "elevation_gain": null,
         "elevation_loss": null,
         "elevation_unit": "feet",
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 91,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,15 +39,15 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 703,
+        "overall_total": 4495,
+        "group_name": "M 25-29",
+        "group_rank": 140,
+        "group_total": 533
     },
     "sources": {
         "original_url": "",
-        "athlinks_url": "",
+        "athlinks_url": "https://www.athlinks.com/event/34937/results/Event/177353/Course/244927/Bib/15764",
         "strava_url": [],
         "local_files": [
             "results.html",

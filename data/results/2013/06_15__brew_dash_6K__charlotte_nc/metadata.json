@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://whitewater.org/wp-content/uploads/2020/08/2018-2013-Brew-Dash-Overall-Results.pdf",
         "athlinks_url": "https://www.athlinks.com/event/40216/results/Event/281824/Course/401498/Bib/2546",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1286023965/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.pdf"

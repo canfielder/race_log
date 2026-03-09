@@ -2,10 +2,10 @@
     "race_metadata": {
         "name": "5K Run For Clean Air",
         "date": "2011-05-14",
-        "distance_value": null,
+        "distance_value": 5,
         "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "type": "Trail",
+        "surface": "Groomed",
         "course_style": "Loop",
         "start_city": "Charlotte",
         "start_state": "NC",
@@ -19,7 +19,7 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
+        "official_time": "00:19:34",
         "elevation_gain": null,
         "elevation_loss": null,
         "elevation_unit": "feet",
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 82,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,15 +39,15 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 10,
+        "overall_total": 190,
+        "group_name": "M 25-29",
+        "group_rank": 3,
+        "group_total": 13
     },
     "sources": {
         "original_url": "",
-        "athlinks_url": "",
+        "athlinks_url": "https://www.athlinks.com/event/26097/results/Event/161513/Course/222064/Bib/3982",
         "strava_url": [],
         "local_files": [
             "results.html",

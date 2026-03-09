@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://jonesracingcompany.com/2014-results/theoden/",
         "athlinks_url": "https://www.athlinks.com/event/153076/results/Event/484133/Course/720109/Bib/9",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1286014495"
+        ],
         "local_files": [
             "results.png",
             "results.html"

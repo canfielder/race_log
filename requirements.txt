@@ -34,7 +34,6 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
 pytokens==0.2.0
 pytz==2025.2
--e file:///Users/evancanfield/Documents/Projects/race_log
 referencing==0.37.0
 requests==2.32.5
 rpds-py==0.27.1

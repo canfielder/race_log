@@ -19,7 +19,7 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
+        "official_time": "00:31:30",
         "elevation_gain": null,
         "elevation_loss": null,
         "elevation_unit": "feet",
@@ -31,7 +31,7 @@
         "notes": ""
     },
     "weather": {
-        "temp": null,
+        "temp": 64,
         "feels_like": null,
         "humidity": null,
         "wind_speed": null,
@@ -39,15 +39,15 @@
         "condition": ""
     },
     "rankings": {
-        "overall_rank": null,
-        "overall_total": null,
-        "group_name": "",
-        "group_rank": null,
-        "group_total": null
+        "overall_rank": 93,
+        "overall_total": 4831,
+        "group_name": "M 25-29",
+        "group_rank": 20,
+        "group_total": 288
     },
     "sources": {
         "original_url": "",
-        "athlinks_url": "",
+        "athlinks_url": "https://www.athlinks.com/event/5989/results/Event/186870/Course/258987/Bib/775",
         "strava_url": [],
         "local_files": [
             "results.html",

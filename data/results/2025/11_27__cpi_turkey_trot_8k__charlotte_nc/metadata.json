@@ -47,7 +47,7 @@
     },
     "sources": {
         "original_url": "https://results.raceroster.com/v3/events/akmduj6sssqnt4bd/race/248637?filter_search=&sort=ageGroup+desc",
-        "athlinks_url": "https://www.athlinks.com/event/5989/results/Event/1128942/Course/2673971/Bib/1728?source=internal",
+        "athlinks_url": "https://www.athlinks.com/event/5989/results/Event/1128942/Course/2673971/Bib/1728",
         "strava_url": [],
         "local_files": [
             "activity.gpx",

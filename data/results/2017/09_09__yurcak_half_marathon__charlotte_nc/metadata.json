@@ -1,34 +1,34 @@
 {
     "race_metadata": {
-        "name": "Uquest Adventure Race",
-        "date": "2014-11-01",
-        "distance_value": null,
-        "distance_unit": "kilometers",
-        "type": "Road",
-        "surface": "Asphalt",
+        "name": "Yurcak Half Marathon",
+        "date": "2017-09-09",
+        "distance_value": 13.1,
+        "distance_unit": "miles",
+        "type": "Trail",
+        "surface": "Trail (Technical)",
         "course_style": "Loop",
-        "start_city": "Charlote",
+        "start_city": "Charlotte",
         "start_state": "NC",
         "end_state": "NC",
         "personal_states_covered": [
             "NC"
         ],
         "location_gps": [
-            35.219579846737126,
-            -80.84276307181337
+            35.270849437529385,
+            -81.00761637831458
         ]
     },
     "results": {
-        "official_time": "02:31:52",
-        "elevation_gain": 273,
-        "elevation_loss": 252,
+        "official_time": "2:19:13",
+        "elevation_gain": 825,
+        "elevation_loss": 868,
         "elevation_unit": "feet",
         "status": "Finished",
         "is_official": false,
-        "is_sanctioned": true,
+        "is_sanctioned": false,
         "team_name": "",
         "personal_legs": [],
-        "notes": "With Chelly."
+        "notes": "2nd Annual"
     },
     "weather": {
         "temp": null,
@@ -49,7 +49,7 @@
         "original_url": "",
         "athlinks_url": "",
         "strava_url": [
-            "https://www.strava.com/activities/214317568/overview"
+            "https://www.strava.com/activities/1175626884/overview"
         ],
         "local_files": [
             "activity.gpx"

@@ -58,6 +58,7 @@ def load_race_history(verbose=False):
                     "Distance": meta.get('distance_value'),
                     "Unit": meta.get('distance_unit'),
                     "Type": meta.get('type'),
+                    "Course Style": meta.get('course_style', "Point-to-Point"),
                     "Surface": meta.get('surface'),
                     "Time": res.get('official_time'),
                     "Elevation": res.get('elevation_gain'),
@@ -66,6 +67,7 @@ def load_race_history(verbose=False):
                     "Lon": meta.get('location_gps')[1] if meta.get('location_gps') else None,
                     "is_official": res.get('is_official', False),
                     "folder_path": str(json_path.parent),
+
                     
                     # New URL fields
                     "athlinks_url": src.get('athlinks_url', None),
@@ -86,7 +88,17 @@ def load_race_history(verbose=False):
             print(f"   Line {e.lineno}, Col {e.colno}: {e.msg}")
             continue
 
-    return pd.DataFrame(history_data)
+    df = pd.DataFrame(history_data)
+
+    if not df.empty:
+            # --- THE NULL FIX ---
+            # Force numeric conversion and fill NaNs with 0 for metrics
+            cols_to_fix = ["Distance", "Elevation", "Lat", "Lon"]
+            for col in cols_to_fix:
+                if col in df.columns:
+                    df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
+    
+    return df
 
 
 @st.cache_data
@@ -164,3 +176,41 @@ def load_map_config():
     config_path = CONFIG_DIR / "map_style.json"
     with open(config_path, "r") as f:
         return json.load(f)
+
+
+@st.cache_data
+def get_all_relay_legs(folder_path):
+    """
+    Parses all .gpx files in the folder and returns a list of 
+    (points_list, label_string) tuples.
+    """
+    relay_data = []
+    
+    # Get all .gpx files and sort them to ensure consistent ordering
+    files = sorted([f for f in os.listdir(folder_path) if f.endswith('.gpx')])
+    
+    for file in files:
+        file_path = os.path.join(folder_path, file)
+        
+        # Parse GPX
+        with open(file_path, 'r') as gpx_file:
+            gpx = gpxpy.parse(gpx_file)
+            points = []
+            for track in gpx.tracks:
+                for segment in track.segments:
+                    for point in segment.points:
+                        points.append((point.latitude, point.longitude))
+        
+        # Create a clean label from the filename (e.g., 'leg_01.gpx' -> 'Leg 01')
+        label = file.replace('.gpx', '').replace('_', ' ').title()
+        
+        relay_data.append((points, label))
+        
+    return relay_data
+
+
+def get_filtered_data(df, state_filter, type_filter, year_range):
+    mask = df['Year'].between(year_range[0], year_range[1])
+    if state_filter: mask &= df['State'].isin(state_filter)
+    if type_filter: mask &= df['Type'].isin(type_filter)
+    return df[mask].sort_values(by=['Date', 'Name'], ascending=False)

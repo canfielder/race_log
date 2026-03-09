@@ -2,8 +2,8 @@
     "race_metadata": {
         "name": "Manchester Road Race",
         "date": "2008-11-27",
-        "distance_value": null,
-        "distance_unit": "kilometers",
+        "distance_value": 4.737,
+        "distance_unit": "miles",
         "type": "Road",
         "surface": "Asphalt",
         "course_style": "Loop",
@@ -14,8 +14,8 @@
             "CT"
         ],
         "location_gps": [
-            0.0,
-            0.0
+            41.769187736700424,
+            -72.52066616634116
         ]
     },
     "results": {

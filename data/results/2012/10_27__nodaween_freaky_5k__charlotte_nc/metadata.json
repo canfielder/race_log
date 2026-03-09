@@ -28,7 +28,7 @@
         "is_sanctioned": true,
         "team_name": "",
         "personal_legs": [],
-        "notes": ""
+        "notes": "GPS elevation is clearly incorrect."
     },
     "weather": {
         "temp": 72,
@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "",
         "athlinks_url": "https://www.athlinks.com/event/26365/results/Event/237045/Course/331891/Bib/162",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1286022913"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

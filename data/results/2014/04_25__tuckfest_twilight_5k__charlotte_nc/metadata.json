@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "",
         "athlinks_url": "",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1286333831/overview"
+        ],
         "local_files": [
             "activity.gpx"
         ]
