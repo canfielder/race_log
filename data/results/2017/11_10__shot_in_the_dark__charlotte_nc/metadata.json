@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://whitewater.org/wp-content/uploads/2021/01/2019-2014-Shot-in-the-Dark-10k-Overall.pdf",
         "athlinks_url": "https://www.athlinks.com/event/139737/results/Event/689088/Course/1114700/Bib/4004?source=internal",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1269833048/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.pdf"

@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://sc.milesplit.com/meets/295854-free-tacky-sweater-5k-2017/results/560554/raw",
         "athlinks_url": "https://www.athlinks.com/event/135048/results/Event/694756/Course/1126730/Entry/318245546",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1299066566/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

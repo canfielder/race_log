@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://www.leetiming.com/BEAR5M2015_OA.htm",
         "athlinks_url": "https://www.athlinks.com/event/5788/results/Event/415143/Course/625011/Bib/91",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/342727623/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

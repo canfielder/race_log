@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://resultscui.active.com/participants/36118345",
         "athlinks_url": "https://www.athlinks.com/event/5989/results/Event/828458/Course/1471482/Bib/584",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1978758183/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

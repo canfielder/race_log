@@ -4,13 +4,14 @@ import json
 import pandas as pd
 from streamlit_folium import st_folium
 import folium.plugins as plugins
-from src.data_loader import load_future_races
-from src.paths import PROJECT_ROOT
+from src.data_loader import get_raced_states, load_future_races
+from src.paths import PROJECT_ROOT, RESULTS_DIR
 
 st.set_page_config(page_title="Future Planning", layout="wide")
 
 # --- DATA LOADING ---
 df = load_future_races()
+raced_states = get_raced_states(RESULTS_DIR)
 
 # --- PREPARE FILTER DATA ---
 all_states = sorted(df["State Name"].dropna().unique())
@@ -41,6 +42,9 @@ with st.container(border=True):
 
 # --- SIDEBAR: REGIONS & INSIGHTS ---
 with st.sidebar:
+    st.header("📍 Completed States")
+    exclude_raced = st.sidebar.checkbox("Exclude states I've raced in", value=True)
+
     st.header("📍 Region Filters")
 
     # Initialize session state for states if not present
@@ -51,8 +55,10 @@ with st.sidebar:
     q_col1, q_col2 = st.columns(2)
     if q_col1.button("Select All", use_container_width=True):
         st.session_state.states_filter = all_states
+        st.rerun()
     if q_col2.button("Clear All", use_container_width=True):
         st.session_state.states_filter = []
+        st.rerun()
 
     # Region Grid
     st.write("**Region Shortcuts:**")
@@ -60,15 +66,25 @@ with st.sidebar:
     for i, region_name in enumerate(regions.keys()):
         if r_cols[i % 2].button(region_name, use_container_width=True):
             target_states = regions[region_name]
+            target_states = sorted(target_states)
             # Update filter to only states in that region that exist in the data
             st.session_state.states_filter = [s for s in target_states if s in all_states]
-
+            st.rerun()
+    
     # Individual State Selection (synced via key)
-    states_filter = st.multiselect(
+
+    new_selection = st.multiselect(
         "Individual States:", 
         options=all_states, 
         key="states_filter"
     )
+
+    if new_selection != st.session_state.states_filter:
+            st.session_state.states_filter = new_selection
+            st.rerun() # Refresh so the logic below uses the updated list immediately
+
+    # Use the session state variable for your filtering
+    filter_list = st.session_state.states_filter
     
     st.divider()
 
@@ -77,20 +93,16 @@ with st.sidebar:
     end_num = month_order[month_order['Month'] == end_month]['Month, Number'].values[0]
 
     df_filtered = df[
-        (df["State Name"].isin(states_filter)) &
+        (df["State Name"].isin(filter_list)) &
         (df["Month, Number"] >= start_num) &
         (df["Month, Number"] <= end_num)
     ]
+    if exclude_raced:
+        df_filtered = df_filtered[~df_filtered['State'].str.upper().isin(raced_states)]
 
     # DYNAMIC METRICS
     st.header("📊 Scouting Insights")
     st.metric("Total Races Found", len(df_filtered))
-    
-    if not df_filtered.empty:
-        st.write("**Distance Mix:**")
-        dist_counts = df_filtered['Distance'].value_counts()
-        for dist, count in dist_counts.items():
-            st.progress(count / len(df_filtered), text=f"{dist}: {count}")
 
 # --- MAIN TABS ---
 tab_map, tab_table = st.tabs(["🗺️ Map View", "📊 Table View"])

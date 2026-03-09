@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://rightontimeproductions.blogspot.com/2015/01/2015-hot-chocolate-10k-overall-results.html",
         "athlinks_url": "https://www.athlinks.com/event/6356/results/Event/403378/Course/605487/Bib/891",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/245358435/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

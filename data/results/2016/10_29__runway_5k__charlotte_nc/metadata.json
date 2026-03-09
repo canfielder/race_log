@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://runsignup.com/Race/Results/23740/IndividualResult/NNhk?resultSetId=99769#U5701270",
         "athlinks_url": "https://www.athlinks.com/event/2633/results/Event/529793/Course/787597/Bib/545",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/759384900/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

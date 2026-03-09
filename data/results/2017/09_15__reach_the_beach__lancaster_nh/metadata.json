@@ -48,7 +48,24 @@
     "sources": {
         "original_url": "https://www.webscorer.com/racealldetails?raceid=113267",
         "athlinks_url": "",
-        "strava_url": [],
+        "strava_url": [
+            {
+                "label": "Leg 2",
+                "url": "https://www.strava.com/activities/1185053874/overview"
+            },
+            {
+                "label": "Leg 6",
+                "url": "https://www.strava.com/activities/1185258477/overview"
+            },
+            {
+                "label": "Leg 16",
+                "url": "https://www.strava.com/activities/1186580914/overview"
+            },
+            {
+                "label": "Leg 28",
+                "url": "https://www.strava.com/activities/1185783757/overview"
+            }
+        ],
         "local_files": [
             "leg_02.gpx",
             "leg_06.gpx",

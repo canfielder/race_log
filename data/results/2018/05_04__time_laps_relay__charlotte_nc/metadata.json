@@ -48,15 +48,36 @@
     "sources": {
         "original_url": "https://whitewater.org/wp-content/uploads/2021/02/2019-2014-Time-Laps.pdf",
         "athlinks_url": "",
-        "strava_url": [],
+        "strava_url": [
+            {
+                "label": "Leg 1: South Main and Channel Loop",
+                "url": "https://www.strava.com/activities/1549908043/overview"
+            },
+            {
+                "label": "Leg 2: Bonus Checkpoints",
+                "url": "https://www.strava.com/activities/1550097590/overview"
+            },
+            {
+                "label": "Leg 3: Bonus Checkpoints",
+                "url": "https://www.strava.com/activities/1550100588/overview"
+            },
+            {
+                "label": "Leg 4: South Main and Channel Loop",
+                "url": "https://www.strava.com/activities/1550360551/overview"
+            },
+            {
+                "label": "Leg 5: Distance Challenge #2",
+                "url": "https://www.strava.com/activities/1552010738/overview"
+            }
+        ],
         "local_files": [
             "team_name.txt",
             "results.pdf",
-            "leg_1.gpx",
-            "leg_2.gpx",
-            "leg_3.gpx",
-            "leg_4.gpx",
-            "leg_5.gpx"
+            "leg__20180504T1900__south_main_and_channel.gpx",
+            "leg__20180504T2259__bonus_checkpoints.gpx",
+            "leg__20180504T2330__bonus_checkpoints.gpx",
+            "leg__20180505T0344__south_main_and_channel.gpx",
+            "leg__20180505T1601__distance_challenge_2.gpx"
         ]
     }
 }

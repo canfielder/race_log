@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://results.raceroster.com/v3/events/sydtxfxe9zq5m36a/race/90655/participant/kjwcbvxbx4w3jvxp?filter_search=",
         "athlinks_url": "https://www.athlinks.com/event/40402/results/Event/706089/Course/1159580/Bib/170",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1366795600/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://results.raceroster.com/v3/events/hhtmcybsq6seaewh/race/53343/participant/t7ujc5cj6d7xyjjp?filter_search=canfield",
         "athlinks_url": "https://www.athlinks.com/event/322337/results/Event/879871/Course/1680374/Bib/1558",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/2670324176/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

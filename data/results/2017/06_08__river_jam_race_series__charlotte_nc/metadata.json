@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://www.strava.com/activities/1027534306",
         "athlinks_url": "",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1027534306/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.pdf"

@@ -46,9 +46,11 @@
         "group_total": null
     },
     "sources": {
-        "original_url": "https://www.strava.com/activities/519791095",
+        "original_url": "",
         "athlinks_url": "",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/519791095/overview"
+        ],
         "local_files": [
             "activity.gpx"
         ]

@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://runsignup.com/Race/Results/48497/IndividualResult/PtZq?resultSetId=84019#U5701270",
         "athlinks_url": "https://www.athlinks.com/event/113016/results/Event/646222/Course/1007886/Bib/238",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1029736421/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

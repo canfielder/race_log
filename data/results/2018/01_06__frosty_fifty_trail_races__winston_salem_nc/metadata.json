@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://runsignup.com/Race/Results/25800/IndividualResult/PdKx?resultSetId=106252#U12691427,U5701270",
         "athlinks_url": "https://www.athlinks.com/event/47158/results/Event/683967/Course/1101004/Bib/127",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1344209271/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

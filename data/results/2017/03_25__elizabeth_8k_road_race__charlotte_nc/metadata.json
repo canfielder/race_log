@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://jonesracingcompany.com/2017-results/elizabeth8k/",
         "athlinks_url": "https://www.athlinks.com/event/19840/results/Event/624998/Course/959200/Bib/97",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/913636443/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

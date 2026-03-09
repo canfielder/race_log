@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://runsignup.com/Race/Results/17157/IndividualResult/FTgB?resultSetId=137143#U5701270",
         "athlinks_url": "https://www.athlinks.com/event/301682/results/Event/825280/Course/1459217/Bib/259",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1956906939/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

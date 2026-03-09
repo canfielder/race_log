@@ -54,7 +54,7 @@ df_map_sorted = df_filtered.sort_values(by=['Date', 'Name'], ascending=False)
 st.sidebar.markdown("---")
 st.sidebar.header("Map Settings")
 race_display_map = {f"{row['Name']} ({row['Year']})": row['folder_path'] for _, row in df_map_sorted.iterrows()}
-selected_display = st.sidebar.selectbox("Select a race for GPS view", ["None"] + list(race_display_map.keys()))
+selected_display = st.sidebar.selectbox("Select a race for GPS view", ["None"] + sorted(race_display_map.keys()))
 show_state_highlights = st.sidebar.checkbox("Highlight Completed States", value=(selected_display == "None"))
 
 tab_map, tab_details = st.tabs(["🗺️ Interactive Map", "📊 Detailed Results"])
@@ -74,14 +74,6 @@ with tab_map:
         gpx_files = list(pathlib.Path(target_path).glob("*.gpx"))
         is_relay = len(gpx_files) > 1
 
-        # DEBUGGING: Inspect how the app is classifying the race
-        st.sidebar.markdown("---")
-        st.sidebar.subheader("DEBUG: Race Metadata")
-        st.sidebar.write(f"Number of GPX Files: {len(gpx_files):,}")
-        st.sidebar.write(f"Is Relay Flag: {'relay' in str(res.get('Type', '')).lower()}")
-
-        # is_relay = "relay" in str(res.get('Type', '')).lower()
-    
     col_map, col_stats = st.columns([3, 1])
 
     with col_map:

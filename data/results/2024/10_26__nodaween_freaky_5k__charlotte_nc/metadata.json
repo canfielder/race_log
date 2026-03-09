@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://d368g9lw5ileu7.cloudfront.net/races/results_bgimspgncz4qfwlyos1bvfvtiduj.pdf",
         "athlinks_url": "https://www.athlinks.com/event/59751/results/Event/1094877/Course/2532330/Bib/655",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/12752275704/overview"
+        ],
         "local_files": [
             "results.pdf",
             "activity.gpx"

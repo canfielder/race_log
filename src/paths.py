@@ -19,8 +19,18 @@ def find_project_root(sentinel_files=None):
     return current_path.parent.parent
 
 # Define global constants
-PROJECT_ROOT = find_project_root()
+# PROJECT_ROOT = find_project_root()
+PROJECT_ROOT = pathlib.Path(__file__).resolve().parent.parent
+
 CONFIG_DIR = PROJECT_ROOT / "config"
 DATA_DIR = PROJECT_ROOT / "data"
 RESULTS_DIR = DATA_DIR / "results"
 RAW_DIR = DATA_DIR / "raw"
+
+
+def validate_data_dir():
+    """Checks if the expected data subdirectories exist."""
+    required_dirs = [DATA_DIR, RESULTS_DIR, RAW_DIR]
+    for d in required_dirs:
+        if not d.exists():
+            raise FileNotFoundError(f"Missing required directory: {d}")

@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://me.milesplit.com/meets/323615-york-four-on-the-4th-2018/results/598365/raw#",
         "athlinks_url": "https://www.athlinks.com/event/39702/results/Event/747601/Course/1261598/Bib/268",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1680199013/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

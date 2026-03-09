@@ -1,10 +1,13 @@
 import streamlit as st
 from src.data_loader import load_race_history
-from src.paths import PROJECT_ROOT
+from src.paths import validate_data_dir
 
-st.set_page_config(page_title="Race Engine", layout="wide")
+# Validate data directories are available
+validate_data_dir()
 
-st.title("🏃 Personal Race Engine")
+st.set_page_config(page_title="Race Records", layout="wide")
+
+st.title("🏃 Personal Race Records")
 st.markdown("---")
 
 # Load history with a safety check

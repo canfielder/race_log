@@ -48,7 +48,9 @@
     "sources": {
         "original_url": "https://ultrasignup.com/results_event.aspx?did=47097#id1062732",
         "athlinks_url": "https://www.athlinks.com/event/225026/results/Event/695940/Course/1129281/Entry/318235891",
-        "strava_url": [],
+        "strava_url": [
+            "https://www.strava.com/activities/1153202710/overview"
+        ],
         "local_files": [
             "activity.gpx",
             "results.html",

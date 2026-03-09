@@ -20,13 +20,13 @@ TF_API_KEY = os.getenv("THUNDERFOREST_API_KEY")
 @st.cache_data
 def load_future_races():
     # Use the RAW_DIR imported from src.paths
-    path = RAW_DIR / 'possible_races.xlsx'
+    path = RAW_DIR / 'possible_races.csv'
     
     if not path.exists():
         st.error(f"Could not find spreadsheet at {path}")
         return pd.DataFrame()
         
-    return pd.read_excel(path, sheet_name="races")
+    return pd.read_csv(path)
 
 
 @st.cache_data
@@ -214,3 +214,20 @@ def get_filtered_data(df, state_filter, type_filter, year_range):
     if state_filter: mask &= df['State'].isin(state_filter)
     if type_filter: mask &= df['Type'].isin(type_filter)
     return df[mask].sort_values(by=['Date', 'Name'], ascending=False)
+
+
+def get_raced_states(results_dir):
+    """Scans all past race metadata to return a unique set of states."""
+    raced_states = set()
+    for meta_file in results_dir.rglob("metadata.json"):
+        try:
+            with open(meta_file, 'r') as f:
+                data = json.load(f)
+                # Navigate into the nested 'race_metadata' dictionary
+                meta = data.get('race_metadata', {})
+                state = meta.get('start_state', '').strip().upper()
+                if state:
+                    raced_states.add(state)
+        except (json.JSONDecodeError, AttributeError):
+            continue
+    return raced_states
