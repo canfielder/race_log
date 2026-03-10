@@ -9,16 +9,16 @@ from src.paths import PROJECT_ROOT, RESULTS_DIR
 
 st.set_page_config(page_title="Future Planning", layout="wide")
 
-# --- DATA LOADING ---
+
+#### CONFIG & DATA
+
 df = load_future_races()
 raced_states = get_raced_states(RESULTS_DIR)
 
-# --- PREPARE FILTER DATA ---
 all_states = sorted(df["State Name"].dropna().unique())
 month_order = df[['Month', 'Month, Number']].drop_duplicates().sort_values('Month, Number')
 month_list = month_order['Month'].tolist()
 
-# Load regions from config
 regions_path = PROJECT_ROOT / "config" / "regions.json"
 try:
     with open(regions_path, "r") as f:
@@ -27,10 +27,11 @@ except FileNotFoundError:
     regions = {}
     st.error(f"Region config not found at {regions_path}")
 
-# --- TOP FILTER SECTION ---
+
+#### SEASON FILTER
+
 st.title("📅 Future Race Scouting")
 
-# Season Slider above the tabs
 with st.container(border=True):
     st.write("### 🗓️ Select Your Racing Season")
     start_month, end_month = st.select_slider(
@@ -40,18 +41,19 @@ with st.container(border=True):
         label_visibility="collapsed"
     )
 
-# --- SIDEBAR: REGIONS & INSIGHTS ---
+
+#### SIDEBAR
+
 with st.sidebar:
     st.header("📍 Completed States")
     exclude_raced = st.sidebar.checkbox("Exclude states I've raced in", value=True)
 
     st.header("📍 Region Filters")
 
-    # Initialize session state for states if not present
     if "states_filter" not in st.session_state:
         st.session_state.states_filter = all_states
 
-    # Bulk Select Buttons
+    # Bulk select buttons
     q_col1, q_col2 = st.columns(2)
     if q_col1.button("Select All", use_container_width=True):
         st.session_state.states_filter = all_states
@@ -60,35 +62,25 @@ with st.sidebar:
         st.session_state.states_filter = []
         st.rerun()
 
-    # Region Grid
+    # Region shortcut buttons
     st.write("**Region Shortcuts:**")
     r_cols = st.columns(2)
     for i, region_name in enumerate(regions.keys()):
         if r_cols[i % 2].button(region_name, use_container_width=True):
-            target_states = regions[region_name]
-            target_states = sorted(target_states)
-            # Update filter to only states in that region that exist in the data
+            target_states = sorted(regions[region_name])
             st.session_state.states_filter = [s for s in target_states if s in all_states]
             st.rerun()
-    
-    # Individual State Selection (synced via key)
 
-    new_selection = st.multiselect(
-        "Individual States:", 
-        options=all_states, 
-        key="states_filter"
-    )
-
+    new_selection = st.multiselect("Individual States:", options=all_states, key="states_filter")
     if new_selection != st.session_state.states_filter:
-            st.session_state.states_filter = new_selection
-            st.rerun() # Refresh so the logic below uses the updated list immediately
+        st.session_state.states_filter = new_selection
+        st.rerun()
 
-    # Use the session state variable for your filtering
     filter_list = st.session_state.states_filter
-    
+
     st.divider()
 
-    # --- FILTER LOGIC ---
+    # FILTER LOGIC
     start_num = month_order[month_order['Month'] == start_month]['Month, Number'].values[0]
     end_num = month_order[month_order['Month'] == end_month]['Month, Number'].values[0]
 
@@ -100,24 +92,25 @@ with st.sidebar:
     if exclude_raced:
         df_filtered = df_filtered[~df_filtered['State'].str.upper().isin(raced_states)]
 
-    # DYNAMIC METRICS
+    # SCOUTING INSIGHTS
     st.header("📊 Scouting Insights")
     st.metric("Total Races Found", len(df_filtered))
 
-# --- MAIN TABS ---
+
+#### TAB — MAP VIEW
+
 tab_map, tab_table = st.tabs(["🗺️ Map View", "📊 Table View"])
 
 with tab_map:
     if df_filtered.empty:
         st.warning("No races match your current filters.")
-        map_center = [35.2271, -80.8431] # Default to Charlotte
+        map_center = [35.2271, -80.8431]
     else:
         map_center = [df_filtered["Latitude"].mean(), df_filtered["Longitude"].mean()]
 
     m = folium.Map(location=map_center, zoom_start=6)
 
     for _, row in df_filtered.iterrows():
-        # Clean tooltip with Name, Month, and Location
         msg_tooltip = f"""
             <b>{row['Name']}</b><br>
             📅 {row['Month']}<br>
@@ -136,6 +129,9 @@ with tab_map:
     plugins.Fullscreen().add_to(m)
     st_folium(m, width=1200, height=600, returned_objects=[])
 
+
+#### TAB — TABLE VIEW
+
 with tab_table:
     st.subheader("Scouting Details")
     st.dataframe(
@@ -150,4 +146,3 @@ with tab_table:
             "Month": st.column_config.Column("Race Month", width="small")
         }
     )
-    

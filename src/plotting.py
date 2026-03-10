@@ -112,6 +112,26 @@ def apply_state_highlights(m, geo_url, palette, completed_states):
         ).add_to(m)
 
 
+def get_popup(row, show=False):
+    unit_map = {"miles": "mi", "mile": "mi", "kilometers": "km", "kilometer": "km"}
+    unit = unit_map.get(str(row.get('Unit', '')).lower(), row.get('Unit', ''))
+
+    raw_dist = row.get('Distance', '')
+    dist = int(raw_dist) if isinstance(raw_dist, float) and raw_dist % 1 == 0 else raw_dist
+
+    location_str = ', '.join(filter(None, [row.get('City'), row.get('State')]))
+
+    html = f"""
+        <div style="font-family: sans-serif; min-width: 140px;">
+            <b>{row.get('Name')}</b><br>
+            📅 {row['Date'].strftime('%B %d, %Y')}<br>
+            📍 {location_str}<br>
+            📏 {dist} {unit}
+        </div>
+    """
+    return folium.Popup(html, max_width=200, show=show)
+
+
 def apply_map_styles(m, palette):
     cluster_css = get_cluster_css(palette)
     marker_style = get_marker_css(palette)

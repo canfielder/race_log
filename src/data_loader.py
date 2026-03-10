@@ -62,6 +62,7 @@ def load_race_history(verbose=False):
                     "Surface": meta.get('surface'),
                     "Time": res.get('official_time'),
                     "Elevation": res.get('elevation_gain'),
+                    "City": meta.get('start_city'),
                     "State": meta.get('start_state'),
                     "Lat": meta.get('location_gps')[0] if meta.get('location_gps') else None,
                     "Lon": meta.get('location_gps')[1] if meta.get('location_gps') else None,
