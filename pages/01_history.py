@@ -166,14 +166,17 @@ with tab_map:
 
         # RENDER & CLICK HANDLER
         # Tooltip text matches race_display_map keys, so it directly identifies the clicked race
+        # Only restore saved viewport in overview/preview mode; in full race view
+        # let fit_bounds() zoom the map to the GPS track naturally.
+        _restore_viewport = selected_display == "None"
         map_output = st_folium(
             m,
             width="100%",
             height=600,
             key="history_map",
             returned_objects=["last_object_clicked_tooltip", "center", "zoom"],
-            center=st.session_state.map_center,
-            zoom=st.session_state.map_zoom,
+            center=st.session_state.map_center if _restore_viewport else None,
+            zoom=st.session_state.map_zoom if _restore_viewport else None,
         )
 
         clicked = map_output.get("last_object_clicked_tooltip") if map_output else None
