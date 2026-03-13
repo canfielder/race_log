@@ -46,6 +46,10 @@ if "previewed_race" not in st.session_state:
     st.session_state.previewed_race = None
 if "_race_navigation" not in st.session_state:
     st.session_state._race_navigation = "None"
+if "map_center" not in st.session_state:
+    st.session_state.map_center = None
+if "map_zoom" not in st.session_state:
+    st.session_state.map_zoom = None
 
 
 #### YEAR FILTER
@@ -162,10 +166,26 @@ with tab_map:
 
         # RENDER & CLICK HANDLER
         # Tooltip text matches race_display_map keys, so it directly identifies the clicked race
-        map_output = st_folium(m, width="100%", height=600, key="history_map", returned_objects=["last_object_clicked_tooltip"])
+        map_output = st_folium(
+            m,
+            width="100%",
+            height=600,
+            key="history_map",
+            returned_objects=["last_object_clicked_tooltip", "center", "zoom"],
+            center=st.session_state.map_center,
+            zoom=st.session_state.map_zoom,
+        )
 
         clicked = map_output.get("last_object_clicked_tooltip") if map_output else None
         if clicked and clicked in race_display_map:
+            # Save viewport so the rerun restores the user's current position
+            raw_center = map_output.get("center")
+            if raw_center:
+                st.session_state.map_center = [raw_center["lat"], raw_center["lng"]]
+            raw_zoom = map_output.get("zoom")
+            if raw_zoom is not None:
+                st.session_state.map_zoom = raw_zoom
+
             if selected_display == "None":
                 # Overview mode: first click opens the preview panel
                 if clicked != st.session_state.previewed_race:
