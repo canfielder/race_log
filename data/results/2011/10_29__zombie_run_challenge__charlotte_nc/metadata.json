@@ -19,7 +19,7 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
+        "official_time": "",
         "elevation_gain": null,
         "elevation_loss": null,
         "elevation_unit": "feet",
@@ -28,7 +28,7 @@
         "is_sanctioned": true,
         "team_name": "",
         "personal_legs": [],
-        "notes": "With Brady."
+        "notes": "With Brady. Untimed fun run — no official results."
     },
     "weather": {
         "temp": null,

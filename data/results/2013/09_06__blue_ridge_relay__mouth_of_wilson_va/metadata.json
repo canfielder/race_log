@@ -19,7 +19,7 @@
         ]
     },
     "results": {
-        "official_time": "00:00:00",
+        "official_time": "",
         "elevation_gain": null,
         "elevation_loss": null,
         "elevation_unit": "feet",
@@ -28,7 +28,7 @@
         "is_sanctioned": true,
         "team_name": "This Mtn Goat Broke",
         "personal_legs": [19, 30, 32],
-        "notes": ""
+        "notes": "Team relay — official_time tracks team finish, not individual legs. Team time unrecoverable."
     },
     "weather": {
         "temp": null,
