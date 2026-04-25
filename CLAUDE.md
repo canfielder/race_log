@@ -45,7 +45,24 @@ scripts/            # Utility scripts (generate_metadata.py)
 
 ## Data Format
 
-- Race results are JSON files under `data/results/` with keys: `race_metadata`, `results`, `sources`
+Race results live under `data/results/YYYY/` in per-race folders named:
+
+```
+MM_DD__race_name_in_snake_case__city_state
+```
+
+Each folder contains `metadata.json` plus supporting files. `activity.gpx` is always included (drives map visualization). For results, prefer whatever native format the race director provides (CSV, TXT, PDF). Fall back to saving the results page as HTML or a screenshot only when no structured file is available.
+
+The `metadata.json` schema has five top-level keys:
+
+```
+race_metadata   name, date, distance, type, surface, course_style, city/state, GPS coords
+results         official_time, elevation_gain/loss, status, is_official, is_sanctioned, notes
+weather         temp, feels_like, humidity, wind_speed, wind_direction, condition
+rankings        overall_rank, overall_total, group_name, group_rank, group_total
+sources         original_url, athlinks_url, strava_url (string or array), local_files
+```
+
 - Future/possible races are in `data/raw/possible_races.csv`
 - Environment variable `THUNDERFOREST_API_KEY` is required for map tiles (stored in `.env`)
 
