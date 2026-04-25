@@ -1,11 +1,10 @@
 import folium
+import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-from src.ui_utils import (
-    get_cluster_css,
-    get_marker_css
-)
+from src.pace import format_pace
+from src.ui_utils import get_cluster_css, get_marker_css
 
 def plot_elevation_profile(elev_df, y_bounds, map_cfg, PALETTE):
     """Handles the rendering of the elevation Plotly chart."""
@@ -137,3 +136,153 @@ def apply_map_styles(m, palette):
     marker_style = get_marker_css(palette)
     m.get_root().header.add_child(folium.Element(cluster_css))
     m.get_root().header.add_child(folium.Element(marker_style))
+
+
+# Color assignment for each race type used across analytics charts.
+_TYPE_COLORS: dict[str, str] = {
+    "Trail": "spice",
+    "Road": "dark_cyan",
+    "Relay": "caramel",
+    "XC": "pearl_aqua",
+    "Track": "vanilla",
+    "Gravel": "iron",
+}
+
+
+def plot_pace_over_time(
+    df: pd.DataFrame,
+    palette: dict,
+    show_gap: bool = False,
+) -> None:
+    """Scatter plot of pace (or GAP) over time, one dot per race, colored by type.
+
+    Y-axis is inverted so faster (lower) paces appear higher on the chart.
+
+    Args:
+        df: Race history DataFrame with Date, Pace, GAP, Type, Name,
+            Distance, Unit, and Time columns.
+        palette: Color palette dict from map_style.json.
+        show_gap: If True, plot GAP instead of raw pace.
+    """
+    pace_col = "GAP" if show_gap else "Pace"
+    y_label = "GAP (min/mi)" if show_gap else "Pace (min/mi)"
+
+    df_valid = df[df[pace_col].notna()].copy()
+    # Store pace in seconds for y-axis so ticks can be formatted as MM:SS.
+    df_valid["_pace_sec"] = df_valid[pace_col] * 60
+    df_valid["_pace_fmt"] = df_valid[pace_col].apply(format_pace)
+
+    fig = go.Figure()
+
+    for race_type, group in df_valid.groupby("Type"):
+        color_key = _TYPE_COLORS.get(race_type, "orange")
+        fig.add_trace(
+            go.Scatter(
+                x=group["Date"],
+                y=group["_pace_sec"],
+                mode="markers",
+                name=race_type,
+                marker=dict(color=palette[color_key], size=9, opacity=0.85),
+                customdata=group[
+                    ["Name", "Distance", "Unit", "Time", "_pace_fmt"]
+                ].values,
+                hovertemplate=(
+                    "<b>%{customdata[0]}</b><br>"
+                    "%{x|%b %d, %Y}<br>"
+                    "%{customdata[1]} %{customdata[2]}<br>"
+                    "Time: %{customdata[3]}<br>"
+                    f"{y_label}: %{{customdata[4]}}"
+                    "<extra></extra>"
+                ),
+            )
+        )
+
+    # Build whole-minute tick labels across the data range.
+    tickvals, ticktext = [], []
+    if not df_valid.empty:
+        tick_start = int(df_valid["_pace_sec"].min()) // 60
+        tick_end = int(df_valid["_pace_sec"].max()) // 60 + 1
+        tickvals = [m * 60 for m in range(tick_start, tick_end + 1)]
+        ticktext = [f"{m}:00" for m in range(tick_start, tick_end + 1)]
+
+    fig.update_layout(
+        height=420,
+        margin=dict(l=0, r=0, t=30, b=0),
+        xaxis=dict(showgrid=False),
+        yaxis=dict(
+            tickvals=tickvals,
+            ticktext=ticktext,
+            # Invert so faster (lower) pace appears higher — "up = better".
+            autorange="reversed",
+            showgrid=True,
+            gridcolor="rgba(0, 18, 25, 0.1)",
+            zeroline=False,
+            title=y_label,
+        ),
+        plot_bgcolor="rgba(0,0,0,0)",
+        paper_bgcolor="rgba(0,0,0,0)",
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="left", x=0),
+        hovermode="closest",
+    )
+
+    st.plotly_chart(fig, use_container_width=True, config={"displayModeBar": False})
+
+
+def plot_volume_by_year(df_volume: pd.DataFrame, palette: dict) -> None:
+    """Dual-measure chart: total miles as bars, race count as a line overlay.
+
+    Args:
+        df_volume: DataFrame with Year (str), Races, Miles columns
+            from analytics.get_volume_by_year().
+        palette: Color palette dict from map_style.json.
+    """
+    fig = go.Figure()
+
+    fig.add_trace(
+        go.Bar(
+            x=df_volume["Year"],
+            y=df_volume["Miles"],
+            name="Total Miles",
+            marker_color=palette["dark_teal"],
+            opacity=0.85,
+            hovertemplate="%{x}: %{y:,.0f} mi<extra></extra>",
+            yaxis="y1",
+        )
+    )
+
+    fig.add_trace(
+        go.Scatter(
+            x=df_volume["Year"],
+            y=df_volume["Races"],
+            name="Race Count",
+            mode="lines+markers",
+            line=dict(color=palette["orange"], width=2),
+            marker=dict(size=8),
+            hovertemplate="%{x}: %{y} races<extra></extra>",
+            yaxis="y2",
+        )
+    )
+
+    fig.update_layout(
+        height=380,
+        margin=dict(l=0, r=0, t=30, b=0),
+        xaxis=dict(showgrid=False, type="category"),
+        yaxis=dict(
+            title="Total Miles",
+            showgrid=True,
+            gridcolor="rgba(0, 18, 25, 0.1)",
+            zeroline=False,
+        ),
+        yaxis2=dict(
+            title="Race Count",
+            overlaying="y",
+            side="right",
+            showgrid=False,
+            zeroline=False,
+        ),
+        plot_bgcolor="rgba(0,0,0,0)",
+        paper_bgcolor="rgba(0,0,0,0)",
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="left", x=0),
+    )
+
+    st.plotly_chart(fig, use_container_width=True, config={"displayModeBar": False})
