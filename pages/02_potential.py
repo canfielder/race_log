@@ -16,8 +16,13 @@ df = load_future_races()
 raced_states = get_raced_states(RESULTS_DIR)
 
 all_states = sorted(df["State Name"].dropna().unique())
-month_order = df[['Month', 'Month, Number']].drop_duplicates().sort_values('Month, Number')
-month_list = month_order['Month'].tolist()
+
+_MONTH_ORDER = [
+    "January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December",
+]
+df["Month Number"] = df["Month Name"].map({m: i + 1 for i, m in enumerate(_MONTH_ORDER)})
+month_list = [m for m in _MONTH_ORDER if m in df["Month Name"].values]
 
 regions_path = PROJECT_ROOT / "config" / "regions.json"
 try:
@@ -81,13 +86,13 @@ with st.sidebar:
     st.divider()
 
     # FILTER LOGIC
-    start_num = month_order[month_order['Month'] == start_month]['Month, Number'].values[0]
-    end_num = month_order[month_order['Month'] == end_month]['Month, Number'].values[0]
+    start_num = _MONTH_ORDER.index(start_month) + 1
+    end_num = _MONTH_ORDER.index(end_month) + 1
 
     df_filtered = df[
         (df["State Name"].isin(filter_list)) &
-        (df["Month, Number"] >= start_num) &
-        (df["Month, Number"] <= end_num)
+        (df["Month Number"] >= start_num) &
+        (df["Month Number"] <= end_num)
     ]
     if exclude_raced:
         df_filtered = df_filtered[~df_filtered['State'].str.upper().isin(raced_states)]
@@ -113,9 +118,9 @@ with tab_map:
     for _, row in df_filtered.iterrows():
         msg_tooltip = f"""
             <b>{row['Name']}</b><br>
-            📅 {row['Month']}<br>
+            📅 {row['Month Name']}<br>
             📍 {row['Town']}, {row['State Name']}<br>
-            📏 {row['Distance']}
+            📏 {row['Distances Available']}
         """
         msg_popup = msg_tooltip + f"<br>🔗 <a href='{row['Link']}' target='_blank'>Website</a>"
 
@@ -135,14 +140,14 @@ with tab_map:
 with tab_table:
     st.subheader("Scouting Details")
     st.dataframe(
-        df_filtered.sort_values(by=["Month, Number", "State Name"]),
+        df_filtered.sort_values(by=["Month Number", "State Name"]),
         use_container_width=True,
         hide_index=True,
         column_config={
             "Link": st.column_config.LinkColumn("Race Website"),
-            "Month, Number": None,
+            "Month Number": None,
             "Latitude": None,
             "Longitude": None,
-            "Month": st.column_config.Column("Race Month", width="small")
+            "Month Name": st.column_config.Column("Race Month", width="small"),
         }
     )
