@@ -1,3 +1,4 @@
+import math
 import streamlit as st
 import folium
 import json
@@ -9,12 +10,30 @@ from src.paths import PROJECT_ROOT, RESULTS_DIR
 
 st.set_page_config(page_title="Future Planning", layout="wide")
 
+_HOME_LAT = 35.2271   # Charlotte, NC
+_HOME_LON = -80.8431
+_AVG_SPEED_MPH = 55
+
+
+def _drive_time_hrs(lat: float, lon: float) -> float:
+    """Estimate drive time from Charlotte using straight-line haversine distance."""
+    R = 3958.8
+    phi1, phi2 = math.radians(_HOME_LAT), math.radians(lat)
+    dphi = math.radians(lat - _HOME_LAT)
+    dlambda = math.radians(lon - _HOME_LON)
+    a = math.sin(dphi / 2) ** 2 + math.cos(phi1) * math.cos(phi2) * math.sin(dlambda / 2) ** 2
+    miles = R * 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+    return miles / _AVG_SPEED_MPH
+
 
 #### CONFIG & DATA
 
 df = load_future_races()
 df["Top Pick"] = df["Top Pick"].apply(
     lambda v: str(v).strip().lower() in ("true", "yes", "1", "x")
+)
+df["Drive Time (hrs)"] = df.apply(
+    lambda r: _drive_time_hrs(r["Latitude"], r["Longitude"]), axis=1
 )
 raced_states = get_raced_states(RESULTS_DIR)
 
@@ -130,7 +149,8 @@ with tab_map:
             <b>{row['Name']}{top_pick_badge}</b><br>
             📅 {row['Month Name']}<br>
             📍 {row['Town']}, {row['State Name']}<br>
-            📏 {row['Distances Available']}
+            📏 {row['Distances Available']}<br>
+            🚗 ~{row['Drive Time (hrs)']:.1f} hrs from Charlotte
         """
         msg_popup = msg_tooltip + f"<br>🔗 <a href='{row['Link']}' target='_blank'>Website</a>"
 
@@ -160,5 +180,8 @@ with tab_table:
             "Longitude": None,
             "Month Name": st.column_config.Column("Race Month", width="small"),
             "Top Pick": st.column_config.CheckboxColumn("⭐ Top Pick", width="small"),
+            "Drive Time (hrs)": st.column_config.NumberColumn(
+                "🚗 Drive (hrs)", format="~%.1f hrs", width="small"
+            ),
         }
     )
