@@ -1,3 +1,4 @@
+import logging
 import os
 import json
 import pandas as pd
@@ -5,11 +6,15 @@ import pathlib
 import streamlit as st
 import gpxpy
 from dotenv import load_dotenv
+from pydantic import ValidationError
 
 from src.paths import CONFIG_DIR, RAW_DIR, RESULTS_DIR
+from src.models import RaceRecord
 from src.pace import (
     calculate_climb_density, calculate_elevation_bounds, calculate_paces
 )
+
+logger = logging.getLogger(__name__)
 
 # Load the .env file
 load_dotenv()
@@ -45,43 +50,44 @@ def load_race_history(verbose=False):
         try:
             with open(json_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-            
-                # Extracting nested values
-                meta = data.get('race_metadata', {})
-                res = data.get('results', {})
-                src = data.get('sources', {}) # New source extraction
-                
-                row = {
-                    "Name": meta.get('name'),
-                    "Date": pd.to_datetime(meta.get('date')),
-                    "Year": pd.to_datetime(meta.get('date')).year,
-                    "Distance": meta.get('distance_value'),
-                    "Unit": meta.get('distance_unit'),
-                    "Type": meta.get('type'),
-                    "Course Style": meta.get('course_style', "Point-to-Point"),
-                    "Surface": meta.get('surface'),
-                    "Time": res.get('official_time'),
-                    "Elevation": res.get('elevation_gain'),
-                    "City": meta.get('start_city'),
-                    "State": meta.get('start_state'),
-                    "Lat": meta.get('location_gps')[0] if meta.get('location_gps') else None,
-                    "Lon": meta.get('location_gps')[1] if meta.get('location_gps') else None,
-                    "is_official": res.get('is_official', False),
-                    "folder_path": str(json_path.parent),
 
-                    
-                    # New URL fields
-                    "athlinks_url": src.get('athlinks_url', None),
-                    "original_url": src.get('original_url', None),
-                    "strava_url": src.get('strava_url', None)
-                }
+            try:
+                RaceRecord.model_validate(data)
+            except ValidationError as exc:
+                logger.warning("Schema validation failed for %s\n%s", json_path, exc)
 
-                # Calculate Paces
-                pace, gap = calculate_paces(row)
-                row["Pace"] = pace
-                row["GAP"] = gap
+            # Extracting nested values
+            meta = data.get('race_metadata', {})
+            res = data.get('results', {})
+            src = data.get('sources', {})
 
-                history_data.append(row)
+            row = {
+                "Name": meta.get('name'),
+                "Date": pd.to_datetime(meta.get('date')),
+                "Year": pd.to_datetime(meta.get('date')).year,
+                "Distance": meta.get('distance_value'),
+                "Unit": meta.get('distance_unit'),
+                "Type": meta.get('type'),
+                "Course Style": meta.get('course_style', "Point-to-Point"),
+                "Surface": meta.get('surface'),
+                "Time": res.get('official_time'),
+                "Elevation": res.get('elevation_gain'),
+                "City": meta.get('start_city'),
+                "State": meta.get('start_state'),
+                "Lat": meta.get('location_gps')[0] if meta.get('location_gps') else None,
+                "Lon": meta.get('location_gps')[1] if meta.get('location_gps') else None,
+                "is_official": res.get('is_official', False),
+                "folder_path": str(json_path.parent),
+                "athlinks_url": src.get('athlinks_url', None),
+                "original_url": src.get('original_url', None),
+                "strava_url": src.get('strava_url', None),
+            }
+
+            pace, gap = calculate_paces(row)
+            row["Pace"] = pace
+            row["GAP"] = gap
+
+            history_data.append(row)
 
         except json.JSONDecodeError as e:
             # We always print errors, regardless of verbose level
