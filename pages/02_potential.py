@@ -13,6 +13,9 @@ st.set_page_config(page_title="Future Planning", layout="wide")
 #### CONFIG & DATA
 
 df = load_future_races()
+df["Top Pick"] = df["Top Pick"].apply(
+    lambda v: str(v).strip().lower() in ("true", "yes", "1", "x")
+)
 raced_states = get_raced_states(RESULTS_DIR)
 
 all_states = sorted(df["State Name"].dropna().unique())
@@ -98,8 +101,11 @@ with st.sidebar:
         df_filtered = df_filtered[~df_filtered['State'].str.upper().isin(raced_states)]
 
     # SCOUTING INSIGHTS
+    top_picks_in_view = df_filtered["Top Pick"].sum()
+
     st.header("📊 Scouting Insights")
     st.metric("Total Races Found", len(df_filtered))
+    st.metric("⭐ Top Picks", int(top_picks_in_view))
 
 
 #### TAB — MAP VIEW
@@ -116,8 +122,12 @@ with tab_map:
     m = folium.Map(location=map_center, zoom_start=6)
 
     for _, row in df_filtered.iterrows():
+        is_top_pick = bool(row["Top Pick"])
+        marker_color = "red" if is_top_pick else "blue"
+        top_pick_badge = " ⭐" if is_top_pick else ""
+
         msg_tooltip = f"""
-            <b>{row['Name']}</b><br>
+            <b>{row['Name']}{top_pick_badge}</b><br>
             📅 {row['Month Name']}<br>
             📍 {row['Town']}, {row['State Name']}<br>
             📏 {row['Distances Available']}
@@ -128,7 +138,7 @@ with tab_map:
             location=[row["Latitude"], row["Longitude"]],
             popup=folium.Popup(msg_popup, max_width=300),
             tooltip=msg_tooltip,
-            icon=folium.Icon(color="blue", icon="info-sign")
+            icon=folium.Icon(color=marker_color, icon="info-sign")
         ).add_to(m)
 
     plugins.Fullscreen().add_to(m)
@@ -149,5 +159,6 @@ with tab_table:
             "Latitude": None,
             "Longitude": None,
             "Month Name": st.column_config.Column("Race Month", width="small"),
+            "Top Pick": st.column_config.CheckboxColumn("⭐ Top Pick", width="small"),
         }
     )
