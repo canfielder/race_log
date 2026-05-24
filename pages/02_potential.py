@@ -5,7 +5,9 @@ import json
 import pandas as pd
 from streamlit_folium import st_folium
 import folium.plugins as plugins
-from src.data_loader import get_raced_states, load_future_races
+from folium.plugins import MarkerCluster
+from src.data_loader import get_raced_states, load_future_races, load_map_config
+from src.plotting import apply_map_styles
 from src.paths import PROJECT_ROOT, RESULTS_DIR
 
 st.set_page_config(page_title="Future Planning", layout="wide")
@@ -29,6 +31,7 @@ def _drive_time_hrs(lat: float, lon: float) -> float:
 #### CONFIG & DATA
 
 df = load_future_races()
+PALETTE = load_map_config()["palette"]
 df["Top Pick"] = df["Top Pick"].apply(
     lambda v: str(v).strip().lower() in ("true", "yes", "1", "x")
 )
@@ -147,10 +150,12 @@ with tab_map:
         map_center = [df_filtered["Latitude"].mean(), df_filtered["Longitude"].mean()]
 
     m = folium.Map(location=map_center, zoom_start=6)
+    apply_map_styles(m, PALETTE)
+    cluster = MarkerCluster().add_to(m)
 
     for _, row in df_filtered.iterrows():
         is_top_pick = bool(row["Top Pick"])
-        marker_color = "red" if is_top_pick else "blue"
+        pin_color = PALETTE["orange"] if is_top_pick else PALETTE["dark_teal"]
         top_pick_badge = " ⭐" if is_top_pick else ""
 
         msg_tooltip = f"""
@@ -162,12 +167,22 @@ with tab_map:
         """
         msg_popup = msg_tooltip + f"<br>🔗 <a href='{row['Link']}' target='_blank'>Website</a>"
 
+        icon_html = (
+            f'<div style="display:flex;justify-content:center;align-items:center;'
+            f'width:30px;height:30px;background-color:{pin_color};'
+            f'border:2px solid {PALETTE["ink_black"]};'
+            f'border-radius:50% 50% 50% 0;transform:rotate(-45deg);'
+            f'margin-top:-15px;margin-left:-15px;">'
+            f'<i class="fa fa-person-running" style="transform:rotate(45deg);color:white;font-size:14px;"></i>'
+            f'</div>'
+        )
+
         folium.Marker(
             location=[row["Latitude"], row["Longitude"]],
             popup=folium.Popup(msg_popup, max_width=300),
             tooltip=msg_tooltip,
-            icon=folium.Icon(color=marker_color, icon="info-sign")
-        ).add_to(m)
+            icon=folium.DivIcon(html=icon_html, icon_size=(30, 30), icon_anchor=(15, 30)),
+        ).add_to(cluster)
 
     plugins.Fullscreen().add_to(m)
     st_folium(m, width=1200, height=600, returned_objects=[])
