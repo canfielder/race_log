@@ -75,6 +75,10 @@ with st.sidebar:
     st.header("📍 Completed States")
     exclude_raced = st.sidebar.checkbox("Exclude states I've raced in", value=True)
 
+    st.header("🎯 Race Filters")
+    top_picks_only = st.checkbox("⭐ Top Picks only")
+    lottery_only = st.checkbox("🎟️ Lottery races only")
+
     st.header("📍 Region Filters")
 
     if "states_filter" not in st.session_state:
@@ -118,6 +122,10 @@ with st.sidebar:
     ]
     if exclude_raced:
         df_filtered = df_filtered[~df_filtered['State'].str.upper().isin(raced_states)]
+    if top_picks_only:
+        df_filtered = df_filtered[df_filtered["Top Pick"]]
+    if lottery_only:
+        df_filtered = df_filtered[df_filtered["Lottery"].str.strip().str.lower() == "yes"]
 
     # SCOUTING INSIGHTS
     top_picks_in_view = df_filtered["Top Pick"].sum()
